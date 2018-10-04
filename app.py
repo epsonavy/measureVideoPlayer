@@ -1,10 +1,22 @@
+from selenium import webdriver
+from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
+# enable browser logging
+d = DesiredCapabilities.CHROME
+d['loggingPrefs'] = { 'browser':'ALL', 'level':'INFO' }
+driver = webdriver.Chrome('./chromedriver', service_args=["--verbose", "--log-path=./mylog.log"])
+# load some site
+driver.get('https://dev.gamespot.com/videos/pubgs-new-update-shakes-up-the-desert-map-and-blue/2300-6443547/?debug_video_player=1')
+# print messages
+# for entry in driver.get_log('browser'):
+#     print entry
+
 import csv
 
 # CSV file head title
 myData = []
 myData.append(["From", "To", "Time spent(ms)"])
 
-with open("log.txt") as search:
+with open("mylog.log") as search:
     timestamps = []
     descriptions = []
     for line in search:
@@ -16,7 +28,6 @@ with open("log.txt") as search:
 
             timeString_start = line.find(" : ") + 3
             timeString = line[timeString_start:]
-            #print(timeString)
             timestamps.append(timeString)
 
     for i in range(len(descriptions) - 1):
@@ -30,3 +41,5 @@ with open("log.txt") as search:
            writer.writerows(myData)
 
 print("ALL saved in result.csv file.")
+
+driver.close()

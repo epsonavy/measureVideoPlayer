@@ -1,0 +1,3627 @@
+[1538690206.842][INFO]: [c7729b30b98f601f88fc09d9a40ce68c] COMMAND InitSession {
+   "capabilities": {
+      "alwaysMatch": {
+         "browserName": "chrome",
+         "goog:chromeOptions": {
+            "args": [  ],
+            "extensions": [  ]
+         },
+         "platformName": "any"
+      },
+      "firstMatch": [ {
+
+      } ]
+   },
+   "desiredCapabilities": {
+      "browserName": "chrome",
+      "goog:chromeOptions": {
+         "args": [  ],
+         "extensions": [  ]
+      },
+      "loggingPrefs": {
+         "browser": "ALL",
+         "level": "INFO"
+      },
+      "platform": "ANY",
+      "version": ""
+   }
+}
+[1538690206.842][WARNING]: Ignoring unrecognized log type: level
+[1538690206.844][INFO]: Populating Preferences file: {
+   "alternate_error_pages": {
+      "enabled": false
+   },
+   "autofill": {
+      "enabled": false
+   },
+   "browser": {
+      "check_default_browser": false
+   },
+   "distribution": {
+      "import_bookmarks": false,
+      "import_history": false,
+      "import_search_engine": false,
+      "make_chrome_default_for_user": false,
+      "skip_first_run_ui": true
+   },
+   "dns_prefetching": {
+      "enabled": false
+   },
+   "profile": {
+      "content_settings": {
+         "pattern_pairs": {
+            "https://*,*": {
+               "media-stream": {
+                  "audio": "Default",
+                  "video": "Default"
+               }
+            }
+         }
+      },
+      "default_content_setting_values": {
+         "geolocation": 1
+      },
+      "default_content_settings": {
+         "geolocation": 1,
+         "mouselock": 1,
+         "notifications": 1,
+         "popups": 1,
+         "ppapi-broker": 1
+      },
+      "password_manager_enabled": false
+   },
+   "safebrowsing": {
+      "enabled": false
+   },
+   "search": {
+      "suggest_enabled": false
+   },
+   "translate": {
+      "enabled": false
+   }
+}
+[1538690206.844][INFO]: Populating Local State file: {
+   "background_mode": {
+      "enabled": false
+   },
+   "ssl": {
+      "rev_checking": {
+         "enabled": false
+      }
+   }
+}
+[1538690206.846][INFO]: Launching chrome: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --disable-background-networking --disable-client-side-phishing-detection --disable-default-apps --disable-hang-monitor --disable-popup-blocking --disable-prompt-on-repost --disable-sync --disable-web-resources --enable-automation --enable-logging --force-fieldtrials=SiteIsolationExtensions/Control --ignore-certificate-errors --load-extension=/var/folders/wd/qdxlqqrs67q4jr4n07jx8rknjpxqpf/T/.org.chromium.Chromium.qQvFhB/internal --log-level=0 --metrics-recording-only --no-first-run --password-store=basic --remote-debugging-port=0 --test-type=webdriver --use-mock-keychain --user-data-dir=/var/folders/wd/qdxlqqrs67q4jr4n07jx8rknjpxqpf/T/.org.chromium.Chromium.qaebxE data:,
+
+DevTools listening on ws://127.0.0.1:62596/devtools/browser/c486a6c4-0e38-4897-a6f0-9aeaf77f8244
+[1538690207.108][DEBUG]: DevTools HTTP Request: http://localhost:62596/json/version
+2018-10-04 14:56:48.160 Google Chrome[18566:46688298] Errors logged by ksadmin: KSKeyedPersistentStore store directory does not exist. [com.google.UpdateEngine.CommonErrorDomain:501 - '/Library/Google/GoogleSoftwareUpdate/TicketStore' - 'KSKeyedPersistentStore.m:327']
+KSPersistentTicketStore failed to load tickets. (productID: com.google.Chrome) [com.google.UpdateEngine.CoreErrorDomain:1051 - '/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore'] (KSKeyedPersistentStore store directory does not exist. - '/Library/Google/GoogleSoftwareUpdate/TicketStore' [com.google.UpdateEngine.CommonErrorDomain:501])
+ksadmin cannot access the ticket store:<KSUpdateError:0x7fce65e03c30
+	domain="com.google.UpdateEngine.CoreErrorDomain"
+	code=1051
+	userInfo={
+		function = "-[KSProductKeyedStore(ProtectedMethods) errorForStoreError:productID:message:timeoutMessage:]";
+		date = 2018-10-04 21:56:48 +0000;
+		productids = {(
+			"com.google.Chrome"
+		)};
+		filename = "KSProductKeyedStore.m";
+		line = 102;
+		NSFilePath = "/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore";
+		NSUnderlyingError = <KSError:0x7fce68905e10
+			domain="com.google.UpdateEngine.CommonErrorDomain"
+			code=501
+			userInfo={
+				date = 2018-10-04 21:56:48 +0000;
+				line = 327;
+				filename = "KSKeyedPersistentStore.m";
+				function = "-[KSKeyedPersistentStore(PrivateMethods) validateStorePath]";
+				NSFilePath = "/Library/Google/GoogleSoftwareUpdate/TicketStore";
+				NSLocalizedDescription = "KSKeyedPersistentStore store directory does not exist.";
+			}
+		>;
+		NSLocalizedDescription = "KSPersistentTicketStore failed to load tickets.";
+	}
+>
+[1538690208.205][DEBUG]: DevTools HTTP Response: {
+   "Browser": "Chrome/69.0.3497.100",
+   "Protocol-Version": "1.3",
+   "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+   "V8-Version": "6.9.427.23",
+   "WebKit-Version": "537.36 (@8920e690dd011895672947112477d10d5c8afb09)",
+   "webSocketDebuggerUrl": "ws://localhost:62596/devtools/browser/c486a6c4-0e38-4897-a6f0-9aeaf77f8244"
+}
+
+[1538690208.255][DEBUG]: DevTools HTTP Request: http://localhost:62596/json/version
+[18578:775:1004/145648.300070:ERROR:webthread_impl_for_utility_thread.cc(19)] Not implemented reached in virtual blink::ThreadScheduler *blink::scheduler::WebThreadImplForUtilityThread::Scheduler() const
+[1538690208.307][DEBUG]: DevTools HTTP Response: {
+   "Browser": "Chrome/69.0.3497.100",
+   "Protocol-Version": "1.3",
+   "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+   "V8-Version": "6.9.427.23",
+   "WebKit-Version": "537.36 (@8920e690dd011895672947112477d10d5c8afb09)",
+   "webSocketDebuggerUrl": "ws://localhost:62596/devtools/browser/c486a6c4-0e38-4897-a6f0-9aeaf77f8244"
+}
+
+[1538690208.307][DEBUG]: DevTools HTTP Request: http://localhost:62596/json
+[1538690208.320][DEBUG]: DevTools HTTP Response: [ {
+   "description": "",
+   "devtoolsFrontendUrl": "/devtools/inspector.html?ws=localhost:62596/devtools/page/817A893406CDE7CA8F67EAC8B7C04840",
+   "id": "817A893406CDE7CA8F67EAC8B7C04840",
+   "title": "Chrome Automation Extension",
+   "type": "background_page",
+   "url": "chrome-extension://aapnijgdinlhnhlmodcfapnahmbfebeb/_generated_background_page.html",
+   "webSocketDebuggerUrl": "ws://localhost:62596/devtools/page/817A893406CDE7CA8F67EAC8B7C04840"
+}, {
+   "description": "",
+   "devtoolsFrontendUrl": "/devtools/inspector.html?ws=localhost:62596/devtools/page/CB0C350E676F3960D72056C2D448DB4E",
+   "id": "CB0C350E676F3960D72056C2D448DB4E",
+   "title": "data:,",
+   "type": "page",
+   "url": "data:,",
+   "webSocketDebuggerUrl": "ws://localhost:62596/devtools/page/CB0C350E676F3960D72056C2D448DB4E"
+} ]
+
+[1538690208.320][DEBUG]: DevTools HTTP Request: http://localhost:62596/json
+[1538690208.322][DEBUG]: DevTools HTTP Response: [ {
+   "description": "",
+   "devtoolsFrontendUrl": "/devtools/inspector.html?ws=localhost:62596/devtools/page/817A893406CDE7CA8F67EAC8B7C04840",
+   "id": "817A893406CDE7CA8F67EAC8B7C04840",
+   "title": "Chrome Automation Extension",
+   "type": "background_page",
+   "url": "chrome-extension://aapnijgdinlhnhlmodcfapnahmbfebeb/_generated_background_page.html",
+   "webSocketDebuggerUrl": "ws://localhost:62596/devtools/page/817A893406CDE7CA8F67EAC8B7C04840"
+}, {
+   "description": "",
+   "devtoolsFrontendUrl": "/devtools/inspector.html?ws=localhost:62596/devtools/page/CB0C350E676F3960D72056C2D448DB4E",
+   "id": "CB0C350E676F3960D72056C2D448DB4E",
+   "title": "data:,",
+   "type": "page",
+   "url": "data:,",
+   "webSocketDebuggerUrl": "ws://localhost:62596/devtools/page/CB0C350E676F3960D72056C2D448DB4E"
+} ]
+
+[1538690208.324][INFO]: resolved localhost to ["::1","127.0.0.1"]
+[1538690208.325][DEBUG]: DevTools WebSocket Command: Log.enable (id=1) CB0C350E676F3960D72056C2D448DB4E {
+
+}
+[1538690208.325][DEBUG]: DevTools WebSocket Command: DOM.getDocument (id=2) CB0C350E676F3960D72056C2D448DB4E {
+
+}
+[1538690208.325][DEBUG]: DevTools WebSocket Command: Target.setAutoAttach (id=3) CB0C350E676F3960D72056C2D448DB4E {
+   "autoAttach": true,
+   "waitForDebuggerOnStart": false
+}
+[1538690208.326][DEBUG]: DevTools WebSocket Command: Page.enable (id=4) CB0C350E676F3960D72056C2D448DB4E {
+
+}
+[1538690208.326][DEBUG]: DevTools WebSocket Command: Page.enable (id=5) CB0C350E676F3960D72056C2D448DB4E {
+
+}
+[1538690208.326][DEBUG]: DevTools WebSocket Response: Log.enable (id=1) CB0C350E676F3960D72056C2D448DB4E {
+
+}
+[1538690208.326][DEBUG]: DevTools WebSocket Response: DOM.getDocument (id=2) CB0C350E676F3960D72056C2D448DB4E {
+   "root": {
+      "backendNodeId": 2,
+      "baseURL": "data:,",
+      "childNodeCount": 1,
+      "children": [ {
+         "attributes": [  ],
+         "backendNodeId": 3,
+         "childNodeCount": 2,
+         "children": [ {
+            "attributes": [  ],
+            "backendNodeId": 4,
+            "childNodeCount": 0,
+            "localName": "head",
+            "nodeId": 3,
+            "nodeName": "HEAD",
+            "nodeType": 1,
+            "nodeValue": "",
+            "parentId": 2
+         }, {
+            "attributes": [  ],
+            "backendNodeId": 5,
+            "childNodeCount": 0,
+            "localName": "body",
+            "nodeId": 4,
+            "nodeName": "BODY",
+            "nodeType": 1,
+            "nodeValue": "",
+            "parentId": 2
+         } ],
+         "frameId": "CB0C350E676F3960D72056C2D448DB4E",
+         "localName": "html",
+         "nodeId": 2,
+         "nodeName": "HTML",
+         "nodeType": 1,
+         "nodeValue": "",
+         "parentId": 1
+      } ],
+      "documentURL": "data:,",
+      "localName": "",
+      "nodeId": 1,
+      "nodeName": "#document",
+      "nodeType": 9,
+      "nodeValue": "",
+      "xmlVersion": ""
+   }
+}
+[1538690208.327][DEBUG]: DevTools WebSocket Response: Target.setAutoAttach (id=3) CB0C350E676F3960D72056C2D448DB4E {
+
+}
+[1538690208.327][DEBUG]: DevTools WebSocket Response: Page.enable (id=4) CB0C350E676F3960D72056C2D448DB4E {
+
+}
+[1538690208.327][DEBUG]: DevTools WebSocket Response: Page.enable (id=5) CB0C350E676F3960D72056C2D448DB4E {
+
+}
+[1538690208.327][DEBUG]: DevTools WebSocket Command: Runtime.enable (id=6) CB0C350E676F3960D72056C2D448DB4E {
+
+}
+[1538690208.334][DEBUG]: DevTools WebSocket Event: Runtime.executionContextCreated CB0C350E676F3960D72056C2D448DB4E {
+   "context": {
+      "auxData": {
+         "frameId": "CB0C350E676F3960D72056C2D448DB4E",
+         "isDefault": true
+      },
+      "id": 1,
+      "name": "",
+      "origin": "://"
+   }
+}
+[1538690208.334][DEBUG]: DevTools WebSocket Response: Runtime.enable (id=6) CB0C350E676F3960D72056C2D448DB4E {
+
+}
+[1538690208.334][DEBUG]: DevTools WebSocket Command: Page.enable (id=7) CB0C350E676F3960D72056C2D448DB4E {
+
+}
+[1538690208.334][DEBUG]: DevTools WebSocket Response: Page.enable (id=7) CB0C350E676F3960D72056C2D448DB4E {
+
+}
+[1538690208.334][DEBUG]: DevTools WebSocket Command: Runtime.enable (id=8) CB0C350E676F3960D72056C2D448DB4E {
+
+}
+[1538690208.335][DEBUG]: DevTools WebSocket Response: Runtime.enable (id=8) CB0C350E676F3960D72056C2D448DB4E {
+
+}
+[1538690208.335][DEBUG]: DevTools WebSocket Command: Runtime.evaluate (id=9) CB0C350E676F3960D72056C2D448DB4E {
+   "expression": "(function() { // Copyright (c) 2012 The Chromium Authors. All rights reserved.\n// Use of this source code is governed by a BSD-style license that can be\n// found in the LICENSE file.\n\n/**\n * Enum f...",
+   "returnByValue": true
+}
+[1538690208.341][DEBUG]: DevTools WebSocket Response: Runtime.evaluate (id=9) CB0C350E676F3960D72056C2D448DB4E {
+   "result": {
+      "type": "object",
+      "value": {
+         "status": 0,
+         "value": 1
+      }
+   }
+}
+[1538690208.341][INFO]: [c7729b30b98f601f88fc09d9a40ce68c] RESPONSE InitSession {
+   "acceptInsecureCerts": false,
+   "acceptSslCerts": false,
+   "applicationCacheEnabled": false,
+   "browserConnectionEnabled": false,
+   "browserName": "chrome",
+   "chrome": {
+      "chromedriverVersion": "2.42.591059 (a3d9684d10d61aa0c45f6723b327283be1ebaad8)",
+      "userDataDir": "/var/folders/wd/qdxlqqrs67q4jr4n07jx8rknjpxqpf/T/.org.chromium.Chromium.qaebxE"
+   },
+   "cssSelectorsEnabled": true,
+   "databaseEnabled": false,
+   "goog:chromeOptions": {
+      "debuggerAddress": "localhost:62596"
+   },
+   "handlesAlerts": true,
+   "hasTouchScreen": false,
+   "javascriptEnabled": true,
+   "locationContextEnabled": true,
+   "mobileEmulationEnabled": false,
+   "nativeEvents": true,
+   "networkConnectionEnabled": false,
+   "pageLoadStrategy": "normal",
+   "platform": "Mac OS X",
+   "rotatable": false,
+   "~~~": "..."
+}
+[1538690208.343][INFO]: [c7729b30b98f601f88fc09d9a40ce68c] COMMAND Navigate {
+   "sessionId": "c7729b30b98f601f88fc09d9a40ce68c",
+   "url": "https://dev.gamespot.com/videos/pubgs-new-update-shakes-up-the-desert-map-and-blue/2300-6443547/?debug_video_player=1"
+}
+[1538690208.343][INFO]: Waiting for pending navigations...
+[1538690208.343][DEBUG]: DevTools WebSocket Command: Runtime.evaluate (id=10) CB0C350E676F3960D72056C2D448DB4E {
+   "expression": "1"
+}
+[1538690208.345][DEBUG]: DevTools WebSocket Response: Runtime.evaluate (id=10) CB0C350E676F3960D72056C2D448DB4E {
+   "result": {
+      "description": "1",
+      "type": "number",
+      "value": 1
+   }
+}
+[1538690208.345][DEBUG]: DevTools WebSocket Command: DOM.getDocument (id=11) CB0C350E676F3960D72056C2D448DB4E {
+
+}
+[1538690208.345][DEBUG]: DevTools WebSocket Response: DOM.getDocument (id=11) CB0C350E676F3960D72056C2D448DB4E {
+   "root": {
+      "backendNodeId": 2,
+      "baseURL": "data:,",
+      "childNodeCount": 1,
+      "children": [ {
+         "attributes": [  ],
+         "backendNodeId": 3,
+         "childNodeCount": 2,
+         "children": [ {
+            "attributes": [  ],
+            "backendNodeId": 4,
+            "childNodeCount": 0,
+            "localName": "head",
+            "nodeId": 7,
+            "nodeName": "HEAD",
+            "nodeType": 1,
+            "nodeValue": "",
+            "parentId": 6
+         }, {
+            "attributes": [  ],
+            "backendNodeId": 5,
+            "childNodeCount": 0,
+            "localName": "body",
+            "nodeId": 8,
+            "nodeName": "BODY",
+            "nodeType": 1,
+            "nodeValue": "",
+            "parentId": 6
+         } ],
+         "frameId": "CB0C350E676F3960D72056C2D448DB4E",
+         "localName": "html",
+         "nodeId": 6,
+         "nodeName": "HTML",
+         "nodeType": 1,
+         "nodeValue": "",
+         "parentId": 5
+      } ],
+      "documentURL": "data:,",
+      "localName": "",
+      "nodeId": 5,
+      "nodeName": "#document",
+      "nodeType": 9,
+      "nodeValue": "",
+      "xmlVersion": ""
+   }
+}
+[1538690208.346][DEBUG]: DevTools WebSocket Command: Runtime.evaluate (id=12) CB0C350E676F3960D72056C2D448DB4E {
+   "expression": "var frame = document.createElement('iframe');frame.name = 'chromedriver dummy frame';frame.src = 'about:blank';document.body.appendChild(frame);window.setTimeout(function() {  document.body.removeC..."
+}
+[1538690208.352][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 1,
+   "nodeId": 8
+}
+[1538690208.352][DEBUG]: DevTools WebSocket Event: Page.frameAttached CB0C350E676F3960D72056C2D448DB4E {
+   "frameId": "03BDAB96B10115B17358C90D77383418",
+   "parentFrameId": "CB0C350E676F3960D72056C2D448DB4E",
+   "stack": {
+      "callFrames": [ {
+         "columnNumber": 125,
+         "functionName": "",
+         "lineNumber": 0,
+         "scriptId": "20",
+         "url": ""
+      } ]
+   }
+}
+[1538690208.361][DEBUG]: DevTools WebSocket Event: Page.frameStartedLoading CB0C350E676F3960D72056C2D448DB4E {
+   "frameId": "03BDAB96B10115B17358C90D77383418"
+}
+[1538690208.361][DEBUG]: DevTools WebSocket Event: Page.frameNavigated CB0C350E676F3960D72056C2D448DB4E {
+   "frame": {
+      "id": "03BDAB96B10115B17358C90D77383418",
+      "loaderId": "124ACC7B7DE948C407A6555BF440D61E",
+      "mimeType": "text/html",
+      "name": "chromedriver dummy frame",
+      "parentId": "CB0C350E676F3960D72056C2D448DB4E",
+      "securityOrigin": "://",
+      "url": "about:blank"
+   }
+}
+[1538690208.361][DEBUG]: DevTools WebSocket Event: Runtime.executionContextCreated CB0C350E676F3960D72056C2D448DB4E {
+   "context": {
+      "auxData": {
+         "frameId": "03BDAB96B10115B17358C90D77383418",
+         "isDefault": true
+      },
+      "id": 2,
+      "name": "",
+      "origin": "://"
+   }
+}
+[1538690208.361][DEBUG]: DevTools WebSocket Event: Page.frameStoppedLoading CB0C350E676F3960D72056C2D448DB4E {
+   "frameId": "03BDAB96B10115B17358C90D77383418"
+}
+[1538690208.361][DEBUG]: DevTools WebSocket Response: Runtime.evaluate (id=12) CB0C350E676F3960D72056C2D448DB4E {
+   "result": {
+      "description": "1",
+      "type": "number",
+      "value": 1
+   }
+}
+[1538690208.361][INFO]: Done waiting for pending navigations. Status: ok
+[1538690208.361][DEBUG]: DevTools WebSocket Command: Page.navigate (id=13) CB0C350E676F3960D72056C2D448DB4E {
+   "url": "https://dev.gamespot.com/videos/pubgs-new-update-shakes-up-the-desert-map-and-blue/2300-6443547/?debug_video_player=1"
+}
+[1538690208.445][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 0,
+   "nodeId": 8
+}
+[1538690208.445][DEBUG]: DevTools WebSocket Event: Runtime.executionContextDestroyed CB0C350E676F3960D72056C2D448DB4E {
+   "executionContextId": 2
+}
+[1538690208.445][DEBUG]: DevTools WebSocket Event: Page.frameDetached CB0C350E676F3960D72056C2D448DB4E {
+   "frameId": "03BDAB96B10115B17358C90D77383418"
+}
+[18566:12547:1004/145648.587990:ERROR:ssl_client_socket_impl.cc(1050)] handshake failed; returned -1, SSL error code 1, net_error -101
+[18566:12547:1004/145648.590017:ERROR:ssl_client_socket_impl.cc(1050)] handshake failed; returned -1, SSL error code 1, net_error -101
+[18566:12547:1004/145649.287373:ERROR:ssl_client_socket_impl.cc(1050)] handshake failed; returned -1, SSL error code 1, net_error -101
+[18566:12547:1004/145649.289277:ERROR:ssl_client_socket_impl.cc(1050)] handshake failed; returned -1, SSL error code 1, net_error -101
+[18566:12547:1004/145649.993836:ERROR:cast_crl.cc(339)] CRL - Verification failed.
+[18566:12547:1004/145650.049604:ERROR:ssl_client_socket_impl.cc(1050)] handshake failed; returned -1, SSL error code 1, net_error -101
+[18566:12547:1004/145650.049938:ERROR:ssl_client_socket_impl.cc(1050)] handshake failed; returned -1, SSL error code 1, net_error -101
+[18566:12547:1004/145650.051584:ERROR:ssl_client_socket_impl.cc(1050)] handshake failed; returned -1, SSL error code 1, net_error -101
+[18566:12547:1004/145650.051717:ERROR:ssl_client_socket_impl.cc(1050)] handshake failed; returned -1, SSL error code 1, net_error -101
+[18566:12547:1004/145650.125899:ERROR:cast_crl.cc(339)] CRL - Verification failed.
+[18566:12547:1004/145650.987455:ERROR:ssl_client_socket_impl.cc(1050)] handshake failed; returned -1, SSL error code 1, net_error -101
+[18566:12547:1004/145650.987728:ERROR:ssl_client_socket_impl.cc(1050)] handshake failed; returned -1, SSL error code 1, net_error -101
+[18566:12547:1004/145650.989139:ERROR:ssl_client_socket_impl.cc(1050)] handshake failed; returned -1, SSL error code 1, net_error -101
+[18566:12547:1004/145650.989303:ERROR:ssl_client_socket_impl.cc(1050)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1538690212.220][DEBUG]: DevTools WebSocket Response: Page.navigate (id=13) CB0C350E676F3960D72056C2D448DB4E {
+   "frameId": "CB0C350E676F3960D72056C2D448DB4E",
+   "loaderId": "04B3BC8837DAB3C68A50BDA43BB56643"
+}
+[1538690212.220][DEBUG]: DevTools WebSocket Command: Runtime.evaluate (id=14) CB0C350E676F3960D72056C2D448DB4E {
+   "expression": "document.URL"
+}
+[1538690212.221][DEBUG]: DevTools WebSocket Event: Runtime.executionContextsCleared CB0C350E676F3960D72056C2D448DB4E {
+
+}
+[1538690212.223][DEBUG]: DevTools WebSocket Event: Page.frameStartedLoading CB0C350E676F3960D72056C2D448DB4E {
+   "frameId": "CB0C350E676F3960D72056C2D448DB4E"
+}
+[18566:12547:1004/145652.287820:ERROR:ssl_client_socket_impl.cc(1050)] handshake failed; returned -1, SSL error code 1, net_error -101
+[18566:12547:1004/145652.288119:ERROR:ssl_client_socket_impl.cc(1050)] handshake failed; returned -1, SSL error code 1, net_error -101
+[18566:12547:1004/145652.289730:ERROR:ssl_client_socket_impl.cc(1050)] handshake failed; returned -1, SSL error code 1, net_error -101
+[18566:12547:1004/145652.289880:ERROR:ssl_client_socket_impl.cc(1050)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1538690212.345][DEBUG]: DevTools WebSocket Event: Runtime.executionContextsCleared CB0C350E676F3960D72056C2D448DB4E {
+
+}
+[1538690212.345][DEBUG]: DevTools WebSocket Event: Page.frameNavigated CB0C350E676F3960D72056C2D448DB4E {
+   "frame": {
+      "id": "CB0C350E676F3960D72056C2D448DB4E",
+      "loaderId": "04B3BC8837DAB3C68A50BDA43BB56643",
+      "mimeType": "text/html",
+      "securityOrigin": "https://dev.gamespot.com",
+      "url": "https://dev.gamespot.com/videos/pubgs-new-update-shakes-up-the-desert-map-and-blue/2300-6443547/?debug_video_player=1"
+   }
+}
+[1538690212.345][DEBUG]: DevTools WebSocket Event: Runtime.executionContextCreated CB0C350E676F3960D72056C2D448DB4E {
+   "context": {
+      "auxData": {
+         "frameId": "CB0C350E676F3960D72056C2D448DB4E",
+         "isDefault": true
+      },
+      "id": 1,
+      "name": "",
+      "origin": "https://dev.gamespot.com"
+   }
+}
+[1538690212.345][DEBUG]: DevTools WebSocket Event: DOM.documentUpdated CB0C350E676F3960D72056C2D448DB4E {
+
+}
+[1538690212.345][DEBUG]: DevTools WebSocket Command: DOM.getDocument (id=15) CB0C350E676F3960D72056C2D448DB4E {
+
+}
+[1538690212.347][DEBUG]: DevTools WebSocket Response: Runtime.evaluate (id=14) CB0C350E676F3960D72056C2D448DB4E {
+   "result": {
+      "type": "string",
+      "value": "https://dev.gamespot.com/videos/pubgs-new-update-shakes-up-the-desert-map-and-blue/2300-6443547/?debug_video_player=1"
+   }
+}
+[1538690212.349][DEBUG]: DevTools WebSocket Response: DOM.getDocument (id=15) CB0C350E676F3960D72056C2D448DB4E {
+   "root": {
+      "backendNodeId": 1,
+      "baseURL": "https://dev.gamespot.com/videos/pubgs-new-update-shakes-up-the-desert-map-and-blue/2300-6443547/?debug_video_player=1",
+      "childNodeCount": 2,
+      "children": [ {
+         "backendNodeId": 2,
+         "localName": "",
+         "nodeId": 2,
+         "nodeName": "html",
+         "nodeType": 10,
+         "nodeValue": "",
+         "parentId": 1,
+         "publicId": "",
+         "systemId": ""
+      }, {
+         "attributes": [ "lang", "en", "itemscope", "", "id", "", "class", "no-js no-touch " ],
+         "backendNodeId": 3,
+         "childNodeCount": 1,
+         "children": [ {
+            "attributes": [  ],
+            "backendNodeId": 4,
+            "childNodeCount": 54,
+            "localName": "head",
+            "nodeId": 4,
+            "nodeName": "HEAD",
+            "nodeType": 1,
+            "nodeValue": "",
+            "parentId": 3
+         } ],
+         "frameId": "CB0C350E676F3960D72056C2D448DB4E",
+         "localName": "html",
+         "nodeId": 3,
+         "nodeName": "HTML",
+         "nodeType": 1,
+         "nodeValue": "",
+         "parentId": 1
+      } ],
+      "documentURL": "https://dev.gamespot.com/videos/pubgs-new-update-shakes-up-the-desert-map-and-blue/2300-6443547/?debug_video_player=1",
+      "localName": "",
+      "nodeId": 1,
+      "nodeName": "#document",
+      "nodeType": 9,
+      "nodeValue": "",
+      "xmlVersion": ""
+   }
+}
+[1538690212.349][INFO]: Waiting for pending navigations...
+[1538690212.349][DEBUG]: DevTools WebSocket Command: Runtime.evaluate (id=16) CB0C350E676F3960D72056C2D448DB4E {
+   "expression": "1"
+}
+[1538690212.350][DEBUG]: DevTools WebSocket Response: Runtime.evaluate (id=16) CB0C350E676F3960D72056C2D448DB4E {
+   "result": {
+      "description": "1",
+      "type": "number",
+      "value": 1
+   }
+}
+[1538690212.539][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 55,
+   "nodeId": 4
+}
+[1538690212.539][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 56,
+   "nodeId": 4
+}
+[1538690212.539][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 57,
+   "nodeId": 4
+}
+[1538690212.539][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 58,
+   "nodeId": 4
+}
+[1538690212.539][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 59,
+   "nodeId": 4
+}
+[1538690212.539][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 60,
+   "nodeId": 4
+}
+[1538690212.539][DEBUG]: DevTools WebSocket Event: DOM.childNodeInserted CB0C350E676F3960D72056C2D448DB4E {
+   "node": {
+      "attributes": [ "style", "overflow: hidden;" ],
+      "backendNodeId": 5,
+      "childNodeCount": 2,
+      "localName": "body",
+      "nodeId": 5,
+      "nodeName": "BODY",
+      "nodeType": 1,
+      "nodeValue": ""
+   },
+   "parentNodeId": 3,
+   "previousNodeId": 4
+}
+[1538690212.540][DEBUG]: DevTools WebSocket Event: DOM.childNodeRemoved CB0C350E676F3960D72056C2D448DB4E {
+   "nodeId": 5,
+   "parentNodeId": 3
+}
+[1538690212.540][DEBUG]: DevTools WebSocket Event: DOM.childNodeInserted CB0C350E676F3960D72056C2D448DB4E {
+   "node": {
+      "attributes": [ "style", "overflow: hidden;" ],
+      "backendNodeId": 6,
+      "childNodeCount": 2,
+      "localName": "body",
+      "nodeId": 6,
+      "nodeName": "BODY",
+      "nodeType": 1,
+      "nodeValue": ""
+   },
+   "parentNodeId": 3,
+   "previousNodeId": 4
+}
+[1538690212.540][DEBUG]: DevTools WebSocket Event: DOM.childNodeRemoved CB0C350E676F3960D72056C2D448DB4E {
+   "nodeId": 6,
+   "parentNodeId": 3
+}
+[1538690212.540][DEBUG]: DevTools WebSocket Event: DOM.attributeModified CB0C350E676F3960D72056C2D448DB4E {
+   "name": "class",
+   "nodeId": 3,
+   "value": "js no-touch  blobconstructor blob-constructor cors dataview history filereader localstorage sessionstorage canvas canvastext video todataurljpeg todataurlpng todataurlwebp cssgradients fileinput sr..."
+}
+[1538690212.540][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 61,
+   "nodeId": 4
+}
+[1538690212.540][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 62,
+   "nodeId": 4
+}
+[1538690212.540][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 63,
+   "nodeId": 4
+}
+[1538690212.540][DEBUG]: DevTools WebSocket Event: DOM.childNodeInserted CB0C350E676F3960D72056C2D448DB4E {
+   "node": {
+      "attributes": [ "id", "default-body", "class", "default has-nav-slim  body-video skin-no col-3-template ", "style", "display: block !important" ],
+      "backendNodeId": 7,
+      "childNodeCount": 0,
+      "localName": "body",
+      "nodeId": 7,
+      "nodeName": "BODY",
+      "nodeType": 1,
+      "nodeValue": ""
+   },
+   "parentNodeId": 3,
+   "previousNodeId": 4
+}
+[1538690212.540][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 1,
+   "nodeId": 7
+}
+[1538690212.540][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 2,
+   "nodeId": 7
+}
+[1538690212.540][DEBUG]: DevTools WebSocket Event: DOM.inlineStyleInvalidated CB0C350E676F3960D72056C2D448DB4E {
+   "nodeIds": [ 3 ]
+}
+[1538690212.540][DEBUG]: DevTools WebSocket Command: Runtime.evaluate (id=17) CB0C350E676F3960D72056C2D448DB4E {
+   "expression": "1"
+}
+[1538690212.714][DEBUG]: DevTools WebSocket Event: DOM.attributeModified CB0C350E676F3960D72056C2D448DB4E {
+   "name": "class",
+   "nodeId": 3,
+   "value": "js no-touch  blobconstructor blob-constructor cors dataview history filereader localstorage sessionstorage canvas canvastext video todataurljpeg todataurlpng todataurlwebp cssgradients fileinput sr..."
+}
+[1538690212.726][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 3,
+   "nodeId": 7
+}
+[1538690212.726][DEBUG]: DevTools WebSocket Response: Runtime.evaluate (id=17) CB0C350E676F3960D72056C2D448DB4E {
+   "result": {
+      "description": "1",
+      "type": "number",
+      "value": 1
+   }
+}
+[1538690212.893][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 4,
+   "nodeId": 7
+}
+[1538690212.893][DEBUG]: DevTools WebSocket Command: Runtime.evaluate (id=18) CB0C350E676F3960D72056C2D448DB4E {
+   "expression": "1"
+}
+[1538690213.082][DEBUG]: DevTools WebSocket Response: Runtime.evaluate (id=18) CB0C350E676F3960D72056C2D448DB4E {
+   "result": {
+      "description": "1",
+      "type": "number",
+      "value": 1
+   }
+}
+[1538690213.100][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 64,
+   "nodeId": 4
+}
+[1538690213.100][DEBUG]: DevTools WebSocket Command: Runtime.evaluate (id=19) CB0C350E676F3960D72056C2D448DB4E {
+   "expression": "1"
+}
+[1538690213.101][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 65,
+   "nodeId": 4
+}
+[1538690213.104][DEBUG]: DevTools WebSocket Event: Runtime.consoleAPICalled CB0C350E676F3960D72056C2D448DB4E {
+   "args": [ {
+      "type": "string",
+      "value": "dom not ready, setting event"
+   } ],
+   "executionContextId": 1,
+   "stackTrace": {
+      "callFrames": [ {
+         "columnNumber": 10437,
+         "functionName": "_isDomReady",
+         "lineNumber": 0,
+         "scriptId": "31",
+         "url": "https://c.evidon.com/sitenotice/evidon-sitenotice-tag.js"
+      }, {
+         "columnNumber": 24453,
+         "functionName": "ak.showNotice",
+         "lineNumber": 0,
+         "scriptId": "31",
+         "url": "https://c.evidon.com/sitenotice/evidon-sitenotice-tag.js"
+      }, {
+         "columnNumber": 30909,
+         "functionName": "ak.loadSettings",
+         "lineNumber": 0,
+         "scriptId": "31",
+         "url": "https://c.evidon.com/sitenotice/evidon-sitenotice-tag.js"
+      }, {
+         "columnNumber": 19552,
+         "functionName": "",
+         "lineNumber": 0,
+         "scriptId": "35",
+         "url": "https://c.evidon.com/sitenotice/425/gamespot/settings.js"
+      }, {
+         "columnNumber": 19600,
+         "functionName": "",
+         "lineNumber": 0,
+         "scriptId": "35",
+         "url": "https://c.evidon.com/sitenotice/425/gamespot/settings.js"
+      } ]
+   },
+   "timestamp": 1538690213101.874,
+   "type": "log"
+}
+[1538690213.121][DEBUG]: DevTools WebSocket Event: Runtime.consoleAPICalled CB0C350E676F3960D72056C2D448DB4E {
+   "args": [ {
+      "type": "string",
+      "value": "dom not ready, setting event"
+   } ],
+   "executionContextId": 1,
+   "stackTrace": {
+      "callFrames": [ {
+         "columnNumber": 10437,
+         "functionName": "_isDomReady",
+         "lineNumber": 0,
+         "scriptId": "31",
+         "url": "https://c.evidon.com/sitenotice/evidon-sitenotice-tag.js"
+      }, {
+         "columnNumber": 24453,
+         "functionName": "ak.showNotice",
+         "lineNumber": 0,
+         "scriptId": "31",
+         "url": "https://c.evidon.com/sitenotice/evidon-sitenotice-tag.js"
+      }, {
+         "columnNumber": 30909,
+         "functionName": "ak.loadSettings",
+         "lineNumber": 0,
+         "scriptId": "31",
+         "url": "https://c.evidon.com/sitenotice/evidon-sitenotice-tag.js"
+      }, {
+         "columnNumber": 19552,
+         "functionName": "",
+         "lineNumber": 0,
+         "scriptId": "35",
+         "url": "https://c.evidon.com/sitenotice/425/gamespot/settings.js"
+      }, {
+         "columnNumber": 19600,
+         "functionName": "",
+         "lineNumber": 0,
+         "scriptId": "35",
+         "url": "https://c.evidon.com/sitenotice/425/gamespot/settings.js"
+      } ]
+   },
+   "timestamp": 1538690213119.7341,
+   "type": "log"
+}
+[1538690213.126][DEBUG]: DevTools WebSocket Response: Runtime.evaluate (id=19) CB0C350E676F3960D72056C2D448DB4E {
+   "result": {
+      "description": "1",
+      "type": "number",
+      "value": 1
+   }
+}
+[1538690213.283][DEBUG]: DevTools WebSocket Event: DOM.childNodeInserted CB0C350E676F3960D72056C2D448DB4E {
+   "node": {
+      "attributes": [ "id", "sizcache062997622648331150" ],
+      "backendNodeId": 14,
+      "childNodeCount": 2,
+      "localName": "div",
+      "nodeId": 8,
+      "nodeName": "DIV",
+      "nodeType": 1,
+      "nodeValue": ""
+   },
+   "parentNodeId": 3,
+   "previousNodeId": 0
+}
+[1538690213.283][DEBUG]: DevTools WebSocket Event: DOM.childNodeRemoved CB0C350E676F3960D72056C2D448DB4E {
+   "nodeId": 8,
+   "parentNodeId": 3
+}
+[1538690213.283][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 5,
+   "nodeId": 7
+}
+[1538690213.283][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 6,
+   "nodeId": 7
+}
+[1538690213.283][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 5,
+   "nodeId": 7
+}
+[1538690213.283][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 6,
+   "nodeId": 7
+}
+[1538690213.283][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 7,
+   "nodeId": 7
+}
+[1538690213.283][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 8,
+   "nodeId": 7
+}
+[1538690213.283][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 9,
+   "nodeId": 7
+}
+[1538690213.283][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 10,
+   "nodeId": 7
+}
+[1538690213.283][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 66,
+   "nodeId": 4
+}
+[1538690213.283][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 11,
+   "nodeId": 7
+}
+[1538690213.283][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 12,
+   "nodeId": 7
+}
+[1538690213.283][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 13,
+   "nodeId": 7
+}
+[1538690213.283][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 14,
+   "nodeId": 7
+}
+[1538690213.283][DEBUG]: DevTools WebSocket Event: Runtime.consoleAPICalled CB0C350E676F3960D72056C2D448DB4E {
+   "args": [ {
+      "type": "string",
+      "value": "[VP] Enable video player js logging"
+   } ],
+   "executionContextId": 1,
+   "stackTrace": {
+      "callFrames": [ {
+         "columnNumber": 30,
+         "functionName": "push",
+         "lineNumber": 261,
+         "scriptId": "45",
+         "url": "https://dev.gamespot.com/js/compiled/all_debugLogger_6.js"
+      }, {
+         "columnNumber": 18,
+         "functionName": "App.log",
+         "lineNumber": 79,
+         "scriptId": "45",
+         "url": "https://dev.gamespot.com/js/compiled/all_debugLogger_6.js"
+      }, {
+         "columnNumber": 12,
+         "functionName": "enableDebugLogging",
+         "lineNumber": 275,
+         "scriptId": "45",
+         "url": "https://dev.gamespot.com/js/compiled/all_debugLogger_6.js"
+      }, {
+         "columnNumber": 8,
+         "functionName": "",
+         "lineNumber": 284,
+         "scriptId": "45",
+         "url": "https://dev.gamespot.com/js/compiled/all_debugLogger_6.js"
+      }, {
+         "columnNumber": 1,
+         "functionName": "",
+         "lineNumber": 287,
+         "scriptId": "45",
+         "url": "https://dev.gamespot.com/js/compiled/all_debugLogger_6.js"
+      } ]
+   },
+   "timestamp": 1538690213282.4768,
+   "type": "debug"
+}
+[1538690213.284][DEBUG]: DevTools WebSocket Command: Runtime.evaluate (id=20) CB0C350E676F3960D72056C2D448DB4E {
+   "expression": "1"
+}
+[1538690213.812][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 15,
+   "nodeId": 7
+}
+[1538690213.813][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 16,
+   "nodeId": 7
+}
+[1538690213.813][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 17,
+   "nodeId": 7
+}
+[1538690213.813][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 18,
+   "nodeId": 7
+}
+[1538690213.813][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 19,
+   "nodeId": 7
+}
+[1538690213.813][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 20,
+   "nodeId": 7
+}
+[1538690213.813][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 21,
+   "nodeId": 7
+}
+[1538690213.813][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 22,
+   "nodeId": 7
+}
+[1538690213.813][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 23,
+   "nodeId": 7
+}
+[1538690213.813][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 24,
+   "nodeId": 7
+}
+[1538690213.813][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 25,
+   "nodeId": 7
+}
+[1538690213.813][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 26,
+   "nodeId": 7
+}
+[1538690213.813][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 27,
+   "nodeId": 7
+}
+[1538690213.813][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 28,
+   "nodeId": 7
+}
+[1538690213.813][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 29,
+   "nodeId": 7
+}
+[1538690213.813][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 30,
+   "nodeId": 7
+}
+[1538690213.814][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 31,
+   "nodeId": 7
+}
+[1538690213.814][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 32,
+   "nodeId": 7
+}
+[1538690213.814][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 33,
+   "nodeId": 7
+}
+[1538690213.814][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 34,
+   "nodeId": 7
+}
+[1538690213.814][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 35,
+   "nodeId": 7
+}
+[1538690213.814][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 36,
+   "nodeId": 7
+}
+[1538690213.814][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 37,
+   "nodeId": 7
+}
+[1538690213.814][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 38,
+   "nodeId": 7
+}
+[1538690213.814][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 39,
+   "nodeId": 7
+}
+[1538690213.814][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 40,
+   "nodeId": 7
+}
+[1538690213.814][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 41,
+   "nodeId": 7
+}
+[1538690213.814][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 42,
+   "nodeId": 7
+}
+[1538690213.814][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 43,
+   "nodeId": 7
+}
+[1538690213.814][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 44,
+   "nodeId": 7
+}
+[1538690213.814][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 45,
+   "nodeId": 7
+}
+[1538690213.814][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 46,
+   "nodeId": 7
+}
+[1538690213.814][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 47,
+   "nodeId": 7
+}
+[1538690213.814][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 48,
+   "nodeId": 7
+}
+[1538690213.814][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 49,
+   "nodeId": 7
+}
+[1538690213.814][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 50,
+   "nodeId": 7
+}
+[1538690213.814][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 51,
+   "nodeId": 7
+}
+[1538690213.815][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 52,
+   "nodeId": 7
+}
+[1538690213.815][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 53,
+   "nodeId": 7
+}
+[1538690213.815][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 54,
+   "nodeId": 7
+}
+[1538690213.815][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 55,
+   "nodeId": 7
+}
+[1538690213.815][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 56,
+   "nodeId": 7
+}
+[1538690213.815][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 57,
+   "nodeId": 7
+}
+[1538690213.815][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 58,
+   "nodeId": 7
+}
+[1538690213.815][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 59,
+   "nodeId": 7
+}
+[1538690213.815][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 60,
+   "nodeId": 7
+}
+[1538690213.815][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 61,
+   "nodeId": 7
+}
+[1538690213.815][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 62,
+   "nodeId": 7
+}
+[1538690213.815][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 63,
+   "nodeId": 7
+}
+[1538690213.815][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 64,
+   "nodeId": 7
+}
+[1538690213.815][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 65,
+   "nodeId": 7
+}
+[1538690213.815][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 66,
+   "nodeId": 7
+}
+[1538690213.815][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 67,
+   "nodeId": 7
+}
+[1538690213.815][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 67,
+   "nodeId": 4
+}
+[1538690213.816][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 68,
+   "nodeId": 7
+}
+[1538690213.816][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 69,
+   "nodeId": 7
+}
+[1538690213.816][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 70,
+   "nodeId": 7
+}
+[1538690213.816][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 71,
+   "nodeId": 7
+}
+[1538690213.816][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 72,
+   "nodeId": 7
+}
+[1538690213.816][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 73,
+   "nodeId": 7
+}
+[1538690213.816][DEBUG]: DevTools WebSocket Event: DOM.attributeModified CB0C350E676F3960D72056C2D448DB4E {
+   "name": "data-useragent",
+   "nodeId": 3,
+   "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+}
+[1538690213.816][DEBUG]: DevTools WebSocket Event: DOM.attributeModified CB0C350E676F3960D72056C2D448DB4E {
+   "name": "data-platform",
+   "nodeId": 3,
+   "value": "MacIntel"
+}
+[1538690213.816][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 74,
+   "nodeId": 7
+}
+[1538690213.816][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 75,
+   "nodeId": 7
+}
+[1538690213.816][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 76,
+   "nodeId": 7
+}
+[1538690213.816][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 77,
+   "nodeId": 7
+}
+[1538690213.816][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 78,
+   "nodeId": 7
+}
+[1538690213.816][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 79,
+   "nodeId": 7
+}
+[1538690213.816][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 80,
+   "nodeId": 7
+}
+[1538690213.816][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 81,
+   "nodeId": 7
+}
+[1538690213.816][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 82,
+   "nodeId": 7
+}
+[1538690213.816][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 83,
+   "nodeId": 7
+}
+[1538690213.816][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 84,
+   "nodeId": 7
+}
+[1538690213.816][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 85,
+   "nodeId": 7
+}
+[1538690213.816][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 86,
+   "nodeId": 7
+}
+[1538690213.816][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 87,
+   "nodeId": 7
+}
+[1538690213.816][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 88,
+   "nodeId": 7
+}
+[1538690213.817][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 89,
+   "nodeId": 7
+}
+[1538690213.817][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 90,
+   "nodeId": 7
+}
+[1538690213.817][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 91,
+   "nodeId": 7
+}
+[1538690213.817][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 92,
+   "nodeId": 7
+}
+[1538690213.817][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 93,
+   "nodeId": 7
+}
+[1538690213.817][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 94,
+   "nodeId": 7
+}
+[1538690213.817][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 95,
+   "nodeId": 7
+}
+[1538690213.817][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 96,
+   "nodeId": 7
+}
+[1538690213.817][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 97,
+   "nodeId": 7
+}
+[1538690213.817][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 98,
+   "nodeId": 7
+}
+[1538690213.817][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 99,
+   "nodeId": 7
+}
+[1538690213.817][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 100,
+   "nodeId": 7
+}
+[1538690213.817][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 101,
+   "nodeId": 7
+}
+[1538690213.817][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 102,
+   "nodeId": 7
+}
+[1538690213.817][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 103,
+   "nodeId": 7
+}
+[1538690213.817][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 104,
+   "nodeId": 7
+}
+[1538690213.817][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 105,
+   "nodeId": 7
+}
+[1538690213.817][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 106,
+   "nodeId": 7
+}
+[1538690213.817][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 107,
+   "nodeId": 7
+}
+[1538690213.817][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 108,
+   "nodeId": 7
+}
+[1538690213.817][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 109,
+   "nodeId": 7
+}
+[1538690213.817][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 110,
+   "nodeId": 7
+}
+[1538690213.817][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 111,
+   "nodeId": 7
+}
+[1538690213.817][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 112,
+   "nodeId": 7
+}
+[1538690213.817][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 113,
+   "nodeId": 7
+}
+[1538690213.817][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 114,
+   "nodeId": 7
+}
+[1538690213.817][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 115,
+   "nodeId": 7
+}
+[1538690213.817][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 116,
+   "nodeId": 7
+}
+[1538690213.817][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 117,
+   "nodeId": 7
+}
+[1538690213.817][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 118,
+   "nodeId": 7
+}
+[1538690213.818][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 119,
+   "nodeId": 7
+}
+[1538690213.818][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 120,
+   "nodeId": 7
+}
+[1538690213.818][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 121,
+   "nodeId": 7
+}
+[1538690213.818][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 122,
+   "nodeId": 7
+}
+[1538690213.818][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 123,
+   "nodeId": 7
+}
+[1538690213.818][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 124,
+   "nodeId": 7
+}
+[1538690213.818][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 125,
+   "nodeId": 7
+}
+[1538690213.818][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 126,
+   "nodeId": 7
+}
+[1538690213.819][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 127,
+   "nodeId": 7
+}
+[1538690213.819][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 128,
+   "nodeId": 7
+}
+[1538690213.819][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 129,
+   "nodeId": 7
+}
+[1538690213.819][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 130,
+   "nodeId": 7
+}
+[1538690213.819][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 131,
+   "nodeId": 7
+}
+[1538690213.819][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 132,
+   "nodeId": 7
+}
+[1538690213.819][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 133,
+   "nodeId": 7
+}
+[1538690213.819][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 134,
+   "nodeId": 7
+}
+[1538690213.819][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 135,
+   "nodeId": 7
+}
+[1538690213.819][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 136,
+   "nodeId": 7
+}
+[1538690213.819][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 137,
+   "nodeId": 7
+}
+[1538690213.819][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 138,
+   "nodeId": 7
+}
+[1538690213.819][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 139,
+   "nodeId": 7
+}
+[1538690213.819][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 140,
+   "nodeId": 7
+}
+[1538690213.819][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 141,
+   "nodeId": 7
+}
+[1538690213.819][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 142,
+   "nodeId": 7
+}
+[1538690213.819][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 143,
+   "nodeId": 7
+}
+[1538690213.819][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 144,
+   "nodeId": 7
+}
+[1538690213.819][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 145,
+   "nodeId": 7
+}
+[1538690213.820][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 146,
+   "nodeId": 7
+}
+[1538690213.820][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 147,
+   "nodeId": 7
+}
+[1538690213.820][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 148,
+   "nodeId": 7
+}
+[1538690213.820][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 149,
+   "nodeId": 7
+}
+[1538690213.820][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 150,
+   "nodeId": 7
+}
+[1538690213.820][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 151,
+   "nodeId": 7
+}
+[1538690213.820][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 152,
+   "nodeId": 7
+}
+[1538690213.820][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 153,
+   "nodeId": 7
+}
+[1538690213.820][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 68,
+   "nodeId": 4
+}
+[1538690213.820][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 154,
+   "nodeId": 7
+}
+[1538690213.820][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 155,
+   "nodeId": 7
+}
+[1538690213.820][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 156,
+   "nodeId": 7
+}
+[1538690213.820][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 157,
+   "nodeId": 7
+}
+[1538690213.820][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 158,
+   "nodeId": 7
+}
+[1538690213.820][DEBUG]: DevTools WebSocket Event: Runtime.consoleAPICalled CB0C350E676F3960D72056C2D448DB4E {
+   "args": [ {
+      "type": "string",
+      "value": "dom ready, triggering load"
+   } ],
+   "executionContextId": 1,
+   "stackTrace": {
+      "callFrames": [ {
+         "columnNumber": 10537,
+         "functionName": "",
+         "lineNumber": 0,
+         "scriptId": "31",
+         "url": "https://c.evidon.com/sitenotice/evidon-sitenotice-tag.js"
+      } ]
+   },
+   "timestamp": 1538690213442.919,
+   "type": "log"
+}
+[1538690213.820][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 69,
+   "nodeId": 4
+}
+[1538690213.820][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 70,
+   "nodeId": 4
+}
+[1538690213.820][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 71,
+   "nodeId": 4
+}
+[1538690213.820][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 72,
+   "nodeId": 4
+}
+[1538690213.820][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 73,
+   "nodeId": 4
+}
+[1538690213.820][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 74,
+   "nodeId": 4
+}
+[1538690213.820][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 75,
+   "nodeId": 4
+}
+[1538690213.821][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 159,
+   "nodeId": 7
+}
+[1538690213.821][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 76,
+   "nodeId": 4
+}
+[1538690213.821][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 77,
+   "nodeId": 4
+}
+[1538690213.821][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 78,
+   "nodeId": 4
+}
+[1538690213.821][DEBUG]: DevTools WebSocket Event: Runtime.consoleAPICalled CB0C350E676F3960D72056C2D448DB4E {
+   "args": [ {
+      "type": "string",
+      "value": "Evidon -- evidon-notice-link not found on page, cant display the consent link."
+   } ],
+   "executionContextId": 1,
+   "stackTrace": {
+      "callFrames": [ {
+         "columnNumber": 6186,
+         "functionName": "ap",
+         "lineNumber": 0,
+         "scriptId": "31",
+         "url": "https://c.evidon.com/sitenotice/evidon-sitenotice-tag.js"
+      }, {
+         "columnNumber": 6975,
+         "functionName": "O.createLink",
+         "lineNumber": 0,
+         "scriptId": "31",
+         "url": "https://c.evidon.com/sitenotice/evidon-sitenotice-tag.js"
+      }, {
+         "columnNumber": 27896,
+         "functionName": "ak.showNotice",
+         "lineNumber": 0,
+         "scriptId": "31",
+         "url": "https://c.evidon.com/sitenotice/evidon-sitenotice-tag.js"
+      }, {
+         "columnNumber": 10638,
+         "functionName": "",
+         "lineNumber": 0,
+         "scriptId": "31",
+         "url": "https://c.evidon.com/sitenotice/evidon-sitenotice-tag.js"
+      } ]
+   },
+   "timestamp": 1538690213461.938,
+   "type": "log"
+}
+[1538690213.821][DEBUG]: DevTools WebSocket Event: Runtime.consoleAPICalled CB0C350E676F3960D72056C2D448DB4E {
+   "args": [ {
+      "type": "string",
+      "value": "dom ready, triggering load"
+   } ],
+   "executionContextId": 1,
+   "stackTrace": {
+      "callFrames": [ {
+         "columnNumber": 10537,
+         "functionName": "",
+         "lineNumber": 0,
+         "scriptId": "31",
+         "url": "https://c.evidon.com/sitenotice/evidon-sitenotice-tag.js"
+      } ]
+   },
+   "timestamp": 1538690213463.382,
+   "type": "log"
+}
+[1538690213.821][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 160,
+   "nodeId": 7
+}
+[1538690213.821][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 159,
+   "nodeId": 7
+}
+[1538690213.821][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 160,
+   "nodeId": 7
+}
+[1538690213.821][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 159,
+   "nodeId": 7
+}
+[1538690213.822][DEBUG]: DevTools WebSocket Event: Runtime.consoleAPICalled CB0C350E676F3960D72056C2D448DB4E {
+   "args": [ {
+      "type": "string",
+      "value": "nr:setCustomAttribute"
+   }, {
+      "className": "Array",
+      "description": "Array(2)",
+      "objectId": "{\"injectedScriptId\":1,\"id\":1}",
+      "preview": {
+         "description": "Array(2)",
+         "overflow": false,
+         "properties": [ {
+            "name": "0",
+            "type": "string",
+            "value": "pageTitle"
+         }, {
+            "name": "1",
+            "type": "string",
+            "value": "PUBG's New Update Shakes Up The Desert Map And Blu…Zone - GameSpot Daily - GameSpot Daily - GameSpot"
+         } ],
+         "subtype": "array",
+         "type": "object"
+      },
+      "subtype": "array",
+      "type": "object"
+   } ],
+   "executionContextId": 1,
+   "stackTrace": {
+      "callFrames": [ {
+         "columnNumber": 20,
+         "functionName": "newrelic.setCustomAttribute",
+         "lineNumber": 223,
+         "scriptId": "42",
+         "url": "https://dev.gamespot.com/js/compiled/all_Phoenix_3.js"
+      }, {
+         "columnNumber": 17,
+         "functionName": "Phoenix.newRelicInit",
+         "lineNumber": 252,
+         "scriptId": "42",
+         "url": "https://dev.gamespot.com/js/compiled/all_Phoenix_3.js"
+      }, {
+         "columnNumber": 12,
+         "functionName": "",
+         "lineNumber": 278,
+         "scriptId": "42",
+         "url": "https://dev.gamespot.com/js/compiled/all_Phoenix_3.js"
+      }, {
+         "columnNumber": 29,
+         "functionName": "fire",
+         "lineNumber": 973,
+         "scriptId": "29",
+         "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"
+      }, {
+         "columnNumber": 6,
+         "functionName": "fireWith",
+         "lineNumber": 1083,
+         "scriptId": "29",
+         "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"
+      }, {
+         "columnNumber": 12,
+         "functionName": "ready",
+         "lineNumber": 405,
+         "scriptId": "29",
+         "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"
+      }, {
+         "columnNumber": 10,
+         "functionName": "DOMContentLoaded",
+         "lineNumber": 82,
+         "scriptId": "29",
+         "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"
+      } ]
+   },
+   "timestamp": 1538690213487.714,
+   "type": "log"
+}
+[1538690213.822][DEBUG]: DevTools WebSocket Event: Runtime.consoleAPICalled CB0C350E676F3960D72056C2D448DB4E {
+   "args": [ {
+      "type": "string",
+      "value": "nr:addToTrace"
+   }, {
+      "className": "Array",
+      "description": "Array(1)",
+      "objectId": "{\"injectedScriptId\":1,\"id\":2}",
+      "preview": {
+         "description": "Array(1)",
+         "overflow": false,
+         "properties": [ {
+            "name": "0",
+            "type": "object",
+            "value": "Object"
+         } ],
+         "subtype": "array",
+         "type": "object"
+      },
+      "subtype": "array",
+      "type": "object"
+   } ],
+   "executionContextId": 1,
+   "stackTrace": {
+      "callFrames": [ {
+         "columnNumber": 20,
+         "functionName": "newrelic.addToTrace",
+         "lineNumber": 220,
+         "scriptId": "42",
+         "url": "https://dev.gamespot.com/js/compiled/all_Phoenix_3.js"
+      }, {
+         "columnNumber": 21,
+         "functionName": "sendToNewRelic",
+         "lineNumber": 245,
+         "scriptId": "42",
+         "url": "https://dev.gamespot.com/js/compiled/all_Phoenix_3.js"
+      }, {
+         "columnNumber": 12,
+         "functionName": "Phoenix.newRelicInit",
+         "lineNumber": 257,
+         "scriptId": "42",
+         "url": "https://dev.gamespot.com/js/compiled/all_Phoenix_3.js"
+      }, {
+         "columnNumber": 12,
+         "functionName": "",
+         "lineNumber": 278,
+         "scriptId": "42",
+         "url": "https://dev.gamespot.com/js/compiled/all_Phoenix_3.js"
+      }, {
+         "columnNumber": 29,
+         "functionName": "fire",
+         "lineNumber": 973,
+         "scriptId": "29",
+         "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"
+      }, {
+         "columnNumber": 6,
+         "functionName": "fireWith",
+         "lineNumber": 1083,
+         "scriptId": "29",
+         "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"
+      }, {
+         "columnNumber": 12,
+         "functionName": "ready",
+         "lineNumber": 405,
+         "scriptId": "29",
+         "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"
+      }, {
+         "columnNumber": 10,
+         "functionName": "DOMContentLoaded",
+         "lineNumber": 82,
+         "scriptId": "29",
+         "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"
+      } ]
+   },
+   "timestamp": 1538690213490.977,
+   "type": "log"
+}
+[1538690213.823][DEBUG]: DevTools WebSocket Event: Runtime.consoleAPICalled CB0C350E676F3960D72056C2D448DB4E {
+   "args": [ {
+      "type": "string",
+      "value": "nr:setCustomAttribute"
+   }, {
+      "className": "Array",
+      "description": "Array(2)",
+      "objectId": "{\"injectedScriptId\":1,\"id\":3}",
+      "preview": {
+         "description": "Array(2)",
+         "overflow": false,
+         "properties": [ {
+            "name": "0",
+            "type": "string",
+            "value": "nr_pageStart"
+         }, {
+            "name": "1",
+            "type": "number",
+            "value": "3.823300000047311"
+         } ],
+         "subtype": "array",
+         "type": "object"
+      },
+      "subtype": "array",
+      "type": "object"
+   } ],
+   "executionContextId": 1,
+   "stackTrace": {
+      "callFrames": [ {
+         "columnNumber": 20,
+         "functionName": "newrelic.setCustomAttribute",
+         "lineNumber": 223,
+         "scriptId": "42",
+         "url": "https://dev.gamespot.com/js/compiled/all_Phoenix_3.js"
+      }, {
+         "columnNumber": 21,
+         "functionName": "sendToNewRelic",
+         "lineNumber": 246,
+         "scriptId": "42",
+         "url": "https://dev.gamespot.com/js/compiled/all_Phoenix_3.js"
+      }, {
+         "columnNumber": 12,
+         "functionName": "Phoenix.newRelicInit",
+         "lineNumber": 257,
+         "scriptId": "42",
+         "url": "https://dev.gamespot.com/js/compiled/all_Phoenix_3.js"
+      }, {
+         "columnNumber": 12,
+         "functionName": "",
+         "lineNumber": 278,
+         "scriptId": "42",
+         "url": "https://dev.gamespot.com/js/compiled/all_Phoenix_3.js"
+      }, {
+         "columnNumber": 29,
+         "functionName": "fire",
+         "lineNumber": 973,
+         "scriptId": "29",
+         "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"
+      }, {
+         "columnNumber": 6,
+         "functionName": "fireWith",
+         "lineNumber": 1083,
+         "scriptId": "29",
+         "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"
+      }, {
+         "columnNumber": 12,
+         "functionName": "ready",
+         "lineNumber": 405,
+         "scriptId": "29",
+         "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"
+      }, {
+         "columnNumber": 10,
+         "functionName": "DOMContentLoaded",
+         "lineNumber": 82,
+         "scriptId": "29",
+         "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"
+      } ]
+   },
+   "timestamp": 1538690213491.606,
+   "type": "log"
+}
+[1538690213.823][DEBUG]: DevTools WebSocket Event: Runtime.consoleAPICalled CB0C350E676F3960D72056C2D448DB4E {
+   "args": [ {
+      "type": "string",
+      "value": "nr:addToTrace"
+   }, {
+      "className": "Array",
+      "description": "Array(1)",
+      "objectId": "{\"injectedScriptId\":1,\"id\":4}",
+      "preview": {
+         "description": "Array(1)",
+         "overflow": false,
+         "properties": [ {
+            "name": "0",
+            "type": "object",
+            "value": "Object"
+         } ],
+         "subtype": "array",
+         "type": "object"
+      },
+      "subtype": "array",
+      "type": "object"
+   } ],
+   "executionContextId": 1,
+   "stackTrace": {
+      "callFrames": [ {
+         "columnNumber": 20,
+         "functionName": "newrelic.addToTrace",
+         "lineNumber": 220,
+         "scriptId": "42",
+         "url": "https://dev.gamespot.com/js/compiled/all_Phoenix_3.js"
+      }, {
+         "columnNumber": 21,
+         "functionName": "sendToNewRelic",
+         "lineNumber": 245,
+         "scriptId": "42",
+         "url": "https://dev.gamespot.com/js/compiled/all_Phoenix_3.js"
+      }, {
+         "columnNumber": 12,
+         "functionName": "Phoenix.newRelicInit",
+         "lineNumber": 257,
+         "scriptId": "42",
+         "url": "https://dev.gamespot.com/js/compiled/all_Phoenix_3.js"
+      }, {
+         "columnNumber": 12,
+         "functionName": "",
+         "lineNumber": 278,
+         "scriptId": "42",
+         "url": "https://dev.gamespot.com/js/compiled/all_Phoenix_3.js"
+      }, {
+         "columnNumber": 29,
+         "functionName": "fire",
+         "lineNumber": 973,
+         "scriptId": "29",
+         "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"
+      }, {
+         "columnNumber": 6,
+         "functionName": "fireWith",
+         "lineNumber": 1083,
+         "scriptId": "29",
+         "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"
+      }, {
+         "columnNumber": 12,
+         "functionName": "ready",
+         "lineNumber": 405,
+         "scriptId": "29",
+         "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"
+      }, {
+         "columnNumber": 10,
+         "functionName": "DOMContentLoaded",
+         "lineNumber": 82,
+         "scriptId": "29",
+         "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"
+      } ]
+   },
+   "timestamp": 1538690213492.1418,
+   "type": "log"
+}
+[1538690213.823][DEBUG]: DevTools WebSocket Event: Runtime.consoleAPICalled CB0C350E676F3960D72056C2D448DB4E {
+   "args": [ {
+      "type": "string",
+      "value": "nr:setCustomAttribute"
+   }, {
+      "className": "Array",
+      "description": "Array(2)",
+      "objectId": "{\"injectedScriptId\":1,\"id\":5}",
+      "preview": {
+         "description": "Array(2)",
+         "overflow": false,
+         "properties": [ {
+            "name": "0",
+            "type": "string",
+            "value": "nr_headerLoad"
+         }, {
+            "name": "1",
+            "type": "number",
+            "value": "4.278500000014901"
+         } ],
+         "subtype": "array",
+         "type": "object"
+      },
+      "subtype": "array",
+      "type": "object"
+   } ],
+   "executionContextId": 1,
+   "stackTrace": {
+      "callFrames": [ {
+         "columnNumber": 20,
+         "functionName": "newrelic.setCustomAttribute",
+         "lineNumber": 223,
+         "scriptId": "42",
+         "url": "https://dev.gamespot.com/js/compiled/all_Phoenix_3.js"
+      }, {
+         "columnNumber": 21,
+         "functionName": "sendToNewRelic",
+         "lineNumber": 246,
+         "scriptId": "42",
+         "url": "https://dev.gamespot.com/js/compiled/all_Phoenix_3.js"
+      }, {
+         "columnNumber": 12,
+         "functionName": "Phoenix.newRelicInit",
+         "lineNumber": 257,
+         "scriptId": "42",
+         "url": "https://dev.gamespot.com/js/compiled/all_Phoenix_3.js"
+      }, {
+         "columnNumber": 12,
+         "functionName": "",
+         "lineNumber": 278,
+         "scriptId": "42",
+         "url": "https://dev.gamespot.com/js/compiled/all_Phoenix_3.js"
+      }, {
+         "columnNumber": 29,
+         "functionName": "fire",
+         "lineNumber": 973,
+         "scriptId": "29",
+         "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"
+      }, {
+         "columnNumber": 6,
+         "functionName": "fireWith",
+         "lineNumber": 1083,
+         "scriptId": "29",
+         "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"
+      }, {
+         "columnNumber": 12,
+         "functionName": "ready",
+         "lineNumber": 405,
+         "scriptId": "29",
+         "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"
+      }, {
+         "columnNumber": 10,
+         "functionName": "DOMContentLoaded",
+         "lineNumber": 82,
+         "scriptId": "29",
+         "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"
+      } ]
+   },
+   "timestamp": 1538690213492.5498,
+   "type": "log"
+}
+[1538690213.824][DEBUG]: DevTools WebSocket Event: Runtime.consoleAPICalled CB0C350E676F3960D72056C2D448DB4E {
+   "args": [ {
+      "type": "string",
+      "value": "[VP] ========== INITIALIZE VIDEO PLAYER APP =========="
+   } ],
+   "executionContextId": 1,
+   "stackTrace": {
+      "callFrames": [ {
+         "columnNumber": 30,
+         "functionName": "push",
+         "lineNumber": 261,
+         "scriptId": "45",
+         "url": "https://dev.gamespot.com/js/compiled/all_debugLogger_6.js"
+      }, {
+         "columnNumber": 18,
+         "functionName": "App.log",
+         "lineNumber": 79,
+         "scriptId": "45",
+         "url": "https://dev.gamespot.com/js/compiled/all_debugLogger_6.js"
+      }, {
+         "columnNumber": 8,
+         "functionName": "",
+         "lineNumber": 1135,
+         "scriptId": "72",
+         "url": "https://dev.gamespot.com/js/compiled/all_init_33.js"
+      }, {
+         "columnNumber": 29,
+         "functionName": "fire",
+         "lineNumber": 973,
+         "scriptId": "29",
+         "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"
+      }, {
+         "columnNumber": 6,
+         "functionName": "fireWith",
+         "lineNumber": 1083,
+         "scriptId": "29",
+         "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"
+      }, {
+         "columnNumber": 12,
+         "functionName": "ready",
+         "lineNumber": 405,
+         "scriptId": "29",
+         "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"
+      }, {
+         "columnNumber": 10,
+         "functionName": "DOMContentLoaded",
+         "lineNumber": 82,
+         "scriptId": "29",
+         "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"
+      } ]
+   },
+   "timestamp": 1538690213493.231,
+   "type": "debug"
+}
+[1538690213.824][DEBUG]: DevTools WebSocket Event: Runtime.consoleAPICalled CB0C350E676F3960D72056C2D448DB4E {
+   "args": [ {
+      "type": "string",
+      "value": "[VP] >>>>>>>>>>[INIT] INITIALIZE VIDEO PLAYER APP at time : 1538690213493"
+   } ],
+   "executionContextId": 1,
+   "stackTrace": {
+      "callFrames": [ {
+         "columnNumber": 30,
+         "functionName": "push",
+         "lineNumber": 261,
+         "scriptId": "45",
+         "url": "https://dev.gamespot.com/js/compiled/all_debugLogger_6.js"
+      }, {
+         "columnNumber": 18,
+         "functionName": "App.log",
+         "lineNumber": 79,
+         "scriptId": "45",
+         "url": "https://dev.gamespot.com/js/compiled/all_debugLogger_6.js"
+      }, {
+         "columnNumber": 8,
+         "functionName": "",
+         "lineNumber": 1136,
+         "scriptId": "72",
+         "url": "https://dev.gamespot.com/js/compiled/all_init_33.js"
+      }, {
+         "columnNumber": 29,
+         "functionName": "fire",
+         "lineNumber": 973,
+         "scriptId": "29",
+         "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"
+      }, {
+         "columnNumber": 6,
+         "functionName": "fireWith",
+         "lineNumber": 1083,
+         "scriptId": "29",
+         "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"
+      }, {
+         "columnNumber": 12,
+         "functionName": "ready",
+         "lineNumber": 405,
+         "scriptId": "29",
+         "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"
+      }, {
+         "columnNumber": 10,
+         "functionName": "DOMContentLoaded",
+         "lineNumber": 82,
+         "scriptId": "29",
+         "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"
+      } ]
+   },
+   "timestamp": 1538690213493.4841,
+   "type": "debug"
+}
+[1538690213.824][DEBUG]: DevTools WebSocket Event: Runtime.consoleAPICalled CB0C350E676F3960D72056C2D448DB4E {
+   "args": [ {
+      "type": "string",
+      "value": "[VP] [PREFS] No saved states found"
+   } ],
+   "executionContextId": 1,
+   "stackTrace": {
+      "callFrames": [ {
+         "columnNumber": 30,
+         "functionName": "push",
+         "lineNumber": 261,
+         "scriptId": "45",
+         "url": "https://dev.gamespot.com/js/compiled/all_debugLogger_6.js"
+      }, {
+         "columnNumber": 18,
+         "functionName": "App.log",
+         "lineNumber": 79,
+         "scriptId": "45",
+         "url": "https://dev.gamespot.com/js/compiled/all_debugLogger_6.js"
+      }, {
+         "columnNumber": 16,
+         "functionName": "initialize",
+         "lineNumber": 300,
+         "scriptId": "70",
+         "url": "https://dev.gamespot.com/js/compiled/all_preferences_31.js"
+      }, {
+         "columnNumber": 20,
+         "functionName": "Backbone.View",
+         "lineNumber": 2740,
+         "scriptId": "40",
+         "url": "https://dev.gamespot.com/js/compiled/all_part_1.js"
+      }, {
+         "columnNumber": 40,
+         "functionName": "child",
+         "lineNumber": 3400,
+         "scriptId": "40",
+         "url": "https://dev.gamespot.com/js/compiled/all_part_1.js"
+      }, {
+         "columnNumber": 22,
+         "functionName": "",
+         "lineNumber": 1142,
+         "scriptId": "72",
+         "url": "https://dev.gamespot.com/js/compiled/all_init_33.js"
+      }, {
+         "columnNumber": 29,
+         "functionName": "fire",
+         "lineNumber": 973,
+         "scriptId": "29",
+         "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"
+      }, {
+         "columnNumber": 6,
+         "functionName": "fireWith",
+         "lineNumber": 1083,
+         "scriptId": "29",
+         "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"
+      }, {
+         "columnNumber": 12,
+         "functionName": "ready",
+         "lineNumber": 405,
+         "scriptId": "29",
+         "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"
+      }, {
+         "columnNumber": 10,
+         "functionName": "DOMContentLoaded",
+         "lineNumber": 82,
+         "scriptId": "29",
+         "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"
+      } ]
+   },
+   "timestamp": 1538690213494.845,
+   "type": "debug"
+}
+[1538690213.825][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 160,
+   "nodeId": 7
+}
+[1538690213.825][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 159,
+   "nodeId": 7
+}
+[1538690213.825][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 160,
+   "nodeId": 7
+}
+[1538690213.825][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 159,
+   "nodeId": 7
+}
+[1538690213.825][DEBUG]: DevTools WebSocket Event: DOM.documentUpdated CB0C350E676F3960D72056C2D448DB4E {
+
+}
+[1538690213.825][DEBUG]: DevTools WebSocket Command: DOM.getDocument (id=21) CB0C350E676F3960D72056C2D448DB4E {
+
+}
+[1538690213.825][DEBUG]: DevTools WebSocket Event: Page.domContentEventFired CB0C350E676F3960D72056C2D448DB4E {
+   "timestamp": 876828.63033
+}
+[1538690213.825][DEBUG]: DevTools WebSocket Response: Runtime.evaluate (id=20) CB0C350E676F3960D72056C2D448DB4E {
+   "result": {
+      "description": "1",
+      "type": "number",
+      "value": 1
+   }
+}
+[1538690213.843][DEBUG]: DevTools WebSocket Response: DOM.getDocument (id=21) CB0C350E676F3960D72056C2D448DB4E {
+   "root": {
+      "backendNodeId": 1,
+      "baseURL": "https://dev.gamespot.com/videos/pubgs-new-update-shakes-up-the-desert-map-and-blue/2300-6443547/?debug_video_player=1",
+      "childNodeCount": 2,
+      "children": [ {
+         "backendNodeId": 2,
+         "localName": "",
+         "nodeId": 10,
+         "nodeName": "html",
+         "nodeType": 10,
+         "nodeValue": "",
+         "parentId": 9,
+         "publicId": "",
+         "systemId": ""
+      }, {
+         "attributes": [ "lang", "en", "itemscope", "", "id", "", "class", "js no-touch  blobconstructor blob-constructor cors dataview history filereader localstorage sessionstorage canvas canvastext video todataurljpeg todataurlpng todataurlwebp cssgradients fileinput sr...", "style", "", "data-useragent", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "data-platform", "MacIntel" ],
+         "backendNodeId": 3,
+         "childNodeCount": 2,
+         "children": [ {
+            "attributes": [  ],
+            "backendNodeId": 4,
+            "childNodeCount": 83,
+            "localName": "head",
+            "nodeId": 12,
+            "nodeName": "HEAD",
+            "nodeType": 1,
+            "nodeValue": "",
+            "parentId": 11
+         }, {
+            "attributes": [ "id", "default-body", "class", "default has-nav-slim  body-video skin-no col-3-template ", "style", "display: block !important" ],
+            "backendNodeId": 7,
+            "childNodeCount": 169,
+            "localName": "body",
+            "nodeId": 13,
+            "nodeName": "BODY",
+            "nodeType": 1,
+            "nodeValue": "",
+            "parentId": 11
+         } ],
+         "frameId": "CB0C350E676F3960D72056C2D448DB4E",
+         "localName": "html",
+         "nodeId": 11,
+         "nodeName": "HTML",
+         "nodeType": 1,
+         "nodeValue": "",
+         "parentId": 9
+      } ],
+      "documentURL": "https://dev.gamespot.com/videos/pubgs-new-update-shakes-up-the-desert-map-and-blue/2300-6443547/?debug_video_player=1",
+      "localName": "",
+      "nodeId": 9,
+      "nodeName": "#document",
+      "nodeType": 9,
+      "nodeValue": "",
+      "xmlVersion": ""
+   }
+}
+[1538690213.893][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 168,
+   "nodeId": 13
+}
+[1538690213.894][DEBUG]: DevTools WebSocket Command: Runtime.evaluate (id=22) CB0C350E676F3960D72056C2D448DB4E {
+   "expression": "1"
+}
+[1538690213.907][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 167,
+   "nodeId": 13
+}
+[1538690213.930][DEBUG]: DevTools WebSocket Response: Runtime.evaluate (id=22) CB0C350E676F3960D72056C2D448DB4E {
+   "result": {
+      "description": "1",
+      "type": "number",
+      "value": 1
+   }
+}
+[1538690213.935][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 84,
+   "nodeId": 12
+}
+[1538690213.935][DEBUG]: DevTools WebSocket Command: Runtime.evaluate (id=23) CB0C350E676F3960D72056C2D448DB4E {
+   "expression": "1"
+}
+[1538690213.941][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 168,
+   "nodeId": 13
+}
+[1538690213.941][DEBUG]: DevTools WebSocket Event: Page.frameAttached CB0C350E676F3960D72056C2D448DB4E {
+   "frameId": "8B69EF7CBCBEDB662950DB550E5C1208",
+   "parentFrameId": "CB0C350E676F3960D72056C2D448DB4E",
+   "stack": {
+      "callFrames": [ {
+         "columnNumber": 2229,
+         "functionName": "S",
+         "lineNumber": 0,
+         "scriptId": "216",
+         "url": "https://js.agkn.com/prod/v0/tag.js"
+      }, {
+         "columnNumber": 2934,
+         "functionName": "generateTag",
+         "lineNumber": 0,
+         "scriptId": "216",
+         "url": "https://js.agkn.com/prod/v0/tag.js"
+      }, {
+         "columnNumber": 3081,
+         "functionName": "",
+         "lineNumber": 0,
+         "scriptId": "216",
+         "url": "https://js.agkn.com/prod/v0/tag.js"
+      } ]
+   }
+}
+[1538690213.944][DEBUG]: DevTools WebSocket Event: Page.frameStartedLoading CB0C350E676F3960D72056C2D448DB4E {
+   "frameId": "8B69EF7CBCBEDB662950DB550E5C1208"
+}
+[1538690213.983][DEBUG]: DevTools WebSocket Response: Runtime.evaluate (id=23) CB0C350E676F3960D72056C2D448DB4E {
+   "result": {
+      "description": "1",
+      "type": "number",
+      "value": 1
+   }
+}
+[1538690214.002][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 169,
+   "nodeId": 13
+}
+[1538690214.002][DEBUG]: DevTools WebSocket Event: Page.frameAttached CB0C350E676F3960D72056C2D448DB4E {
+   "frameId": "93C4B63CBFA703B1B60AC83B811D8A27",
+   "parentFrameId": "CB0C350E676F3960D72056C2D448DB4E",
+   "stack": {
+      "callFrames": [ {
+         "columnNumber": 45,
+         "functionName": "e",
+         "lineNumber": 1,
+         "scriptId": "217",
+         "url": "https://cdn.goroost.com/roostjs/dk8jewc95b7mbevk9q529rg34poipdv9"
+      }, {
+         "columnNumber": 882,
+         "functionName": "config",
+         "lineNumber": 85,
+         "scriptId": "217",
+         "url": "https://cdn.goroost.com/roostjs/dk8jewc95b7mbevk9q529rg34poipdv9"
+      }, {
+         "columnNumber": 824,
+         "functionName": "preConfig",
+         "lineNumber": 85,
+         "scriptId": "217",
+         "url": "https://cdn.goroost.com/roostjs/dk8jewc95b7mbevk9q529rg34poipdv9"
+      }, {
+         "columnNumber": 430,
+         "functionName": "C",
+         "lineNumber": 26,
+         "scriptId": "217",
+         "url": "https://cdn.goroost.com/roostjs/dk8jewc95b7mbevk9q529rg34poipdv9"
+      }, {
+         "columnNumber": 70,
+         "functionName": "",
+         "lineNumber": 247,
+         "scriptId": "217",
+         "url": "https://cdn.goroost.com/roostjs/dk8jewc95b7mbevk9q529rg34poipdv9"
+      }, {
+         "columnNumber": 167,
+         "functionName": "",
+         "lineNumber": 247,
+         "scriptId": "217",
+         "url": "https://cdn.goroost.com/roostjs/dk8jewc95b7mbevk9q529rg34poipdv9"
+      } ]
+   }
+}
+[1538690214.002][DEBUG]: DevTools WebSocket Command: Runtime.evaluate (id=24) CB0C350E676F3960D72056C2D448DB4E {
+   "expression": "1"
+}
+[1538690214.004][DEBUG]: DevTools WebSocket Event: Page.frameStartedLoading CB0C350E676F3960D72056C2D448DB4E {
+   "frameId": "93C4B63CBFA703B1B60AC83B811D8A27"
+}
+[1538690214.007][DEBUG]: DevTools WebSocket Event: Log.entryAdded CB0C350E676F3960D72056C2D448DB4E {
+   "entry": {
+      "level": "error",
+      "networkRequestId": "1000018580.397",
+      "source": "network",
+      "text": "Failed to load resource: the server responded with a status of 403 ()",
+      "timestamp": 1538690214006.63,
+      "url": "https://beacon.tru.am/beacon"
+   }
+}
+[1538690214.007][DEBUG]: DevTools WebSocket Event: Log.entryAdded CB0C350E676F3960D72056C2D448DB4E {
+   "entry": {
+      "level": "error",
+      "networkRequestId": "1000018580.397",
+      "source": "network",
+      "text": "Failed to load resource: the server responded with a status of 403 ()",
+      "timestamp": 1538690214006.75,
+      "url": "https://beacon.tru.am/beacon"
+   }
+}
+[1538690214.007][DEBUG]: DevTools WebSocket Event: Log.entryAdded CB0C350E676F3960D72056C2D448DB4E {
+   "entry": {
+      "level": "error",
+      "source": "javascript",
+      "text": "Failed to load https://beacon.tru.am/beacon: No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'https://dev.gamespot.com' is therefore not allowed access. The res...",
+      "timestamp": 1538690214006.84,
+      "url": "https://dev.gamespot.com/videos/pubgs-new-update-shakes-up-the-desert-map-and-blue/2300-6443547/?debug_video_player=1"
+   }
+}
+[1538690214.011][DEBUG]: DevTools WebSocket Response: Runtime.evaluate (id=24) CB0C350E676F3960D72056C2D448DB4E {
+   "result": {
+      "description": "1",
+      "type": "number",
+      "value": 1
+   }
+}
+[1538690214.012][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 168,
+   "nodeId": 13
+}
+[1538690214.013][DEBUG]: DevTools WebSocket Command: Runtime.evaluate (id=25) CB0C350E676F3960D72056C2D448DB4E {
+   "expression": "1"
+}
+[1538690214.013][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 167,
+   "nodeId": 13
+}
+[1538690214.031][DEBUG]: DevTools WebSocket Response: Runtime.evaluate (id=25) CB0C350E676F3960D72056C2D448DB4E {
+   "result": {
+      "description": "1",
+      "type": "number",
+      "value": 1
+   }
+}
+[1538690214.037][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 166,
+   "nodeId": 13
+}
+[1538690214.037][DEBUG]: DevTools WebSocket Command: Runtime.evaluate (id=26) CB0C350E676F3960D72056C2D448DB4E {
+   "expression": "1"
+}
+[1538690214.038][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 165,
+   "nodeId": 13
+}
+[1538690214.038][DEBUG]: DevTools WebSocket Response: Runtime.evaluate (id=26) CB0C350E676F3960D72056C2D448DB4E {
+   "result": {
+      "description": "1",
+      "type": "number",
+      "value": 1
+   }
+}
+[1538690214.086][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 85,
+   "nodeId": 12
+}
+[1538690214.086][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 86,
+   "nodeId": 12
+}
+[1538690214.086][DEBUG]: DevTools WebSocket Command: Runtime.evaluate (id=27) CB0C350E676F3960D72056C2D448DB4E {
+   "expression": "1"
+}
+[1538690214.090][DEBUG]: DevTools WebSocket Response: Runtime.evaluate (id=27) CB0C350E676F3960D72056C2D448DB4E {
+   "result": {
+      "description": "1",
+      "type": "number",
+      "value": 1
+   }
+}
+[1538690214.125][DEBUG]: DevTools WebSocket Event: Log.entryAdded CB0C350E676F3960D72056C2D448DB4E {
+   "entry": {
+      "level": "error",
+      "networkRequestId": "1000018580.394",
+      "source": "network",
+      "text": "Failed to load resource: the server responded with a status of 404 ()",
+      "timestamp": 1538690214124.5,
+      "url": "https://mid.rkdms.com/ids?ptk=17c1789b-e660-493b-aa74-3c8fb990dc5f&pubid=CBSI"
+   }
+}
+[1538690214.125][DEBUG]: DevTools WebSocket Command: Runtime.evaluate (id=28) CB0C350E676F3960D72056C2D448DB4E {
+   "expression": "1"
+}
+[1538690214.127][DEBUG]: DevTools WebSocket Response: Runtime.evaluate (id=28) CB0C350E676F3960D72056C2D448DB4E {
+   "result": {
+      "description": "1",
+      "type": "number",
+      "value": 1
+   }
+}
+[1538690214.253][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 164,
+   "nodeId": 13
+}
+[1538690214.253][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 163,
+   "nodeId": 13
+}
+[1538690214.253][DEBUG]: DevTools WebSocket Command: Runtime.evaluate (id=29) CB0C350E676F3960D72056C2D448DB4E {
+   "expression": "1"
+}
+[1538690214.284][DEBUG]: DevTools WebSocket Response: Runtime.evaluate (id=29) CB0C350E676F3960D72056C2D448DB4E {
+   "result": {
+      "description": "1",
+      "type": "number",
+      "value": 1
+   }
+}
+[1538690214.291][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 162,
+   "nodeId": 13
+}
+[1538690214.291][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 161,
+   "nodeId": 13
+}
+[1538690214.291][DEBUG]: DevTools WebSocket Command: Runtime.evaluate (id=30) CB0C350E676F3960D72056C2D448DB4E {
+   "expression": "1"
+}
+[1538690214.321][DEBUG]: DevTools WebSocket Response: Runtime.evaluate (id=30) CB0C350E676F3960D72056C2D448DB4E {
+   "result": {
+      "description": "1",
+      "type": "number",
+      "value": 1
+   }
+}
+[1538690214.341][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 85,
+   "nodeId": 12
+}
+[1538690214.341][DEBUG]: DevTools WebSocket Command: Runtime.evaluate (id=31) CB0C350E676F3960D72056C2D448DB4E {
+   "expression": "1"
+}
+[1538690214.344][DEBUG]: DevTools WebSocket Response: Runtime.evaluate (id=31) CB0C350E676F3960D72056C2D448DB4E {
+   "result": {
+      "description": "1",
+      "type": "number",
+      "value": 1
+   }
+}
+[1538690214.394][DEBUG]: DevTools WebSocket Event: Page.frameNavigated CB0C350E676F3960D72056C2D448DB4E {
+   "frame": {
+      "id": "8B69EF7CBCBEDB662950DB550E5C1208",
+      "loaderId": "9089DFA03E6FADB0F4FDD70E4558D72F",
+      "mimeType": "text/html",
+      "name": "",
+      "parentId": "CB0C350E676F3960D72056C2D448DB4E",
+      "securityOrigin": "https://d.agkn.com",
+      "url": "https://d.agkn.com/iframe/8613/?che=299862445&c=%7B%22bpid%22%3A%22cbsinteractive%22%2C%22loc%22%3A%22https%3A%2F%2Fdev.gamespot.com%2Fvideos%2Fpubgs-new-update-shakes-up-the-desert-map-and-blue%2F..."
+   }
+}
+[1538690214.394][DEBUG]: DevTools WebSocket Event: Runtime.executionContextCreated CB0C350E676F3960D72056C2D448DB4E {
+   "context": {
+      "auxData": {
+         "frameId": "8B69EF7CBCBEDB662950DB550E5C1208",
+         "isDefault": true
+      },
+      "id": 2,
+      "name": "",
+      "origin": "https://d.agkn.com"
+   }
+}
+[1538690214.394][DEBUG]: DevTools WebSocket Command: Runtime.evaluate (id=32) CB0C350E676F3960D72056C2D448DB4E {
+   "expression": "1"
+}
+[1538690214.550][DEBUG]: DevTools WebSocket Event: DOM.childNodeInserted CB0C350E676F3960D72056C2D448DB4E {
+   "node": {
+      "attributes": [ "class", "banner_ad" ],
+      "backendNodeId": 16,
+      "childNodeCount": 1,
+      "children": [ {
+         "backendNodeId": 17,
+         "localName": "",
+         "nodeId": 15,
+         "nodeName": "#text",
+         "nodeType": 3,
+         "nodeValue": ".",
+         "parentId": 14
+      } ],
+      "localName": "div",
+      "nodeId": 14,
+      "nodeName": "DIV",
+      "nodeType": 1,
+      "nodeValue": ""
+   },
+   "parentNodeId": 11,
+   "previousNodeId": 13
+}
+[1538690214.550][DEBUG]: DevTools WebSocket Event: DOM.childNodeRemoved CB0C350E676F3960D72056C2D448DB4E {
+   "nodeId": 14,
+   "parentNodeId": 11
+}
+[1538690214.550][DEBUG]: DevTools WebSocket Event: DOM.childNodeInserted CB0C350E676F3960D72056C2D448DB4E {
+   "node": {
+      "attributes": [ "class", "sponsored_ad" ],
+      "backendNodeId": 18,
+      "childNodeCount": 1,
+      "children": [ {
+         "backendNodeId": 19,
+         "localName": "",
+         "nodeId": 17,
+         "nodeName": "#text",
+         "nodeType": 3,
+         "nodeValue": ".",
+         "parentId": 16
+      } ],
+      "localName": "div",
+      "nodeId": 16,
+      "nodeName": "DIV",
+      "nodeType": 1,
+      "nodeValue": ""
+   },
+   "parentNodeId": 11,
+   "previousNodeId": 13
+}
+[1538690214.550][DEBUG]: DevTools WebSocket Event: DOM.childNodeRemoved CB0C350E676F3960D72056C2D448DB4E {
+   "nodeId": 16,
+   "parentNodeId": 11
+}
+[1538690214.550][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 86,
+   "nodeId": 12
+}
+[1538690214.550][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 87,
+   "nodeId": 12
+}
+[1538690214.550][DEBUG]: DevTools WebSocket Response: Runtime.evaluate (id=32) CB0C350E676F3960D72056C2D448DB4E {
+   "result": {
+      "description": "1",
+      "type": "number",
+      "value": 1
+   }
+}
+[1538690214.571][DEBUG]: DevTools WebSocket Event: Page.frameNavigated CB0C350E676F3960D72056C2D448DB4E {
+   "frame": {
+      "id": "93C4B63CBFA703B1B60AC83B811D8A27",
+      "loaderId": "958E90F41504C9E81546C4554B146460",
+      "mimeType": "text/html",
+      "name": "",
+      "parentId": "CB0C350E676F3960D72056C2D448DB4E",
+      "securityOrigin": "https://pageconfig.goroost.com",
+      "url": "https://pageconfig.goroost.com/pageconfig?appKey=dk8jewc95b7mbevk9q529rg34poipdv9&url=https%3A%2F%2Fdev.gamespot.com%2Fvideos%2Fpubgs-new-update-shakes-up-the-desert-map-and-blue%2F2300-6443547%2F%..."
+   }
+}
+[1538690214.571][DEBUG]: DevTools WebSocket Event: Runtime.executionContextCreated CB0C350E676F3960D72056C2D448DB4E {
+   "context": {
+      "auxData": {
+         "frameId": "93C4B63CBFA703B1B60AC83B811D8A27",
+         "isDefault": true
+      },
+      "id": 3,
+      "name": "",
+      "origin": "https://pageconfig.goroost.com"
+   }
+}
+[1538690214.571][DEBUG]: DevTools WebSocket Command: Runtime.evaluate (id=33) CB0C350E676F3960D72056C2D448DB4E {
+   "expression": "1"
+}
+[1538690214.572][DEBUG]: DevTools WebSocket Response: Runtime.evaluate (id=33) CB0C350E676F3960D72056C2D448DB4E {
+   "result": {
+      "description": "1",
+      "type": "number",
+      "value": 1
+   }
+}
+[1538690214.574][DEBUG]: DevTools WebSocket Event: Page.frameStoppedLoading CB0C350E676F3960D72056C2D448DB4E {
+   "frameId": "93C4B63CBFA703B1B60AC83B811D8A27"
+}
+[1538690214.574][DEBUG]: DevTools WebSocket Command: Runtime.evaluate (id=34) CB0C350E676F3960D72056C2D448DB4E {
+   "expression": "1"
+}
+[1538690214.579][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 88,
+   "nodeId": 12
+}
+[1538690214.580][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 162,
+   "nodeId": 13
+}
+[1538690214.580][DEBUG]: DevTools WebSocket Event: Page.frameAttached CB0C350E676F3960D72056C2D448DB4E {
+   "frameId": "10AF642299531413FC10734C58C4C468",
+   "parentFrameId": "CB0C350E676F3960D72056C2D448DB4E",
+   "stack": {
+      "callFrames": [ {
+         "columnNumber": 45,
+         "functionName": "e",
+         "lineNumber": 1,
+         "scriptId": "217",
+         "url": "https://cdn.goroost.com/roostjs/dk8jewc95b7mbevk9q529rg34poipdv9"
+      }, {
+         "columnNumber": 1897,
+         "functionName": "pageview",
+         "lineNumber": 85,
+         "scriptId": "217",
+         "url": "https://cdn.goroost.com/roostjs/dk8jewc95b7mbevk9q529rg34poipdv9"
+      }, {
+         "columnNumber": 1833,
+         "functionName": "prePageview",
+         "lineNumber": 85,
+         "scriptId": "217",
+         "url": "https://cdn.goroost.com/roostjs/dk8jewc95b7mbevk9q529rg34poipdv9"
+      }, {
+         "columnNumber": 1758,
+         "functionName": "checkComplete",
+         "lineNumber": 85,
+         "scriptId": "217",
+         "url": "https://cdn.goroost.com/roostjs/dk8jewc95b7mbevk9q529rg34poipdv9"
+      }, {
+         "columnNumber": 352,
+         "functionName": "check",
+         "lineNumber": 102,
+         "scriptId": "217",
+         "url": "https://cdn.goroost.com/roostjs/dk8jewc95b7mbevk9q529rg34poipdv9"
+      }, {
+         "columnNumber": 1667,
+         "functionName": "postConfig",
+         "lineNumber": 85,
+         "scriptId": "217",
+         "url": "https://cdn.goroost.com/roostjs/dk8jewc95b7mbevk9q529rg34poipdv9"
+      }, {
+         "columnNumber": 851,
+         "functionName": "y",
+         "lineNumber": 25,
+         "scriptId": "217",
+         "url": "https://cdn.goroost.com/roostjs/dk8jewc95b7mbevk9q529rg34poipdv9"
+      }, {
+         "columnNumber": 222,
+         "functionName": "k",
+         "lineNumber": 24,
+         "scriptId": "217",
+         "url": "https://cdn.goroost.com/roostjs/dk8jewc95b7mbevk9q529rg34poipdv9"
+      } ]
+   }
+}
+[1538690214.581][DEBUG]: DevTools WebSocket Event: Page.frameStartedLoading CB0C350E676F3960D72056C2D448DB4E {
+   "frameId": "10AF642299531413FC10734C58C4C468"
+}
+[1538690214.581][DEBUG]: DevTools WebSocket Response: Runtime.evaluate (id=34) CB0C350E676F3960D72056C2D448DB4E {
+   "result": {
+      "description": "1",
+      "type": "number",
+      "value": 1
+   }
+}
+[1538690214.686][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 163,
+   "nodeId": 13
+}
+[1538690214.686][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 164,
+   "nodeId": 13
+}
+[1538690214.686][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 165,
+   "nodeId": 13
+}
+[1538690214.686][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 166,
+   "nodeId": 13
+}
+[1538690214.686][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 167,
+   "nodeId": 13
+}
+[1538690214.686][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 168,
+   "nodeId": 13
+}
+[1538690214.686][DEBUG]: DevTools WebSocket Command: Runtime.evaluate (id=35) CB0C350E676F3960D72056C2D448DB4E {
+   "expression": "1"
+}
+[1538690214.735][DEBUG]: DevTools WebSocket Event: Log.entryAdded CB0C350E676F3960D72056C2D448DB4E {
+   "entry": {
+      "level": "error",
+      "lineNumber": 964,
+      "source": "javascript",
+      "stackTrace": {
+         "callFrames": [ {
+            "columnNumber": 10011,
+            "functionName": "",
+            "lineNumber": 964,
+            "scriptId": "181",
+            "url": "https://dev.gamespot.com/videos/pubgs-new-update-shakes-up-the-desert-map-and-blue/2300-6443547/?debug_video_player=1"
+         } ]
+      },
+      "text": "Refused to get unsafe header \"X-Debug-Token\"",
+      "timestamp": 1538690214733.99,
+      "url": "https://dev.gamespot.com/videos/pubgs-new-update-shakes-up-the-desert-map-and-blue/2300-6443547/?debug_video_player=1"
+   }
+}
+[1538690214.735][DEBUG]: DevTools WebSocket Event: Log.entryAdded CB0C350E676F3960D72056C2D448DB4E {
+   "entry": {
+      "level": "error",
+      "lineNumber": 964,
+      "source": "javascript",
+      "stackTrace": {
+         "callFrames": [ {
+            "columnNumber": 10110,
+            "functionName": "",
+            "lineNumber": 964,
+            "scriptId": "181",
+            "url": "https://dev.gamespot.com/videos/pubgs-new-update-shakes-up-the-desert-map-and-blue/2300-6443547/?debug_video_player=1"
+         } ]
+      },
+      "text": "Refused to get unsafe header \"X-Debug-Token-Link\"",
+      "timestamp": 1538690214734.18,
+      "url": "https://dev.gamespot.com/videos/pubgs-new-update-shakes-up-the-desert-map-and-blue/2300-6443547/?debug_video_player=1"
+   }
+}
+[1538690214.736][DEBUG]: DevTools WebSocket Response: Runtime.evaluate (id=35) CB0C350E676F3960D72056C2D448DB4E {
+   "result": {
+      "description": "1",
+      "type": "number",
+      "value": 1
+   }
+}
+[1538690214.853][DEBUG]: DevTools WebSocket Event: Log.entryAdded CB0C350E676F3960D72056C2D448DB4E {
+   "entry": {
+      "level": "error",
+      "source": "javascript",
+      "text": "Redirect from 'https://cdn.ampproject.org/r/www.gamespot.com/bundles/phoenixsite/fonts/Argumentum/Argumentum-Light-webfont.woff2' to 'https://www-gamespot-com.cdn.ampproject.org/r/www.gamespot.com/...",
+      "timestamp": 1538690214852.4,
+      "url": "https://dev.gamespot.com/videos/pubgs-new-update-shakes-up-the-desert-map-and-blue/2300-6443547/?debug_video_player=1"
+   }
+}
+[1538690214.853][DEBUG]: DevTools WebSocket Command: Runtime.evaluate (id=36) CB0C350E676F3960D72056C2D448DB4E {
+   "expression": "1"
+}
+[1538690214.873][DEBUG]: DevTools WebSocket Event: Log.entryAdded CB0C350E676F3960D72056C2D448DB4E {
+   "entry": {
+      "level": "error",
+      "lineNumber": 964,
+      "source": "javascript",
+      "stackTrace": {
+         "callFrames": [ {
+            "columnNumber": 10011,
+            "functionName": "",
+            "lineNumber": 964,
+            "scriptId": "181",
+            "url": "https://dev.gamespot.com/videos/pubgs-new-update-shakes-up-the-desert-map-and-blue/2300-6443547/?debug_video_player=1"
+         } ]
+      },
+      "text": "Refused to get unsafe header \"X-Debug-Token\"",
+      "timestamp": 1538690214872.53,
+      "url": "https://dev.gamespot.com/videos/pubgs-new-update-shakes-up-the-desert-map-and-blue/2300-6443547/?debug_video_player=1"
+   }
+}
+[1538690214.873][DEBUG]: DevTools WebSocket Event: Log.entryAdded CB0C350E676F3960D72056C2D448DB4E {
+   "entry": {
+      "level": "error",
+      "lineNumber": 964,
+      "source": "javascript",
+      "stackTrace": {
+         "callFrames": [ {
+            "columnNumber": 10110,
+            "functionName": "",
+            "lineNumber": 964,
+            "scriptId": "181",
+            "url": "https://dev.gamespot.com/videos/pubgs-new-update-shakes-up-the-desert-map-and-blue/2300-6443547/?debug_video_player=1"
+         } ]
+      },
+      "text": "Refused to get unsafe header \"X-Debug-Token-Link\"",
+      "timestamp": 1538690214872.7,
+      "url": "https://dev.gamespot.com/videos/pubgs-new-update-shakes-up-the-desert-map-and-blue/2300-6443547/?debug_video_player=1"
+   }
+}
+[1538690214.941][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 169,
+   "nodeId": 13
+}
+[1538690214.941][DEBUG]: DevTools WebSocket Event: Page.frameAttached CB0C350E676F3960D72056C2D448DB4E {
+   "frameId": "7749DA5B4E56BE5DDAD8004AC961ABD0",
+   "parentFrameId": "CB0C350E676F3960D72056C2D448DB4E",
+   "stack": {
+      "callFrames": [ {
+         "columnNumber": 257341,
+         "functionName": "Manager.appendPixelsToIFrameMultipleIframes",
+         "lineNumber": 2,
+         "scriptId": "223",
+         "url": "https://cdn.taboola.com/libtrc/impl.326-48-RELEASE.js"
+      }, {
+         "columnNumber": 256094,
+         "functionName": "Manager.appendPixelsToIFrame",
+         "lineNumber": 2,
+         "scriptId": "223",
+         "url": "https://cdn.taboola.com/libtrc/impl.326-48-RELEASE.js"
+      }, {
+         "columnNumber": 254958,
+         "functionName": "Manager.sendExternalTracking",
+         "lineNumber": 2,
+         "scriptId": "223",
+         "url": "https://cdn.taboola.com/libtrc/impl.326-48-RELEASE.js"
+      }, {
+         "columnNumber": 219032,
+         "functionName": "sendUserIdTags",
+         "lineNumber": 2,
+         "scriptId": "223",
+         "url": "https://cdn.taboola.com/libtrc/impl.326-48-RELEASE.js"
+      }, {
+         "columnNumber": 39910,
+         "functionName": "",
+         "lineNumber": 2,
+         "scriptId": "223",
+         "url": "https://cdn.taboola.com/libtrc/impl.326-48-RELEASE.js"
+      }, {
+         "columnNumber": 40048,
+         "functionName": "",
+         "lineNumber": 2,
+         "scriptId": "223",
+         "url": "https://cdn.taboola.com/libtrc/impl.326-48-RELEASE.js"
+      }, {
+         "columnNumber": 40297,
+         "functionName": "r",
+         "lineNumber": 2,
+         "scriptId": "223",
+         "url": "https://cdn.taboola.com/libtrc/impl.326-48-RELEASE.js"
+      }, {
+         "columnNumber": 39887,
+         "functionName": "",
+         "lineNumber": 2,
+         "scriptId": "223",
+         "url": "https://cdn.taboola.com/libtrc/impl.326-48-RELEASE.js"
+      }, {
+         "columnNumber": 39815,
+         "functionName": "TRC.dispatch",
+         "lineNumber": 2,
+         "scriptId": "223",
+         "url": "https://cdn.taboola.com/libtrc/impl.326-48-RELEASE.js"
+      }, {
+         "columnNumber": 212219,
+         "functionName": "handleLoadResponse",
+         "lineNumber": 2,
+         "scriptId": "223",
+         "url": "https://cdn.taboola.com/libtrc/impl.326-48-RELEASE.js"
+      }, {
+         "columnNumber": 14,
+         "functionName": "",
+         "lineNumber": 0,
+         "scriptId": "231",
+         "url": "https://trc.taboola.com/cbsinteractive-gamespot/trc/3/json?tim=14%3A56%3A54.548&data=%7B%22id%22%3A313%2C%22ii%22%3A%22%2Fvideos%2Fpubgs-new-update-shakes-up-the-desert-map-and-blue%2F2300-6443547%..."
+      } ]
+   }
+}
+[1538690214.960][DEBUG]: DevTools WebSocket Event: Page.frameStartedLoading CB0C350E676F3960D72056C2D448DB4E {
+   "frameId": "7749DA5B4E56BE5DDAD8004AC961ABD0"
+}
+[1538690214.960][DEBUG]: DevTools WebSocket Event: Page.frameNavigated CB0C350E676F3960D72056C2D448DB4E {
+   "frame": {
+      "id": "7749DA5B4E56BE5DDAD8004AC961ABD0",
+      "loaderId": "DD3CF4B1E8BA82C8FBB7B8271F35BFF8",
+      "mimeType": "text/html",
+      "name": "trc-pixel-iframe-3974",
+      "parentId": "CB0C350E676F3960D72056C2D448DB4E",
+      "securityOrigin": "://",
+      "url": "about:blank"
+   }
+}
+[1538690214.960][DEBUG]: DevTools WebSocket Event: Runtime.executionContextCreated CB0C350E676F3960D72056C2D448DB4E {
+   "context": {
+      "auxData": {
+         "frameId": "7749DA5B4E56BE5DDAD8004AC961ABD0",
+         "isDefault": true
+      },
+      "id": 4,
+      "name": "",
+      "origin": "https://dev.gamespot.com"
+   }
+}
+[1538690214.960][DEBUG]: DevTools WebSocket Event: Page.frameStoppedLoading CB0C350E676F3960D72056C2D448DB4E {
+   "frameId": "7749DA5B4E56BE5DDAD8004AC961ABD0"
+}
+[1538690214.961][DEBUG]: DevTools WebSocket Event: Runtime.consoleAPICalled CB0C350E676F3960D72056C2D448DB4E {
+   "args": [ {
+      "type": "string",
+      "value": "Exit TRCRBox.loadScriptCallback(retry=1): no items in response - thumbnails-b-abp"
+   } ],
+   "executionContextId": 1,
+   "stackTrace": {
+      "callFrames": [ {
+         "columnNumber": 725,
+         "functionName": "__trcLog",
+         "lineNumber": 2,
+         "scriptId": "223",
+         "url": "https://cdn.taboola.com/libtrc/impl.326-48-RELEASE.js"
+      }, {
+         "columnNumber": 867,
+         "functionName": "__trcError",
+         "lineNumber": 2,
+         "scriptId": "223",
+         "url": "https://cdn.taboola.com/libtrc/impl.326-48-RELEASE.js"
+      }, {
+         "columnNumber": 276314,
+         "functionName": "r.loadScriptCallback",
+         "lineNumber": 2,
+         "scriptId": "223",
+         "url": "https://cdn.taboola.com/libtrc/impl.326-48-RELEASE.js"
+      }, {
+         "columnNumber": 287007,
+         "functionName": "r.sendRequest",
+         "lineNumber": 2,
+         "scriptId": "223",
+         "url": "https://cdn.taboola.com/libtrc/impl.326-48-RELEASE.js"
+      }, {
+         "columnNumber": 26350,
+         "functionName": "TRC.dom.onReady",
+         "lineNumber": 2,
+         "scriptId": "223",
+         "url": "https://cdn.taboola.com/libtrc/impl.326-48-RELEASE.js"
+      }, {
+         "columnNumber": 289261,
+         "functionName": "r.getData",
+         "lineNumber": 2,
+         "scriptId": "223",
+         "url": "https://cdn.taboola.com/libtrc/impl.326-48-RELEASE.js"
+      }, {
+         "columnNumber": 291248,
+         "functionName": "r.load",
+         "lineNumber": 2,
+         "scriptId": "223",
+         "url": "https://cdn.taboola.com/libtrc/impl.326-48-RELEASE.js"
+      }, {
+         "columnNumber": 192284,
+         "functionName": "renderRBox",
+         "lineNumber": 2,
+         "scriptId": "223",
+         "url": "https://cdn.taboola.com/libtrc/impl.326-48-RELEASE.js"
+      }, {
+         "columnNumber": 236373,
+         "functionName": "internalDrawRBox",
+         "lineNumber": 2,
+         "scriptId": "223",
+         "url": "https://cdn.taboola.com/libtrc/impl.326-48-RELEASE.js"
+      }, {
+         "columnNumber": 215253,
+         "functionName": "parseResponse",
+         "lineNumber": 2,
+         "scriptId": "223",
+         "url": "https://cdn.taboola.com/libtrc/impl.326-48-RELEASE.js"
+      }, {
+         "columnNumber": 209859,
+         "functionName": "r",
+         "lineNumber": 2,
+         "scriptId": "223",
+         "url": "https://cdn.taboola.com/libtrc/impl.326-48-RELEASE.js"
+      }, {
+         "columnNumber": 213488,
+         "functionName": "",
+         "lineNumber": 2,
+         "scriptId": "223",
+         "url": "https://cdn.taboola.com/libtrc/impl.326-48-RELEASE.js"
+      }, {
+         "columnNumber": 134734,
+         "functionName": "f",
+         "lineNumber": 2,
+         "scriptId": "223",
+         "url": "https://cdn.taboola.com/libtrc/impl.326-48-RELEASE.js"
+      }, {
+         "columnNumber": 135044,
+         "functionName": "e",
+         "lineNumber": 2,
+         "scriptId": "223",
+         "url": "https://cdn.taboola.com/libtrc/impl.326-48-RELEASE.js"
+      }, {
+         "columnNumber": 213447,
+         "functionName": "handleLoadResponse",
+         "lineNumber": 2,
+         "scriptId": "223",
+         "url": "https://cdn.taboola.com/libtrc/impl.326-48-RELEASE.js"
+      }, {
+         "columnNumber": 14,
+         "functionName": "",
+         "lineNumber": 0,
+         "scriptId": "231",
+         "url": "https://trc.taboola.com/cbsinteractive-gamespot/trc/3/json?tim=14%3A56%3A54.548&data=%7B%22id%22%3A313%2C%22ii%22%3A%22%2Fvideos%2Fpubgs-new-update-shakes-up-the-desert-map-and-blue%2F2300-6443547%..."
+      } ]
+   },
+   "timestamp": 1538690214959.12,
+   "type": "log"
+}
+[1538690214.993][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 89,
+   "nodeId": 12
+}
+[1538690214.993][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 170,
+   "nodeId": 13
+}
+[1538690214.993][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 90,
+   "nodeId": 12
+}
+[1538690214.994][DEBUG]: DevTools WebSocket Event: Page.frameAttached CB0C350E676F3960D72056C2D448DB4E {
+   "frameId": "9FC756E1F076496FEF89BE5EDF660D45",
+   "parentFrameId": "CB0C350E676F3960D72056C2D448DB4E",
+   "stack": {
+      "callFrames": [ {
+         "columnNumber": 412532,
+         "functionName": "f",
+         "lineNumber": 2,
+         "scriptId": "223",
+         "url": "https://cdn.taboola.com/libtrc/impl.326-48-RELEASE.js"
+      }, {
+         "columnNumber": 412925,
+         "functionName": "v",
+         "lineNumber": 2,
+         "scriptId": "223",
+         "url": "https://cdn.taboola.com/libtrc/impl.326-48-RELEASE.js"
+      }, {
+         "columnNumber": 411510,
+         "functionName": "p",
+         "lineNumber": 2,
+         "scriptId": "223",
+         "url": "https://cdn.taboola.com/libtrc/impl.326-48-RELEASE.js"
+      }, {
+         "columnNumber": 283809,
+         "functionName": "r.loadScriptCallback",
+         "lineNumber": 2,
+         "scriptId": "223",
+         "url": "https://cdn.taboola.com/libtrc/impl.326-48-RELEASE.js"
+      }, {
+         "columnNumber": 287007,
+         "functionName": "r.sendRequest",
+         "lineNumber": 2,
+         "scriptId": "223",
+         "url": "https://cdn.taboola.com/libtrc/impl.326-48-RELEASE.js"
+      }, {
+         "columnNumber": 26350,
+         "functionName": "TRC.dom.onReady",
+         "lineNumber": 2,
+         "scriptId": "223",
+         "url": "https://cdn.taboola.com/libtrc/impl.326-48-RELEASE.js"
+      }, {
+         "columnNumber": 289261,
+         "functionName": "r.getData",
+         "lineNumber": 2,
+         "scriptId": "223",
+         "url": "https://cdn.taboola.com/libtrc/impl.326-48-RELEASE.js"
+      }, {
+         "columnNumber": 291248,
+         "functionName": "r.load",
+         "lineNumber": 2,
+         "scriptId": "223",
+         "url": "https://cdn.taboola.com/libtrc/impl.326-48-RELEASE.js"
+      }, {
+         "columnNumber": 192284,
+         "functionName": "renderRBox",
+         "lineNumber": 2,
+         "scriptId": "223",
+         "url": "https://cdn.taboola.com/libtrc/impl.326-48-RELEASE.js"
+      }, {
+         "columnNumber": 236373,
+         "functionName": "internalDrawRBox",
+         "lineNumber": 2,
+         "scriptId": "223",
+         "url": "https://cdn.taboola.com/libtrc/impl.326-48-RELEASE.js"
+      }, {
+         "columnNumber": 215253,
+         "functionName": "parseResponse",
+         "lineNumber": 2,
+         "scriptId": "223",
+         "url": "https://cdn.taboola.com/libtrc/impl.326-48-RELEASE.js"
+      }, {
+         "columnNumber": 209859,
+         "functionName": "r",
+         "lineNumber": 2,
+         "scriptId": "223",
+         "url": "https://cdn.taboola.com/libtrc/impl.326-48-RELEASE.js"
+      }, {
+         "columnNumber": 213488,
+         "functionName": "",
+         "lineNumber": 2,
+         "scriptId": "223",
+         "url": "https://cdn.taboola.com/libtrc/impl.326-48-RELEASE.js"
+      }, {
+         "columnNumber": 134734,
+         "functionName": "f",
+         "lineNumber": 2,
+         "scriptId": "223",
+         "url": "https://cdn.taboola.com/libtrc/impl.326-48-RELEASE.js"
+      }, {
+         "columnNumber": 135044,
+         "functionName": "e",
+         "lineNumber": 2,
+         "scriptId": "223",
+         "url": "https://cdn.taboola.com/libtrc/impl.326-48-RELEASE.js"
+      }, {
+         "columnNumber": 213447,
+         "functionName": "handleLoadResponse",
+         "lineNumber": 2,
+         "scriptId": "223",
+         "url": "https://cdn.taboola.com/libtrc/impl.326-48-RELEASE.js"
+      }, {
+         "columnNumber": 14,
+         "functionName": "",
+         "lineNumber": 0,
+         "scriptId": "231",
+         "url": "https://trc.taboola.com/cbsinteractive-gamespot/trc/3/json?tim=14%3A56%3A54.548&data=%7B%22id%22%3A313%2C%22ii%22%3A%22%2Fvideos%2Fpubgs-new-update-shakes-up-the-desert-map-and-blue%2F2300-6443547%..."
+      } ]
+   }
+}
+[1538690215.012][DEBUG]: DevTools WebSocket Event: Page.frameStartedLoading CB0C350E676F3960D72056C2D448DB4E {
+   "frameId": "9FC756E1F076496FEF89BE5EDF660D45"
+}
+[1538690215.012][DEBUG]: DevTools WebSocket Event: Page.frameNavigated CB0C350E676F3960D72056C2D448DB4E {
+   "frame": {
+      "id": "9FC756E1F076496FEF89BE5EDF660D45",
+      "loaderId": "0A0296ADBDEA6B386B9769459B94F57A",
+      "mimeType": "text/html",
+      "name": "",
+      "parentId": "CB0C350E676F3960D72056C2D448DB4E",
+      "securityOrigin": "://",
+      "url": "about:blank"
+   }
+}
+[1538690215.012][DEBUG]: DevTools WebSocket Event: Runtime.executionContextCreated CB0C350E676F3960D72056C2D448DB4E {
+   "context": {
+      "auxData": {
+         "frameId": "9FC756E1F076496FEF89BE5EDF660D45",
+         "isDefault": true
+      },
+      "id": 5,
+      "name": "",
+      "origin": "https://dev.gamespot.com"
+   }
+}
+[1538690215.012][DEBUG]: DevTools WebSocket Event: Page.frameStoppedLoading CB0C350E676F3960D72056C2D448DB4E {
+   "frameId": "9FC756E1F076496FEF89BE5EDF660D45"
+}
+[1538690215.012][DEBUG]: DevTools WebSocket Event: Page.frameStartedLoading CB0C350E676F3960D72056C2D448DB4E {
+   "frameId": "9FC756E1F076496FEF89BE5EDF660D45"
+}
+[1538690215.012][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 89,
+   "nodeId": 12
+}
+[1538690215.012][DEBUG]: DevTools WebSocket Response: Runtime.evaluate (id=36) CB0C350E676F3960D72056C2D448DB4E {
+   "result": {
+      "description": "1",
+      "type": "number",
+      "value": 1
+   }
+}
+[1538690215.019][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 90,
+   "nodeId": 12
+}
+[1538690215.019][DEBUG]: DevTools WebSocket Command: Runtime.evaluate (id=37) CB0C350E676F3960D72056C2D448DB4E {
+   "expression": "1"
+}
+[1538690215.037][DEBUG]: DevTools WebSocket Event: Log.entryAdded CB0C350E676F3960D72056C2D448DB4E {
+   "entry": {
+      "level": "error",
+      "lineNumber": 964,
+      "source": "javascript",
+      "stackTrace": {
+         "callFrames": [ {
+            "columnNumber": 10011,
+            "functionName": "",
+            "lineNumber": 964,
+            "scriptId": "181",
+            "url": "https://dev.gamespot.com/videos/pubgs-new-update-shakes-up-the-desert-map-and-blue/2300-6443547/?debug_video_player=1"
+         } ]
+      },
+      "text": "Refused to get unsafe header \"X-Debug-Token\"",
+      "timestamp": 1538690215036.8,
+      "url": "https://dev.gamespot.com/videos/pubgs-new-update-shakes-up-the-desert-map-and-blue/2300-6443547/?debug_video_player=1"
+   }
+}
+[1538690215.037][DEBUG]: DevTools WebSocket Event: Log.entryAdded CB0C350E676F3960D72056C2D448DB4E {
+   "entry": {
+      "level": "error",
+      "lineNumber": 964,
+      "source": "javascript",
+      "stackTrace": {
+         "callFrames": [ {
+            "columnNumber": 10110,
+            "functionName": "",
+            "lineNumber": 964,
+            "scriptId": "181",
+            "url": "https://dev.gamespot.com/videos/pubgs-new-update-shakes-up-the-desert-map-and-blue/2300-6443547/?debug_video_player=1"
+         } ]
+      },
+      "text": "Refused to get unsafe header \"X-Debug-Token-Link\"",
+      "timestamp": 1538690215036.96,
+      "url": "https://dev.gamespot.com/videos/pubgs-new-update-shakes-up-the-desert-map-and-blue/2300-6443547/?debug_video_player=1"
+   }
+}
+[1538690215.062][DEBUG]: DevTools WebSocket Event: Page.frameStoppedLoading CB0C350E676F3960D72056C2D448DB4E {
+   "frameId": "9FC756E1F076496FEF89BE5EDF660D45"
+}
+[1538690215.076][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 171,
+   "nodeId": 13
+}
+[1538690215.077][DEBUG]: DevTools WebSocket Response: Runtime.evaluate (id=37) CB0C350E676F3960D72056C2D448DB4E {
+   "result": {
+      "description": "1",
+      "type": "number",
+      "value": 1
+   }
+}
+[1538690215.089][DEBUG]: DevTools WebSocket Event: Page.frameNavigated CB0C350E676F3960D72056C2D448DB4E {
+   "frame": {
+      "id": "10AF642299531413FC10734C58C4C468",
+      "loaderId": "976540C408E9E0921BE5242318D9CC04",
+      "mimeType": "text/html",
+      "name": "",
+      "parentId": "CB0C350E676F3960D72056C2D448DB4E",
+      "securityOrigin": "https://pageview.goroost.com",
+      "url": "https://pageview.goroost.com/pageview?rdt=null&rid=null&appKey=dk8jewc95b7mbevk9q529rg34poipdv9&url=https%3A%2F%2Fdev.gamespot.com%2Fvideos%2Fpubgs-new-update-shakes-up-the-desert-map-and-blue%2F23..."
+   }
+}
+[1538690215.089][DEBUG]: DevTools WebSocket Event: Runtime.executionContextCreated CB0C350E676F3960D72056C2D448DB4E {
+   "context": {
+      "auxData": {
+         "frameId": "10AF642299531413FC10734C58C4C468",
+         "isDefault": true
+      },
+      "id": 6,
+      "name": "",
+      "origin": "https://pageview.goroost.com"
+   }
+}
+[1538690215.089][DEBUG]: DevTools WebSocket Command: Runtime.evaluate (id=38) CB0C350E676F3960D72056C2D448DB4E {
+   "expression": "1"
+}
+[1538690215.090][DEBUG]: DevTools WebSocket Response: Runtime.evaluate (id=38) CB0C350E676F3960D72056C2D448DB4E {
+   "result": {
+      "description": "1",
+      "type": "number",
+      "value": 1
+   }
+}
+[1538690215.092][DEBUG]: DevTools WebSocket Event: Page.frameStoppedLoading CB0C350E676F3960D72056C2D448DB4E {
+   "frameId": "10AF642299531413FC10734C58C4C468"
+}
+[1538690215.092][DEBUG]: DevTools WebSocket Command: Runtime.evaluate (id=39) CB0C350E676F3960D72056C2D448DB4E {
+   "expression": "1"
+}
+[1538690215.094][DEBUG]: DevTools WebSocket Event: Runtime.consoleAPICalled CB0C350E676F3960D72056C2D448DB4E {
+   "args": [ {
+      "type": "string",
+      "value": "Roost Error: Domains do not match and Chrome push can only support a single config / domain, this site is currently configured for: www.gamespot.com and document.domain is returning: dev.gamespot.com"
+   } ],
+   "executionContextId": 1,
+   "stackTrace": {
+      "callFrames": [ {
+         "columnNumber": 565,
+         "functionName": "prompt",
+         "lineNumber": 105,
+         "scriptId": "217",
+         "url": "https://cdn.goroost.com/roostjs/dk8jewc95b7mbevk9q529rg34poipdv9"
+      }, {
+         "columnNumber": 85,
+         "functionName": "prompt",
+         "lineNumber": 91,
+         "scriptId": "217",
+         "url": "https://cdn.goroost.com/roostjs/dk8jewc95b7mbevk9q529rg34poipdv9"
+      }, {
+         "columnNumber": 115,
+         "functionName": "prePrompt",
+         "lineNumber": 89,
+         "scriptId": "217",
+         "url": "https://cdn.goroost.com/roostjs/dk8jewc95b7mbevk9q529rg34poipdv9"
+      }, {
+         "columnNumber": 46,
+         "functionName": "onload",
+         "lineNumber": 89,
+         "scriptId": "217",
+         "url": "https://cdn.goroost.com/roostjs/dk8jewc95b7mbevk9q529rg34poipdv9"
+      }, {
+         "columnNumber": 218,
+         "functionName": "postPageview",
+         "lineNumber": 87,
+         "scriptId": "217",
+         "url": "https://cdn.goroost.com/roostjs/dk8jewc95b7mbevk9q529rg34poipdv9"
+      }, {
+         "columnNumber": 263,
+         "functionName": "y",
+         "lineNumber": 25,
+         "scriptId": "217",
+         "url": "https://cdn.goroost.com/roostjs/dk8jewc95b7mbevk9q529rg34poipdv9"
+      }, {
+         "columnNumber": 222,
+         "functionName": "k",
+         "lineNumber": 24,
+         "scriptId": "217",
+         "url": "https://cdn.goroost.com/roostjs/dk8jewc95b7mbevk9q529rg34poipdv9"
+      } ]
+   },
+   "timestamp": 1538690215093.3171,
+   "type": "log"
+}
+[1538690215.094][DEBUG]: DevTools WebSocket Response: Runtime.evaluate (id=39) CB0C350E676F3960D72056C2D448DB4E {
+   "result": {
+      "description": "1",
+      "type": "number",
+      "value": 1
+   }
+}
+[1538690215.290][DEBUG]: DevTools WebSocket Event: Log.entryAdded CB0C350E676F3960D72056C2D448DB4E {
+   "entry": {
+      "level": "error",
+      "lineNumber": 964,
+      "source": "javascript",
+      "stackTrace": {
+         "callFrames": [ {
+            "columnNumber": 10011,
+            "functionName": "",
+            "lineNumber": 964,
+            "scriptId": "181",
+            "url": "https://dev.gamespot.com/videos/pubgs-new-update-shakes-up-the-desert-map-and-blue/2300-6443547/?debug_video_player=1"
+         } ]
+      },
+      "text": "Refused to get unsafe header \"X-Debug-Token\"",
+      "timestamp": 1538690215289.31,
+      "url": "https://dev.gamespot.com/videos/pubgs-new-update-shakes-up-the-desert-map-and-blue/2300-6443547/?debug_video_player=1"
+   }
+}
+[1538690215.290][DEBUG]: DevTools WebSocket Event: Log.entryAdded CB0C350E676F3960D72056C2D448DB4E {
+   "entry": {
+      "level": "error",
+      "lineNumber": 964,
+      "source": "javascript",
+      "stackTrace": {
+         "callFrames": [ {
+            "columnNumber": 10110,
+            "functionName": "",
+            "lineNumber": 964,
+            "scriptId": "181",
+            "url": "https://dev.gamespot.com/videos/pubgs-new-update-shakes-up-the-desert-map-and-blue/2300-6443547/?debug_video_player=1"
+         } ]
+      },
+      "text": "Refused to get unsafe header \"X-Debug-Token-Link\"",
+      "timestamp": 1538690215289.42,
+      "url": "https://dev.gamespot.com/videos/pubgs-new-update-shakes-up-the-desert-map-and-blue/2300-6443547/?debug_video_player=1"
+   }
+}
+[1538690215.290][DEBUG]: DevTools WebSocket Command: Runtime.evaluate (id=40) CB0C350E676F3960D72056C2D448DB4E {
+   "expression": "1"
+}
+[1538690215.291][DEBUG]: DevTools WebSocket Response: Runtime.evaluate (id=40) CB0C350E676F3960D72056C2D448DB4E {
+   "result": {
+      "description": "1",
+      "type": "number",
+      "value": 1
+   }
+}
+[1538690215.295][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 89,
+   "nodeId": 12
+}
+[1538690215.295][DEBUG]: DevTools WebSocket Command: Runtime.evaluate (id=41) CB0C350E676F3960D72056C2D448DB4E {
+   "expression": "1"
+}
+[1538690215.297][DEBUG]: DevTools WebSocket Response: Runtime.evaluate (id=41) CB0C350E676F3960D72056C2D448DB4E {
+   "result": {
+      "description": "1",
+      "type": "number",
+      "value": 1
+   }
+}
+[1538690215.889][DEBUG]: DevTools WebSocket Event: Page.frameStoppedLoading CB0C350E676F3960D72056C2D448DB4E {
+   "frameId": "8B69EF7CBCBEDB662950DB550E5C1208"
+}
+[1538690215.889][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 172,
+   "nodeId": 13
+}
+[1538690215.889][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 173,
+   "nodeId": 13
+}
+[1538690215.889][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated CB0C350E676F3960D72056C2D448DB4E {
+   "childNodeCount": 174,
+   "nodeId": 13
+}
+[1538690215.889][DEBUG]: DevTools WebSocket Event: Page.loadEventFired CB0C350E676F3960D72056C2D448DB4E {
+   "timestamp": 876830.991043
+}
+[1538690215.889][DEBUG]: DevTools WebSocket Event: Page.frameStoppedLoading CB0C350E676F3960D72056C2D448DB4E {
+   "frameId": "CB0C350E676F3960D72056C2D448DB4E"
+}
+[1538690215.889][DEBUG]: DevTools WebSocket Command: Runtime.evaluate (id=42) CB0C350E676F3960D72056C2D448DB4E {
+   "expression": "1"
+}
+[1538690215.890][DEBUG]: DevTools WebSocket Response: Runtime.evaluate (id=42) CB0C350E676F3960D72056C2D448DB4E {
+   "result": {
+      "description": "1",
+      "type": "number",
+      "value": 1
+   }
+}
+[1538690215.890][INFO]: Done waiting for pending navigations. Status: ok
+[1538690215.890][INFO]: [c7729b30b98f601f88fc09d9a40ce68c] RESPONSE Navigate
+[1538690215.901][INFO]: [c7729b30b98f601f88fc09d9a40ce68c] COMMAND CloseWindow {
+
+}
+[1538690215.901][DEBUG]: DevTools HTTP Request: http://localhost:62596/json
+[1538690215.901][DEBUG]: DevTools HTTP Response: [ {
+   "description": "",
+   "devtoolsFrontendUrl": "/devtools/inspector.html?ws=localhost:62596/devtools/page/817A893406CDE7CA8F67EAC8B7C04840",
+   "id": "817A893406CDE7CA8F67EAC8B7C04840",
+   "title": "Chrome Automation Extension",
+   "type": "background_page",
+   "url": "chrome-extension://aapnijgdinlhnhlmodcfapnahmbfebeb/_generated_background_page.html",
+   "webSocketDebuggerUrl": "ws://localhost:62596/devtools/page/817A893406CDE7CA8F67EAC8B7C04840"
+}, {
+   "description": "",
+   "devtoolsFrontendUrl": "/devtools/inspector.html?ws=localhost:62596/devtools/page/CB0C350E676F3960D72056C2D448DB4E",
+   "faviconUrl": "https://dev.gamespot.com/favicon.ico",
+   "id": "CB0C350E676F3960D72056C2D448DB4E",
+   "title": "PUBG&#39;s New Update Shakes Up The Desert Map And Blue Zone - GameSpot Daily - GameSpot Daily - GameSpot",
+   "type": "page",
+   "url": "https://dev.gamespot.com/videos/pubgs-new-update-shakes-up-the-desert-map-and-blue/2300-6443547/?debug_video_player=1",
+   "webSocketDebuggerUrl": "ws://localhost:62596/devtools/page/CB0C350E676F3960D72056C2D448DB4E"
+} ]
+
+[1538690215.901][DEBUG]: DevTools HTTP Request: http://localhost:62596/json/close/CB0C350E676F3960D72056C2D448DB4E
+[1538690215.902][DEBUG]: DevTools HTTP Response: Target is closing
+[1538690215.902][DEBUG]: DevTools HTTP Request: http://localhost:62596/json
+[1538690215.902][DEBUG]: DevTools HTTP Response: [ {
+   "description": "",
+   "devtoolsFrontendUrl": "/devtools/inspector.html?ws=localhost:62596/devtools/page/817A893406CDE7CA8F67EAC8B7C04840",
+   "id": "817A893406CDE7CA8F67EAC8B7C04840",
+   "title": "Chrome Automation Extension",
+   "type": "background_page",
+   "url": "chrome-extension://aapnijgdinlhnhlmodcfapnahmbfebeb/_generated_background_page.html",
+   "webSocketDebuggerUrl": "ws://localhost:62596/devtools/page/817A893406CDE7CA8F67EAC8B7C04840"
+}, {
+   "description": "",
+   "devtoolsFrontendUrl": "/devtools/inspector.html?ws=localhost:62596/devtools/page/CB0C350E676F3960D72056C2D448DB4E",
+   "faviconUrl": "https://dev.gamespot.com/favicon.ico",
+   "id": "CB0C350E676F3960D72056C2D448DB4E",
+   "title": "PUBG&#39;s New Update Shakes Up The Desert Map And Blue Zone - GameSpot Daily - GameSpot Daily - GameSpot",
+   "type": "page",
+   "url": "https://dev.gamespot.com/videos/pubgs-new-update-shakes-up-the-desert-map-and-blue/2300-6443547/?debug_video_player=1",
+   "webSocketDebuggerUrl": "ws://localhost:62596/devtools/page/CB0C350E676F3960D72056C2D448DB4E"
+} ]
+
+[1538690215.953][DEBUG]: DevTools HTTP Request: http://localhost:62596/json
+[1538690215.953][DEBUG]: DevTools HTTP Response: [ {
+   "description": "",
+   "devtoolsFrontendUrl": "/devtools/inspector.html?ws=localhost:62596/devtools/page/817A893406CDE7CA8F67EAC8B7C04840",
+   "id": "817A893406CDE7CA8F67EAC8B7C04840",
+   "title": "Chrome Automation Extension",
+   "type": "background_page",
+   "url": "chrome-extension://aapnijgdinlhnhlmodcfapnahmbfebeb/_generated_background_page.html",
+   "webSocketDebuggerUrl": "ws://localhost:62596/devtools/page/817A893406CDE7CA8F67EAC8B7C04840"
+} ]
+
+[1538690215.953][DEBUG]: DevTools HTTP Request: http://localhost:62596/json
+[1538690215.954][DEBUG]: DevTools HTTP Response: [ {
+   "description": "",
+   "devtoolsFrontendUrl": "/devtools/inspector.html?ws=localhost:62596/devtools/page/817A893406CDE7CA8F67EAC8B7C04840",
+   "id": "817A893406CDE7CA8F67EAC8B7C04840",
+   "title": "Chrome Automation Extension",
+   "type": "background_page",
+   "url": "chrome-extension://aapnijgdinlhnhlmodcfapnahmbfebeb/_generated_background_page.html",
+   "webSocketDebuggerUrl": "ws://localhost:62596/devtools/page/817A893406CDE7CA8F67EAC8B7C04840"
+} ]
+
+[1538690216.004][INFO]: [c7729b30b98f601f88fc09d9a40ce68c] RESPONSE CloseWindow [  ]
+[1538690216.004][DEBUG]: Log type 'driver' lost 1 entries on destruction
+[1538690216.004][DEBUG]: Log type 'browser' lost 29 entries on destruction
