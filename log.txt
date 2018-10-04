@@ -1,0 +1,2412 @@
+[Violation] Forced reflow while executing JavaScript took <N>ms
+[Violation] Forced reflow while executing JavaScript took <N>ms
+[Violation] Forced reflow while executing JavaScript took <N>ms
+[Violation] Forced reflow while executing JavaScript took <N>ms
+[Violation] Forced reflow while executing JavaScript took <N>ms
+[Violation] Forced reflow while executing JavaScript took <N>ms
+evidon-sitenotice-tag.js:1 dom not ready, setting event
+evidon-sitenotice-tag.js:1 dom not ready, setting event
+evidon-sitenotice-tag.js:1 dom not ready, setting event
+all_debugLogger_6.js:262 [VP] Enable video player js logging
+evidon-sitenotice-tag.js:1 dom ready, triggering load
+evidon-sitenotice-tag.js:1 Evidon -- evidon-notice-link not found on page, cant display the consent link.
+evidon-sitenotice-tag.js:1 dom ready, triggering load
+evidon-sitenotice-tag.js:1 dom ready, triggering load
+all_Phoenix_3.js:224 nr:setCustomAttribute (2) ["pageTitle", "PUBG's New Update Shakes Up The Desert Map And Blu…Zone - GameSpot Daily - GameSpot Daily - GameSpot"]
+all_Phoenix_3.js:221 nr:addToTrace [{…}]
+all_Phoenix_3.js:224 nr:setCustomAttribute (2) ["nr_pageStart", 2.6738000001059845]
+all_Phoenix_3.js:221 nr:addToTrace [{…}]
+all_Phoenix_3.js:224 nr:setCustomAttribute (2) ["nr_headerLoad", 2.9230000000679865]
+all_debugLogger_6.js:262 [VP] ========== INITIALIZE VIDEO PLAYER APP ==========
+all_debugLogger_6.js:262 [VP] >>>>>>>>>> [INIT] INITIALIZE VIDEO PLAYER APP at time : 1538600010913
+all_debugLogger_6.js:262 [VP] [PREFS] Cookied states:  {"volume":1,"mute":false}
+?debug_video_player=1:27 GET https://js-sec.indexww.com/ht/ls-gamespot.js 0 ()
+includeScript @ ?debug_video_player=1:27
+(anonymous) @ ?debug_video_player=1:111
+(anonymous) @ ?debug_video_player=1:110
+(anonymous) @ ?debug_video_player=1:60
+triggerConsent @ ?debug_video_player=1:81
+window.evidon.priorConsentCallback @ ?debug_video_player=1:124
+ak._runConsentCallback @ evidon-sitenotice-tag.js:1
+ak.showNotice @ evidon-sitenotice-tag.js:1
+(anonymous) @ evidon-sitenotice-tag.js:1
+l.betrad.com/site/v3/425/5388/1/1/1/1/18863?consent=1:1 GET https://l.betrad.com/site/v3/425/5388/1/1/1/1/18863?consent=1 0 ()
+Image (async)
+ak.dropPixel @ evidon-sitenotice-tag.js:1
+ak.showNotice @ evidon-sitenotice-tag.js:1
+(anonymous) @ evidon-sitenotice-tag.js:1
+l.betrad.com/site/v3/425/5388/1/2/1/1/18863?consent=1:1 GET https://l.betrad.com/site/v3/425/5388/1/2/1/1/18863?consent=1 0 ()
+Image (async)
+ak.dropPixel @ evidon-sitenotice-tag.js:1
+O.setLinkText @ evidon-sitenotice-tag.js:1
+ap @ evidon-sitenotice-tag.js:1
+O.createLink @ evidon-sitenotice-tag.js:1
+ak.showNotice @ evidon-sitenotice-tag.js:1
+(anonymous) @ evidon-sitenotice-tag.js:1
+cdn.viglink.com/images/pixel.gif?ch=2&rn=8.726720776180926:1 GET https://cdn.viglink.com/images/pixel.gif?ch=2&rn=8.726720776180926 0 ()
+Image (async)
+detect @ vglnk.js:106
+(anonymous) @ vglnk.js:106
+(anonymous) @ vglnk.js:132
+(anonymous) @ vglnk.js:109
+(anonymous) @ vglnk.js:28
+(anonymous) @ vglnk.js:29
+(anonymous) @ vglnk.js:109
+(anonymous) @ vglnk.js:137
+(anonymous) @ vglnk.js:137
+ad.doubleclick.net/ddm/ad/mixae/;ord=1538600011193?:1 GET https://ad.doubleclick.net/ddm/ad/mixae/;ord=1538600011193? 0 ()
+Image (async)
+(anonymous) @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+u @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+value @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+value @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+value @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+value @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+(anonymous) @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+value @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+(anonymous) @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+Promise.then (async)
+value @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+t @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+(anonymous) @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+Promise.then (async)
+o @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+r @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+(anonymous) @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+(anonymous) @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+r @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+(anonymous) @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+e @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+(anonymous) @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+(anonymous) @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+ta-pagesocial-sdk.js:1 POST https://beacon.tru.am/beacon 403 ()
+s @ ta-pagesocial-sdk.js:1
+(anonymous) @ ta-pagesocial-sdk.js:1
+setTimeout (async)
+h @ ta-pagesocial-sdk.js:1
+c @ ta-pagesocial-sdk.js:1
+onReady @ cbsinteractive.js:69
+load (async)
+(anonymous) @ cbsinteractive.js:73
+(anonymous) @ cbsinteractive.js:83
+ta-pagesocial-sdk.js:1 POST https://beacon.tru.am/beacon 403 ()
+s @ ta-pagesocial-sdk.js:1
+(anonymous) @ ta-pagesocial-sdk.js:1
+setTimeout (async)
+h @ ta-pagesocial-sdk.js:1
+c @ ta-pagesocial-sdk.js:1
+onReady @ cbsinteractive.js:69
+load (async)
+(anonymous) @ cbsinteractive.js:73
+(anonymous) @ cbsinteractive.js:83
+?debug_video_player=1:1 Failed to load https://beacon.tru.am/beacon: No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'https://dev.gamespot.com' is therefore not allowed access. The response had HTTP status code 403. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled.
+sourcepoint_sourcepoint_enhanced_detection_1.js:1 [Violation] 'setInterval' handler took 75ms
+[Violation] 'setTimeout' handler took <N>ms
+[Violation] 'setTimeout' handler took <N>ms
+[Violation] 'setTimeout' handler took <N>ms
+[Violation] 'setTimeout' handler took <N>ms
+[Violation] 'setTimeout' handler took <N>ms
+[Violation] 'setTimeout' handler took <N>ms
+?debug_video_player=1:984 Refused to get unsafe header "X-Debug-Token"
+(anonymous) @ ?debug_video_player=1:984
+XMLHttpRequest.send (async)
+cors @ vglnk.js:27
+request @ vglnk.js:44
+l @ vglnk.js:97
+e @ vglnk.js:99
+(anonymous) @ vglnk.js:99
+(anonymous) @ vglnk.js:133
+(anonymous) @ vglnk.js:24
+b @ vglnk.js:105
+(anonymous) @ vglnk.js:105
+setTimeout (async)
+b @ vglnk.js:105
+detect @ vglnk.js:106
+(anonymous) @ vglnk.js:106
+(anonymous) @ vglnk.js:132
+(anonymous) @ vglnk.js:109
+(anonymous) @ vglnk.js:28
+(anonymous) @ vglnk.js:29
+(anonymous) @ vglnk.js:109
+(anonymous) @ vglnk.js:137
+(anonymous) @ vglnk.js:137
+?debug_video_player=1:984 Refused to get unsafe header "X-Debug-Token-Link"
+(anonymous) @ ?debug_video_player=1:984
+XMLHttpRequest.send (async)
+cors @ vglnk.js:27
+request @ vglnk.js:44
+l @ vglnk.js:97
+e @ vglnk.js:99
+(anonymous) @ vglnk.js:99
+(anonymous) @ vglnk.js:133
+(anonymous) @ vglnk.js:24
+b @ vglnk.js:105
+(anonymous) @ vglnk.js:105
+setTimeout (async)
+b @ vglnk.js:105
+detect @ vglnk.js:106
+(anonymous) @ vglnk.js:106
+(anonymous) @ vglnk.js:132
+(anonymous) @ vglnk.js:109
+(anonymous) @ vglnk.js:28
+(anonymous) @ vglnk.js:29
+(anonymous) @ vglnk.js:109
+(anonymous) @ vglnk.js:137
+(anonymous) @ vglnk.js:137
+ad.doubleclick.net/ddm/ad/kfbc/;ord=1538600012070?:1 GET https://ad.doubleclick.net/ddm/ad/kfbc/;ord=1538600012070? 0 ()
+Image (async)
+(anonymous) @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+u @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+value @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+value @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+(anonymous) @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+Promise.then (async)
+i @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+(anonymous) @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+Promise.then (async)
+value @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+value @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+(anonymous) @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+value @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+(anonymous) @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+Promise.then (async)
+value @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+t @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+(anonymous) @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+Promise.then (async)
+o @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+r @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+(anonymous) @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+(anonymous) @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+r @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+(anonymous) @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+e @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+(anonymous) @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+(anonymous) @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+?debug_video_player=1:1 Redirect from 'https://cdn.ampproject.org/r/www.gamespot.com/bundles/phoenixsite/fonts/Argumentum/Argumentum-Light-webfont.woff2' to 'https://www-gamespot-com.cdn.ampproject.org/r/www.gamespot.com/bundles/phoenixsite/fonts/Argumentum/Argumentum-Light-webfont.woff2' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'https://dev.gamespot.com' is therefore not allowed access.
+?debug_video_player=1:984 Refused to get unsafe header "X-Debug-Token"
+(anonymous) @ ?debug_video_player=1:984
+XMLHttpRequest.send (async)
+cors @ vglnk.js:27
+request @ vglnk.js:44
+l @ vglnk.js:97
+e @ vglnk.js:99
+(anonymous) @ vglnk.js:99
+(anonymous) @ vglnk.js:24
+(anonymous) @ vglnk.js:24
+(anonymous) @ vglnk.js:28
+(anonymous) @ vglnk.js:29
+getDomains @ vglnk.js:138
+initNodes @ vglnk.js:140
+(anonymous) @ vglnk.js:136
+(anonymous) @ vglnk.js:37
+(anonymous) @ vglnk.js:28
+(anonymous) @ vglnk.js:29
+(anonymous) @ vglnk.js:107
+setTimeout (async)
+(anonymous) @ vglnk.js:107
+addEventListener @ vglnk.js:100
+(anonymous) @ vglnk.js:38
+runPlugin @ vglnk.js:136
+f @ vglnk.js:119
+(anonymous) @ vglnk.js:19
+k @ vglnk.js:120
+p @ vglnk.js:120
+(anonymous) @ vglnk.js:121
+onApiPing @ vglnk.js:130
+(anonymous) @ vglnk.js:21
+(anonymous) @ vglnk.js:97
+(anonymous) @ vglnk.js:43
+(anonymous) @ vglnk.js:27
+(anonymous) @ vglnk.js:28
+(anonymous) @ vglnk.js:29
+f.onreadystatechange @ vglnk.js:26
+XMLHttpRequest.send (async)
+cors @ vglnk.js:27
+request @ vglnk.js:44
+l @ vglnk.js:97
+e @ vglnk.js:99
+(anonymous) @ vglnk.js:99
+(anonymous) @ vglnk.js:133
+(anonymous) @ vglnk.js:24
+b @ vglnk.js:105
+(anonymous) @ vglnk.js:105
+setTimeout (async)
+b @ vglnk.js:105
+detect @ vglnk.js:106
+(anonymous) @ vglnk.js:106
+(anonymous) @ vglnk.js:132
+(anonymous) @ vglnk.js:109
+(anonymous) @ vglnk.js:28
+(anonymous) @ vglnk.js:29
+(anonymous) @ vglnk.js:109
+(anonymous) @ vglnk.js:137
+(anonymous) @ vglnk.js:137
+?debug_video_player=1:984 Refused to get unsafe header "X-Debug-Token-Link"
+(anonymous) @ ?debug_video_player=1:984
+XMLHttpRequest.send (async)
+cors @ vglnk.js:27
+request @ vglnk.js:44
+l @ vglnk.js:97
+e @ vglnk.js:99
+(anonymous) @ vglnk.js:99
+(anonymous) @ vglnk.js:24
+(anonymous) @ vglnk.js:24
+(anonymous) @ vglnk.js:28
+(anonymous) @ vglnk.js:29
+getDomains @ vglnk.js:138
+initNodes @ vglnk.js:140
+(anonymous) @ vglnk.js:136
+(anonymous) @ vglnk.js:37
+(anonymous) @ vglnk.js:28
+(anonymous) @ vglnk.js:29
+(anonymous) @ vglnk.js:107
+setTimeout (async)
+(anonymous) @ vglnk.js:107
+addEventListener @ vglnk.js:100
+(anonymous) @ vglnk.js:38
+runPlugin @ vglnk.js:136
+f @ vglnk.js:119
+(anonymous) @ vglnk.js:19
+k @ vglnk.js:120
+p @ vglnk.js:120
+(anonymous) @ vglnk.js:121
+onApiPing @ vglnk.js:130
+(anonymous) @ vglnk.js:21
+(anonymous) @ vglnk.js:97
+(anonymous) @ vglnk.js:43
+(anonymous) @ vglnk.js:27
+(anonymous) @ vglnk.js:28
+(anonymous) @ vglnk.js:29
+f.onreadystatechange @ vglnk.js:26
+XMLHttpRequest.send (async)
+cors @ vglnk.js:27
+request @ vglnk.js:44
+l @ vglnk.js:97
+e @ vglnk.js:99
+(anonymous) @ vglnk.js:99
+(anonymous) @ vglnk.js:133
+(anonymous) @ vglnk.js:24
+b @ vglnk.js:105
+(anonymous) @ vglnk.js:105
+setTimeout (async)
+b @ vglnk.js:105
+detect @ vglnk.js:106
+(anonymous) @ vglnk.js:106
+(anonymous) @ vglnk.js:132
+(anonymous) @ vglnk.js:109
+(anonymous) @ vglnk.js:28
+(anonymous) @ vglnk.js:29
+(anonymous) @ vglnk.js:109
+(anonymous) @ vglnk.js:137
+(anonymous) @ vglnk.js:137
+?debug_video_player=1:984 Refused to get unsafe header "X-Debug-Token"
+(anonymous) @ ?debug_video_player=1:984
+XMLHttpRequest.send (async)
+cors @ vglnk.js:27
+request @ vglnk.js:44
+l @ vglnk.js:97
+e @ vglnk.js:99
+(anonymous) @ vglnk.js:99
+(anonymous) @ vglnk.js:24
+(anonymous) @ vglnk.js:24
+(anonymous) @ vglnk.js:28
+(anonymous) @ vglnk.js:29
+getDomains @ vglnk.js:138
+(anonymous) @ vglnk.js:24
+(anonymous) @ vglnk.js:37
+(anonymous) @ vglnk.js:28
+(anonymous) @ vglnk.js:29
+(anonymous) @ vglnk.js:107
+setTimeout (async)
+(anonymous) @ vglnk.js:107
+addEventListener @ vglnk.js:100
+(anonymous) @ vglnk.js:38
+(anonymous) @ vglnk.js:139
+(anonymous) @ vglnk.js:139
+(anonymous) @ vglnk.js:24
+(anonymous) @ vglnk.js:133
+(anonymous) @ vglnk.js:19
+processLink @ vglnk.js:133
+(anonymous) @ vglnk.js:24
+(anonymous) @ vglnk.js:19
+processLinks @ vglnk.js:133
+(anonymous) @ vglnk.js:115
+(anonymous) @ vglnk.js:24
+initLinks @ vglnk.js:115
+(anonymous) @ vglnk.js:111
+onApiPing @ vglnk.js:130
+(anonymous) @ vglnk.js:21
+(anonymous) @ vglnk.js:97
+(anonymous) @ vglnk.js:43
+(anonymous) @ vglnk.js:27
+(anonymous) @ vglnk.js:28
+(anonymous) @ vglnk.js:29
+f.onreadystatechange @ vglnk.js:26
+XMLHttpRequest.send (async)
+cors @ vglnk.js:27
+request @ vglnk.js:44
+l @ vglnk.js:97
+e @ vglnk.js:99
+(anonymous) @ vglnk.js:99
+(anonymous) @ vglnk.js:133
+(anonymous) @ vglnk.js:24
+b @ vglnk.js:105
+(anonymous) @ vglnk.js:105
+setTimeout (async)
+b @ vglnk.js:105
+detect @ vglnk.js:106
+(anonymous) @ vglnk.js:106
+(anonymous) @ vglnk.js:132
+(anonymous) @ vglnk.js:109
+(anonymous) @ vglnk.js:28
+(anonymous) @ vglnk.js:29
+(anonymous) @ vglnk.js:109
+(anonymous) @ vglnk.js:137
+(anonymous) @ vglnk.js:137
+?debug_video_player=1:984 Refused to get unsafe header "X-Debug-Token-Link"
+(anonymous) @ ?debug_video_player=1:984
+XMLHttpRequest.send (async)
+cors @ vglnk.js:27
+request @ vglnk.js:44
+l @ vglnk.js:97
+e @ vglnk.js:99
+(anonymous) @ vglnk.js:99
+(anonymous) @ vglnk.js:24
+(anonymous) @ vglnk.js:24
+(anonymous) @ vglnk.js:28
+(anonymous) @ vglnk.js:29
+getDomains @ vglnk.js:138
+(anonymous) @ vglnk.js:24
+(anonymous) @ vglnk.js:37
+(anonymous) @ vglnk.js:28
+(anonymous) @ vglnk.js:29
+(anonymous) @ vglnk.js:107
+setTimeout (async)
+(anonymous) @ vglnk.js:107
+addEventListener @ vglnk.js:100
+(anonymous) @ vglnk.js:38
+(anonymous) @ vglnk.js:139
+(anonymous) @ vglnk.js:139
+(anonymous) @ vglnk.js:24
+(anonymous) @ vglnk.js:133
+(anonymous) @ vglnk.js:19
+processLink @ vglnk.js:133
+(anonymous) @ vglnk.js:24
+(anonymous) @ vglnk.js:19
+processLinks @ vglnk.js:133
+(anonymous) @ vglnk.js:115
+(anonymous) @ vglnk.js:24
+initLinks @ vglnk.js:115
+(anonymous) @ vglnk.js:111
+onApiPing @ vglnk.js:130
+(anonymous) @ vglnk.js:21
+(anonymous) @ vglnk.js:97
+(anonymous) @ vglnk.js:43
+(anonymous) @ vglnk.js:27
+(anonymous) @ vglnk.js:28
+(anonymous) @ vglnk.js:29
+f.onreadystatechange @ vglnk.js:26
+XMLHttpRequest.send (async)
+cors @ vglnk.js:27
+request @ vglnk.js:44
+l @ vglnk.js:97
+e @ vglnk.js:99
+(anonymous) @ vglnk.js:99
+(anonymous) @ vglnk.js:133
+(anonymous) @ vglnk.js:24
+b @ vglnk.js:105
+(anonymous) @ vglnk.js:105
+setTimeout (async)
+b @ vglnk.js:105
+detect @ vglnk.js:106
+(anonymous) @ vglnk.js:106
+(anonymous) @ vglnk.js:132
+(anonymous) @ vglnk.js:109
+(anonymous) @ vglnk.js:28
+(anonymous) @ vglnk.js:29
+(anonymous) @ vglnk.js:109
+(anonymous) @ vglnk.js:137
+(anonymous) @ vglnk.js:137
+dk8jewc95b7mbevk9q529rg34poipdv9:106 Roost Error: Domains do not match and Chrome push can only support a single config / domain, this site is currently configured for: www.gamespot.com and document.domain is returning: dev.gamespot.com
+[Violation] Avoid using document.write().
+[Violation] Avoid using document.write().
+[Violation] Avoid using document.write().
+[Violation] Avoid using document.write().
+[Violation] Avoid using document.write().
+[Violation] Avoid using document.write().
+[Violation] Avoid using document.write().
+all_debugLogger_6.js:262 [VP] ========== INITIALIZE VIDEO PLAYER [212137422] ==========
+all_debugLogger_6.js:262 [VP] >>>>>>>>>> [INIT] INITIALIZE VIDEO PLAYER at time : 1538600012759
+all_debugLogger_6.js:262 [VP] [INIT] videoJSON:
+ {adCall: {…}, adPartner: "desktop/gamespot.com", ageGateCookieName: "videoAgeGateBirthday", autoplay: true, cms: "pi", …}
+all_debugLogger_6.js:262 [VP] [INIT] AgeGate initialized:  child {cid: "view2", el: undefined, $el: init(0), els: {…}}
+all_debugLogger_6.js:262 [VP] [AGE GATE] isOfAge?  true
+all_debugLogger_6.js:262 [VP] [INIT] Core player initialized
+all_debugLogger_6.js:262 [VP] vvvvvvvvvv VIDEO PLAYER COMPONENTS vvvvvvvvvv
+all_debugLogger_6.js:262 [VP] [MANAGER] Initialize ApiInterface uvpjs
+all_debugLogger_6.js:262 [VP] [API-UVPJS] initialize, container ID: js-vid-player-uvpjs212137422
+all_debugLogger_6.js:262 [VP] [API-UVPJS] Initialize cbsiVideoManager
+all_part_2.js:8 UVPJS 2.9.1 07/26/18 11:35:08 AM (PDT)
+all_debugLogger_6.js:262 [VP] [MANAGER] Initialize ApiInterface youtube
+all_debugLogger_6.js:262 [VP] [MANAGER] Initialize ApiInterface chromecast
+all_debugLogger_6.js:262 [VP] [MANAGER] managerApiInstances:  {212137422: {…}}
+all_debugLogger_6.js:262 [VP] [MANAGER] Player types loaded:  uvpjs, youtube, chromecast
+all_debugLogger_6.js:262 [VP] [MANAGER] For playerId [212137422] Initialized
+jquery.js:2723 [Violation] Added non-passive event listener to a scroll-blocking 'touchstart' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+add @ jquery.js:2723
+(anonymous) @ jquery.js:3535
+each @ jquery.js:611
+each @ jquery.js:241
+on @ jquery.js:3534
+delegate @ all_part_1.js:2838
+delegateEvents @ all_part_1.js:2829
+setElement @ all_part_1.js:2793
+_ensureElement @ all_part_1.js:2875
+Backbone.View @ all_part_1.js:2740
+child @ all_part_1.js:3401
+initProgress @ all_init_33.js:473
+initAllComponents @ all_init_33.js:254
+initPlayer @ all_init_33.js:742
+(anonymous) @ all_init_33.js:1084
+each @ jquery.js:611
+each @ jquery.js:241
+initPlayers @ all_init_33.js:1071
+initOnReady @ all_init_33.js:1127
+trackingInitializedHandler @ all_init_33.js:1133
+(anonymous) @ all_init_33.js:1164
+fn @ jquery.js:3529
+dispatch @ jquery.js:3058
+eventHandle @ jquery.js:2676
+trigger @ jquery.js:2941
+(anonymous) @ jquery.js:3599
+each @ jquery.js:611
+each @ jquery.js:241
+trigger @ jquery.js:3598
+initTracking @ tracking_tracking_8.js:1006
+(anonymous) @ tracking_tracking_8.js:1098
+thirdPartyCallback @ ?debug_video_player=1:56
+(anonymous) @ tracking_tracking_8.js:1097
+supplyBundleData @ all_postRender_63.js:238
+(anonymous) @ all_postRender_63.js:196
+_broadcastResult @ all_postRender_63.js:192
+(anonymous) @ all_postRender_63.js:177
+success @ all_AjaxApiRequest_61.js:274
+fire @ jquery.js:974
+fireWith @ jquery.js:1084
+done @ jquery.js:7803
+callback @ jquery.js:8518
+all_debugLogger_6.js:262 [VP] [INIT] Initialize Player Control Chrome
+all_debugLogger_6.js:262 [VP] [INIT] Initialize Player Controls:  {Share: ƒ, PlayPause: ƒ, Volume: ƒ, Fullscreen: ƒ, PlaybackQuality: ƒ, …}
+all_debugLogger_6.js:262 [VP] [INIT] Share initialized
+all_debugLogger_6.js:262 [VP] [INIT] PlayPause initialized
+all_debugLogger_6.js:262 [VP] [INIT] Volume initialized
+all_debugLogger_6.js:262 [VP] [INIT] Fullscreen initialized
+all_debugLogger_6.js:262 [VP] [CONTROL] initPlaybackQualities
+all_debugLogger_6.js:262 [VP] [CONTROL] $qualities:  init(4) [button.av-ctrl.av-menu-ctrl.js-vid-quality.js-event-tracking.js-vid-m3u8.js-vid-m3u8-wrapped.js-vid-…, button.av-ctrl.av-menu-ctrl.js-vid-quality.js-event-tracking.js-vid-m3u8.js-vid-m3u8-wrapped.js-vid-…, button.av-ctrl.av-menu-ctrl.js-vid-quality.js-event-tracking.js-vid-m3u8.js-vid-m3u8-wrapped.js-vid-…, button.av-ctrl.av-menu-ctrl.js-vid-quality.js-event-tracking.js-vid-m3u8.js-vid-m3u8-wrapped.js-vid-…, prevObject: init(1), context: div.js-video-player-new.av-video-player.av-desktop-player.av-video-on-demand.is-vid-loading.is-vid-n…, selector: ".js-vid-quality"]
+all_debugLogger_6.js:262 [VP] [CONTROL] $playbacks:  init [button.av-ctrl.av-menu-ctrl.js-vid-playback.js-event-tracking, prevObject: init(1), context: div.js-video-player-new.av-video-player.av-desktop-player.av-video-on-demand.is-vid-loading.is-vid-n…, selector: ".js-vid-playback"]
+all_debugLogger_6.js:262 [VP] [CONTROL] Playback Quality Elements for [uvpjs]:  {isAvailable: true, playerType: "uvpjs", qualities: Array(4), $button: init(1), $qualities: init(4)}
+all_debugLogger_6.js:262 [VP] [CONTROL] hasPlaybacks?  true
+all_debugLogger_6.js:262 [VP] [INIT] PlaybackQuality initialized
+all_debugLogger_6.js:262 [VP] [INIT] Report initialized
+all_debugLogger_6.js:262 [VP] [INIT] Pin initialized
+all_debugLogger_6.js:262 [VP] [INIT] Chromecast initialized
+all_debugLogger_6.js:262 [VP] [INIT] Embiggen initialized
+all_debugLogger_6.js:262 [VP] [INIT] Autoplay initialized
+all_debugLogger_6.js:262 [VP] [INIT] IframeAPI initialized
+all_debugLogger_6.js:262 [VP] [INIT] No countdown
+all_debugLogger_6.js:262 [VP] [AD CALLS] AdUtilities
+all_debugLogger_6.js:262 [VP] ^^^^^^^^^^ VIDEO PLAYER COMPONENTS ^^^^^^^^^^
+all_Phoenix_3.js:221 nr:addToTrace [{…}]
+all_Phoenix_3.js:224 nr:setCustomAttribute (2) ["nr_adStart:skybox-nav", 6.035]
+all_Phoenix_3.js:221 nr:addToTrace [{…}]
+all_Phoenix_3.js:224 nr:setCustomAttribute (2) ["nr_adStart:leader_top", 6.04]
+all_Phoenix_3.js:221 nr:addToTrace [{…}]
+all_Phoenix_3.js:224 nr:setCustomAttribute (2) ["nr_adStart:mpu_top", 6.042]
+all_Phoenix_3.js:221 nr:addToTrace [{…}]
+all_Phoenix_3.js:224 nr:setCustomAttribute (2) ["nr_adStart:skin_top", 6.044]
+all_Phoenix_3.js:221 nr:addToTrace [{…}]
+all_Phoenix_3.js:224 nr:setCustomAttribute (2) ["nr_adStart:interstitial", 6.046]
+all_Phoenix_3.js:221 nr:addToTrace [{…}]
+all_Phoenix_3.js:224 nr:setCustomAttribute (2) ["nr_adStart:native-top", 6.047]
+all_Phoenix_3.js:221 nr:addToTrace [{…}]
+all_Phoenix_3.js:224 nr:setCustomAttribute (2) ["nr_adStart:mpu_bottom", 6.049]
+all_Phoenix_3.js:221 nr:addToTrace [{…}]
+all_Phoenix_3.js:224 nr:setCustomAttribute (2) ["nr_adStart:leader_bottom", 6.052]
+jquery.js:8437 [Violation] 'readystatechange' handler took 298ms
+adsDeferredDfp_dartRenderCallback_2.js:1944 GET https://native.sharethrough.com/assets/tag.js 0 ()
+(anonymous) @ adsDeferredDfp_dartRenderCallback_2.js:1944
+checkSharethrough @ adsDeferredDfp_dartRenderCallback_2.js:1964
+(anonymous) @ adsDeferredDfp_dartRenderCallback_2.js:2082
+each @ jquery.js:611
+each @ jquery.js:241
+checkForDuplicateSlotIds @ adsDeferredDfp_dartRenderCallback_2.js:2037
+preProcessSlotData @ adsDeferredDfp_dartRenderCallback_2.js:2178
+(anonymous) @ adsDeferredDfp_dartRenderCallback_2.js:2245
+initService @ adsDeferredDfp_dartRenderCallback_2.js:2466
+_.h.push @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+startGpt @ adsDeferredDfp_dartRenderCallback_2.js:3180
+onPostRenderLoaded @ adsDeferredDfp_dartRenderCallback_2.js:3255
+(anonymous) @ adsDeferredDfp_dartRenderCallback_2.js:3300
+supplyBundleData @ all_postRender_63.js:238
+(anonymous) @ all_postRender_63.js:196
+_broadcastResult @ all_postRender_63.js:192
+(anonymous) @ all_postRender_63.js:177
+success @ all_AjaxApiRequest_61.js:274
+fire @ jquery.js:974
+fireWith @ jquery.js:1084
+done @ jquery.js:7803
+callback @ jquery.js:8518
+XMLHttpRequest.send (async)
+send @ jquery.js:8434
+ajax @ jquery.js:7986
+makeRequest @ all_AjaxApiRequest_61.js:259
+makePostApiRequest @ all_AjaxApiRequest_61.js:82
+executePostRender @ all_postRender_63.js:156
+(anonymous) @ all_postRender_63.js:211
+fire @ jquery.js:974
+fireWith @ jquery.js:1084
+ready @ jquery.js:406
+DOMContentLoaded @ jquery.js:83
+pubads_impl_257.js:1 GET https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&pvsid=3857138988800248&correlator=2598712413290564&output=json_html&callback=googletag.impl.pubads.callbackProxy1&impl=fifs&adsid=NT&pucrd=CgYgASgBOAF4Aw&jar=2018-10-03-20&json_a=1&eid=370204048&vrg=257&guci=2.2.0.0.2.2.0&sc=1&sfv=1-0-29&iu_parts=7336%2Caw-gamespot%2Cvideos&enc_prev_ius=%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2&prev_iu_szs=5x5%2C970x66%7C728x90%2C300x250%2C1600x1000%2C1x1%2C320x50%7C11x11%2C300x250%2C728x90%7C970x66&fluid=0%2C0%2C0%2C0%2C0%2Cheight%2C0%2C0&ists=8&prev_scp=pos%3Dnav%7Cpos%3Dtop%7Cpos%3Dtop%7Cpos%3Dtop%7C%7Cpos%3Dtop%26strnativekey%3DbmCXkuXzZRAtbMVC7uqsDF2D%7Cpos%3Dbottom%7Cpos%3Dbottom&eri=1&cust_params=session%3Do%26ptype%3Dvideo_show_episode%26cid%3Dgs-2300-6443547%26game%3Dplayerunknowns-battlegrounds%252Cdestiny-2%252Cdonkey-kong-64%26rating%3DESRB%253A%2520T%252CPEGI%253A%252016%252B%252CCERO%253A%2520D%252CACB%253A%2520MA%26genre%3Daction%252Cfirst-person%252Cshooter%252Ctactical%26con%3Dpc%252Cxbox-one%252Cios-iphoneipad%252Candroid%26franchise%3Ddonkey-kong%26show%3Dgamespot-daily%26rdate%3Dbp52%26publisher%3Dbluehole-inc%252Cmicrosoft-game-studios%252Ctencent%26category%3Dgames%26embed%3Dautoplay%26env%3Ddev%26user%3Dnamed%26vguid%3D3df13c0e-03ac-4377-9e02-15ece1ed8241%26st%3D1%26firstpg%3D0&cookie=ID%3D8162b4bfcff3d601%3AT%3D1534278910%3AS%3DALNI_MbiIrQhluy0QCjbYgdB8NDrTc6SyA&bc=7&abxe=1&lmt=1538600012&dt=1538600012955&dlt=1538600009311&idt=2446&frm=20&biw=1427&bih=940&oid=3&adxs=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&adys=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&adks=948964359%2C1887900510%2C3449614741%2C1312226192%2C855968400%2C3823962631%2C3772295718%2C3516691266&gut=v2&ifi=1&u_tz=-420&u_his=1&u_h=2560&u_w=1440&u_ah=2537&u_aw=1440&u_cd=24&u_nplug=3&u_nmime=4&u_sd=1&flash=0&url=https%3A%2F%2Fdev.gamespot.com%2Fvideos%2Fpubgs-new-update-shakes-up-the-desert-map-and-blue%2F2300-6443547%2F%3Fdebug_video_player%3D1&dssz=203&icsg=4503599627370495&std=0&vis=1&dmc=8&scr_x=0&scr_y=0&psz=0x0%7C0x-1%7C0x-1%7C0x-1%7C0x0%7C0x-1%7C0x-1%7C0x0&msz=0x0%7C0x-1%7C0x-1%7C0x-1%7C0x0%7C0x-1%7C0x-1%7C0x0&ga_vid=810472379.1535405316&ga_sid=1538599345&ga_hid=426942635&ga_fc=true&ga_cid=amp-dANTWD2FUbqB-KEGdagODA&fws=4%2C4%2C4%2C4%2C4%2C4%2C4%2C4 0 ()
+et @ pubads_impl_257.js:1
+_.U.Ra @ pubads_impl_257.js:1
+xt @ pubads_impl_257.js:1
+rt @ pubads_impl_257.js:1
+st @ pubads_impl_257.js:1
+Qt @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+Te @ pubads_impl_257.js:1
+Ht @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+_.D @ pubads_impl_257.js:1
+Ft @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+Et @ pubads_impl_257.js:1
+_.U.Za @ pubads_impl_257.js:1
+Du @ pubads_impl_257.js:1
+iv @ pubads_impl_257.js:1
+_.h.refresh @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ adsDeferredDfp_dartRenderCallback_2.js:3084
+_.h.push @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+refreshAds @ adsDeferredDfp_dartRenderCallback_2.js:3018
+initService @ adsDeferredDfp_dartRenderCallback_2.js:2510
+_.h.push @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+startGpt @ adsDeferredDfp_dartRenderCallback_2.js:3180
+onPostRenderLoaded @ adsDeferredDfp_dartRenderCallback_2.js:3255
+(anonymous) @ adsDeferredDfp_dartRenderCallback_2.js:3300
+supplyBundleData @ all_postRender_63.js:238
+(anonymous) @ all_postRender_63.js:196
+_broadcastResult @ all_postRender_63.js:192
+(anonymous) @ all_postRender_63.js:177
+success @ all_AjaxApiRequest_61.js:274
+fire @ jquery.js:974
+fireWith @ jquery.js:1084
+done @ jquery.js:7803
+callback @ jquery.js:8518
+XMLHttpRequest.send (async)
+send @ jquery.js:8434
+ajax @ jquery.js:7986
+makeRequest @ all_AjaxApiRequest_61.js:259
+makePostApiRequest @ all_AjaxApiRequest_61.js:82
+executePostRender @ all_postRender_63.js:156
+(anonymous) @ all_postRender_63.js:211
+fire @ jquery.js:974
+fireWith @ jquery.js:1084
+ready @ jquery.js:406
+DOMContentLoaded @ jquery.js:83
+pubads_impl_257.js:1 GET https://tpc.googlesyndication.com/safeframe/1-0-29/html/container.html 0 ()
+Nq @ pubads_impl_257.js:1
+_.Vs @ pubads_impl_257.js:1
+Ws @ pubads_impl_257.js:1
+xt @ pubads_impl_257.js:1
+rt @ pubads_impl_257.js:1
+st @ pubads_impl_257.js:1
+Qt @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+Te @ pubads_impl_257.js:1
+Ht @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+_.D @ pubads_impl_257.js:1
+Ft @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+Et @ pubads_impl_257.js:1
+_.U.Za @ pubads_impl_257.js:1
+Du @ pubads_impl_257.js:1
+iv @ pubads_impl_257.js:1
+_.h.refresh @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ adsDeferredDfp_dartRenderCallback_2.js:3084
+_.h.push @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+refreshAds @ adsDeferredDfp_dartRenderCallback_2.js:3018
+initService @ adsDeferredDfp_dartRenderCallback_2.js:2510
+_.h.push @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+startGpt @ adsDeferredDfp_dartRenderCallback_2.js:3180
+onPostRenderLoaded @ adsDeferredDfp_dartRenderCallback_2.js:3255
+(anonymous) @ adsDeferredDfp_dartRenderCallback_2.js:3300
+supplyBundleData @ all_postRender_63.js:238
+(anonymous) @ all_postRender_63.js:196
+_broadcastResult @ all_postRender_63.js:192
+(anonymous) @ all_postRender_63.js:177
+success @ all_AjaxApiRequest_61.js:274
+fire @ jquery.js:974
+fireWith @ jquery.js:1084
+done @ jquery.js:7803
+callback @ jquery.js:8518
+XMLHttpRequest.send (async)
+send @ jquery.js:8434
+ajax @ jquery.js:7986
+makeRequest @ all_AjaxApiRequest_61.js:259
+makePostApiRequest @ all_AjaxApiRequest_61.js:82
+executePostRender @ all_postRender_63.js:156
+(anonymous) @ all_postRender_63.js:211
+fire @ jquery.js:974
+fireWith @ jquery.js:1084
+ready @ jquery.js:406
+DOMContentLoaded @ jquery.js:83
+ad.doubleclick.net/ddm/ad/spu/vejqyyh/vpwtox/duqkfgysn/;ord=1538600013077?:1 GET https://ad.doubleclick.net/ddm/ad/spu/vejqyyh/vpwtox/duqkfgysn/;ord=1538600013077? 0 ()
+Image (async)
+(anonymous) @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+u @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+value @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+value @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+(anonymous) @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+Promise.then (async)
+i @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+(anonymous) @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+Promise.then (async)
+value @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+value @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+(anonymous) @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+value @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+(anonymous) @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+Promise.then (async)
+value @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+t @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+(anonymous) @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+Promise.then (async)
+o @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+r @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+(anonymous) @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+(anonymous) @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+r @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+(anonymous) @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+e @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+(anonymous) @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+(anonymous) @ sourcepoint_sourcepoint_enhanced_detection_1.js:1
+?debug_video_player=1:984 Refused to get unsafe header "X-Debug-Token"
+(anonymous) @ ?debug_video_player=1:984
+XMLHttpRequest.send (async)
+cors @ vglnk.js:27
+request @ vglnk.js:44
+l @ vglnk.js:97
+e @ vglnk.js:99
+(anonymous) @ vglnk.js:99
+(anonymous) @ vglnk.js:24
+(anonymous) @ vglnk.js:24
+(anonymous) @ vglnk.js:28
+(anonymous) @ vglnk.js:29
+getDomains @ vglnk.js:138
+initNodes @ vglnk.js:140
+runPlugin @ vglnk.js:135
+(anonymous) @ vglnk.js:112
+(anonymous) @ vglnk.js:19
+(anonymous) @ vglnk.js:112
+l @ vglnk.js:22
+(anonymous) @ vglnk.js:23
+(anonymous) @ vglnk.js:24
+(anonymous) @ vglnk.js:28
+(anonymous) @ vglnk.js:29
+setTimeout (async)
+g @ vglnk.js:23
+(anonymous) @ vglnk.js:92
+(anonymous) @ vglnk.js:19
+(anonymous) @ vglnk.js:92
+(anonymous) @ vglnk.js:28
+(anonymous) @ vglnk.js:29
+childList (async)
+internalDrawRBox @ impl.326-48-RELEASE.js:3
+parseResponse @ impl.326-48-RELEASE.js:3
+r @ impl.326-48-RELEASE.js:3
+(anonymous) @ impl.326-48-RELEASE.js:3
+f @ impl.326-48-RELEASE.js:3
+e @ impl.326-48-RELEASE.js:3
+handleLoadResponse @ impl.326-48-RELEASE.js:3
+(anonymous) @ json?tim=13%3A53%3A31.988&data={"id"%3A289%2C"ii"%3A"%2Fvideos%2Fpubgs-new-update-shakes-up-the-desert-map-and-blue%2F2300-6443547"%2C"it"%3A"video"%2C"sd"%3A"v2_5fb37e5d489f44ff9eeaad50b5ebce8b_62ac383e-ee54-4d65-8dda-e8cc1c17b10e-tuct1190968_1538588834_1538599900_CIi3jgYQsMk_GPqnzd3jLCAdKAMw4QE4kaQOQIuwDkjM8B1QpwZYAGC9Bg"%2C"ui"%3A"62ac383e-ee54-4d65-8dda-e8cc1c17b10e-tuct1190968"%2C"uifp"%3A"62ac383e-ee54-4d65-8dda-e8cc1c17b10e-tuct1190968"%2C"vi"%3A1538600011877%2C"cv"%3A"326-48-RELEASE"%2C"uiv"%3A"default"%2C"u"%3A"https%3A%2F%2Fdev.gamespot.com%2Fvideos%2Fpubgs-new-update-shakes-up-the-desert-map-and-blue%2F2300-6443547%2F"%2C"bv"%3A"0"%2C"ul"%3A["en-US"%2C"en"%2C"zh-CN"%2C"zh"]%2C"cmps"%3A3%2C"btv"%3A"0"%2C"lspb"%3A"CwsIIBDr7BgMCwg_EOvsGAwLCDsQ6-wYDAsIIxCW1hgMCwgwEOvsGAwLCB4Q6-wYDAsIQBDr7BgMCwgkEOvsGAwLCB8Q6-wYDAsIIRDr7BgMCwhBEOvsGAwLCEIQ6-wYDAsIHRDr7BgMCwgxEOvsGAwLCC0Q6-wYDAsIJxDr7BgMDBMU"%2C"cos"%3A"4g"%2C"bad"%3A-1%2C"bw"%3A1427%2C"sw"%3A1440%2C"sh"%3A2537%2C"qs"%3A"%3Fdebug_video_player%3D1"%2C"r"%3A[{"li"%3A"rbox-v2m"%2C"s"%3A3%2C"uim"%3A"thumbnails-b-abp%3Aabp%3D1"%2C"uip"%3A"Above Article Leaderboard - ABP"%2C"orig_uip"%3A"Above Article Leaderboard - ABP"%2C"cd"%3A512.59375%2C"mw"%3A1170}%2C{"li"%3A"rbox-v2m"%2C"s"%3A8%2C"uim"%3A"alternating-thumbnails-b%3Aabp%3D1"%2C"uip"%3A"video_show_episode Bottom Page Thumbnails"%2C"orig_uip"%3A"video_show_episode Bottom Page Thumbnails"%2C"cd"%3A2301.671875%2C"mw"%3A750}]%2C"cb"%3A"TRC.callbacks.recommendations_1"%2C"lt"%3A"normal"}:1
+?debug_video_player=1:984 Refused to get unsafe header "X-Debug-Token-Link"
+(anonymous) @ ?debug_video_player=1:984
+XMLHttpRequest.send (async)
+cors @ vglnk.js:27
+request @ vglnk.js:44
+l @ vglnk.js:97
+e @ vglnk.js:99
+(anonymous) @ vglnk.js:99
+(anonymous) @ vglnk.js:24
+(anonymous) @ vglnk.js:24
+(anonymous) @ vglnk.js:28
+(anonymous) @ vglnk.js:29
+getDomains @ vglnk.js:138
+initNodes @ vglnk.js:140
+runPlugin @ vglnk.js:135
+(anonymous) @ vglnk.js:112
+(anonymous) @ vglnk.js:19
+(anonymous) @ vglnk.js:112
+l @ vglnk.js:22
+(anonymous) @ vglnk.js:23
+(anonymous) @ vglnk.js:24
+(anonymous) @ vglnk.js:28
+(anonymous) @ vglnk.js:29
+setTimeout (async)
+g @ vglnk.js:23
+(anonymous) @ vglnk.js:92
+(anonymous) @ vglnk.js:19
+(anonymous) @ vglnk.js:92
+(anonymous) @ vglnk.js:28
+(anonymous) @ vglnk.js:29
+childList (async)
+internalDrawRBox @ impl.326-48-RELEASE.js:3
+parseResponse @ impl.326-48-RELEASE.js:3
+r @ impl.326-48-RELEASE.js:3
+(anonymous) @ impl.326-48-RELEASE.js:3
+f @ impl.326-48-RELEASE.js:3
+e @ impl.326-48-RELEASE.js:3
+handleLoadResponse @ impl.326-48-RELEASE.js:3
+(anonymous) @ json?tim=13%3A53%3A31.988&data={"id"%3A289%2C"ii"%3A"%2Fvideos%2Fpubgs-new-update-shakes-up-the-desert-map-and-blue%2F2300-6443547"%2C"it"%3A"video"%2C"sd"%3A"v2_5fb37e5d489f44ff9eeaad50b5ebce8b_62ac383e-ee54-4d65-8dda-e8cc1c17b10e-tuct1190968_1538588834_1538599900_CIi3jgYQsMk_GPqnzd3jLCAdKAMw4QE4kaQOQIuwDkjM8B1QpwZYAGC9Bg"%2C"ui"%3A"62ac383e-ee54-4d65-8dda-e8cc1c17b10e-tuct1190968"%2C"uifp"%3A"62ac383e-ee54-4d65-8dda-e8cc1c17b10e-tuct1190968"%2C"vi"%3A1538600011877%2C"cv"%3A"326-48-RELEASE"%2C"uiv"%3A"default"%2C"u"%3A"https%3A%2F%2Fdev.gamespot.com%2Fvideos%2Fpubgs-new-update-shakes-up-the-desert-map-and-blue%2F2300-6443547%2F"%2C"bv"%3A"0"%2C"ul"%3A["en-US"%2C"en"%2C"zh-CN"%2C"zh"]%2C"cmps"%3A3%2C"btv"%3A"0"%2C"lspb"%3A"CwsIIBDr7BgMCwg_EOvsGAwLCDsQ6-wYDAsIIxCW1hgMCwgwEOvsGAwLCB4Q6-wYDAsIQBDr7BgMCwgkEOvsGAwLCB8Q6-wYDAsIIRDr7BgMCwhBEOvsGAwLCEIQ6-wYDAsIHRDr7BgMCwgxEOvsGAwLCC0Q6-wYDAsIJxDr7BgMDBMU"%2C"cos"%3A"4g"%2C"bad"%3A-1%2C"bw"%3A1427%2C"sw"%3A1440%2C"sh"%3A2537%2C"qs"%3A"%3Fdebug_video_player%3D1"%2C"r"%3A[{"li"%3A"rbox-v2m"%2C"s"%3A3%2C"uim"%3A"thumbnails-b-abp%3Aabp%3D1"%2C"uip"%3A"Above Article Leaderboard - ABP"%2C"orig_uip"%3A"Above Article Leaderboard - ABP"%2C"cd"%3A512.59375%2C"mw"%3A1170}%2C{"li"%3A"rbox-v2m"%2C"s"%3A8%2C"uim"%3A"alternating-thumbnails-b%3Aabp%3D1"%2C"uip"%3A"video_show_episode Bottom Page Thumbnails"%2C"orig_uip"%3A"video_show_episode Bottom Page Thumbnails"%2C"cd"%3A2301.671875%2C"mw"%3A750}]%2C"cb"%3A"TRC.callbacks.recommendations_1"%2C"lt"%3A"normal"}:1
+VM5067:33 blank creative loaded: 36254449867 (970 x 66, pos=top)
+VM5078:72 skin (non-clickable) ::: creative id = 69969760387
+pubads_impl_257.js:1 GET https://pagead2.googlesyndication.com/pagead/osd.js 0 ()
+_.Xd @ pubads_impl_257.js:1
+sy @ pubads_impl_rendering_257.js:1
+_.h.registerAdBlock @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+_.ot @ pubads_impl_257.js:1
+Zz @ pubads_impl_rendering_257.js:1
+$z @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+_.z @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+_.h.Ua @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ ads?gdfp_req=1&pvsid=3857138988800248&correlator=2598712413290564&output=json_html&callback=googletag.impl.pubads.callbackProxy1&impl=fifs&adsid=NT&pucrd=CgYgASgBOAF4Aw&jar=2018-10-03-20&json_a=1&eid=370204048&vrg=257&guci=2.2.0.0.2.2.0&sc=1&sfv=1-0-29&iu_parts=7336%2Caw-gamespot%2Cvideos&enc_prev_ius=%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2&prev_iu_szs=5x5%2C970x66|728x90%2C300x250%2C1600x1000%2C1x1%2C320x50|11x11%2C300x250%2C728x90|970x66&fluid=0%2C0%2C0%2C0%2C0%2Cheight%2C0%2C0&ists=8&prev_scp=pos%3Dnav|pos%3Dtop|pos%3Dtop|pos%3Dtop||pos%3Dtop%26strnativekey%3DbmCXkuXzZRAtbMVC7uqsDF2D|pos%3Dbottom|pos%3Dbottom&eri=1&cust_params=session%3Do%26ptype%3Dvideo_show_episode%26cid%3Dgs-2300-6443547%26game%3Dplayerunknowns-battlegrounds%2Cdestiny-2%2Cdonkey-kong-64%26rating%3DESRB%3A%20T%2CPEGI%3A%2016%2B%2CCERO%3A%20D%2CACB%3A%20MA%26genre%3Daction%2Cfirst-person%2Cshooter%2Ctactical%26con%3Dpc%2Cxbox-one%2Cios-iphoneipad%2Candroid%26franchise%3Ddonkey-kong%26show%3Dgamespot-daily%26rdate%3Dbp52%26publisher%3Dbluehole-inc%2Cmicrosoft-game-studios%2Ctencent%26category%3Dgames%26embed%3Dautoplay%26env%3Ddev%26user%3Dnamed%26vguid%3D3df13c0e-03ac-4377-9e02-15ece1ed8241%26st%3D1%26firstpg%3D0&cookie=ID%3D8162b4bfcff3d601%3AT%3D1534278910%3AS%3DALNI_MbiIrQhluy0QCjbYgdB8NDrTc6SyA&bc=7&abxe=1&lmt=1538600012&dt=1538600012955&dlt=1538600009311&idt=2446&frm=20&biw=1427&bih=940&oid=3&adxs=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&adys=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&adks=948964359%2C1887900510%2C3449614741%2C1312226192%2C855968400%2C3823962631%2C3772295718%2C3516691266&gut=v2&ifi=1&u_tz=-420&u_his=1&u_h=2560&u_w=1440&u_ah=2537&u_aw=1440&u_cd=24&u_nplug=3&u_nmime=4&u_sd=1&flash=0&url=https%3A%2F%2Fdev.gamespot.com%2Fvideos%2Fpubgs-new-update-shakes-up-the-desert-map-and-blue%2F2300-6443547%2F%3Fdebug_video_player%3D1&dssz=203&icsg=4503599627370495&std=0&vis=1&dmc=8&scr_x=0&scr_y=0&psz=0x0|0x-1|0x-1|0x-1|0x0|0x-1|0x-1|0x0&msz=0x0|0x-1|0x-1|0x-1|0x0|0x-1|0x-1|0x0&ga_vid=810472379.1535405316&ga_sid=1538599345&ga_hid=426942635&ga_fc=true&ga_cid=amp-dANTWD2FUbqB-KEGdagODA&fws=4%2C4%2C4%2C4%2C4%2C4%2C4%2C4:1
+pubads_impl_rendering_257.js:1 GET https://tpc.googlesyndication.com/pagead/js/r20181001/r20110914/abg_lite.js 0 ()
+xz @ pubads_impl_rendering_257.js:1
+Tz @ pubads_impl_rendering_257.js:1
+Zz @ pubads_impl_rendering_257.js:1
+$z @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+_.z @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+_.h.Ua @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ ads?gdfp_req=1&pvsid=3857138988800248&correlator=2598712413290564&output=json_html&callback=googletag.impl.pubads.callbackProxy1&impl=fifs&adsid=NT&pucrd=CgYgASgBOAF4Aw&jar=2018-10-03-20&json_a=1&eid=370204048&vrg=257&guci=2.2.0.0.2.2.0&sc=1&sfv=1-0-29&iu_parts=7336%2Caw-gamespot%2Cvideos&enc_prev_ius=%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2&prev_iu_szs=5x5%2C970x66|728x90%2C300x250%2C1600x1000%2C1x1%2C320x50|11x11%2C300x250%2C728x90|970x66&fluid=0%2C0%2C0%2C0%2C0%2Cheight%2C0%2C0&ists=8&prev_scp=pos%3Dnav|pos%3Dtop|pos%3Dtop|pos%3Dtop||pos%3Dtop%26strnativekey%3DbmCXkuXzZRAtbMVC7uqsDF2D|pos%3Dbottom|pos%3Dbottom&eri=1&cust_params=session%3Do%26ptype%3Dvideo_show_episode%26cid%3Dgs-2300-6443547%26game%3Dplayerunknowns-battlegrounds%2Cdestiny-2%2Cdonkey-kong-64%26rating%3DESRB%3A%20T%2CPEGI%3A%2016%2B%2CCERO%3A%20D%2CACB%3A%20MA%26genre%3Daction%2Cfirst-person%2Cshooter%2Ctactical%26con%3Dpc%2Cxbox-one%2Cios-iphoneipad%2Candroid%26franchise%3Ddonkey-kong%26show%3Dgamespot-daily%26rdate%3Dbp52%26publisher%3Dbluehole-inc%2Cmicrosoft-game-studios%2Ctencent%26category%3Dgames%26embed%3Dautoplay%26env%3Ddev%26user%3Dnamed%26vguid%3D3df13c0e-03ac-4377-9e02-15ece1ed8241%26st%3D1%26firstpg%3D0&cookie=ID%3D8162b4bfcff3d601%3AT%3D1534278910%3AS%3DALNI_MbiIrQhluy0QCjbYgdB8NDrTc6SyA&bc=7&abxe=1&lmt=1538600012&dt=1538600012955&dlt=1538600009311&idt=2446&frm=20&biw=1427&bih=940&oid=3&adxs=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&adys=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&adks=948964359%2C1887900510%2C3449614741%2C1312226192%2C855968400%2C3823962631%2C3772295718%2C3516691266&gut=v2&ifi=1&u_tz=-420&u_his=1&u_h=2560&u_w=1440&u_ah=2537&u_aw=1440&u_cd=24&u_nplug=3&u_nmime=4&u_sd=1&flash=0&url=https%3A%2F%2Fdev.gamespot.com%2Fvideos%2Fpubgs-new-update-shakes-up-the-desert-map-and-blue%2F2300-6443547%2F%3Fdebug_video_player%3D1&dssz=203&icsg=4503599627370495&std=0&vis=1&dmc=8&scr_x=0&scr_y=0&psz=0x0|0x-1|0x-1|0x-1|0x0|0x-1|0x-1|0x0&msz=0x0|0x-1|0x-1|0x-1|0x0|0x-1|0x-1|0x0&ga_vid=810472379.1535405316&ga_sid=1538599345&ga_hid=426942635&ga_fc=true&ga_cid=amp-dANTWD2FUbqB-KEGdagODA&fws=4%2C4%2C4%2C4%2C4%2C4%2C4%2C4:1
+pubads_impl_rendering_257.js:1 GET https://tpc.googlesyndication.com/pagead/js/r20181001/r20110914/client/ext/m_window_focus_non_hydra.js 0 ()
+xz @ pubads_impl_rendering_257.js:1
+Tz @ pubads_impl_rendering_257.js:1
+Zz @ pubads_impl_rendering_257.js:1
+$z @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+_.z @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+_.h.Ua @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ ads?gdfp_req=1&pvsid=3857138988800248&correlator=2598712413290564&output=json_html&callback=googletag.impl.pubads.callbackProxy1&impl=fifs&adsid=NT&pucrd=CgYgASgBOAF4Aw&jar=2018-10-03-20&json_a=1&eid=370204048&vrg=257&guci=2.2.0.0.2.2.0&sc=1&sfv=1-0-29&iu_parts=7336%2Caw-gamespot%2Cvideos&enc_prev_ius=%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2&prev_iu_szs=5x5%2C970x66|728x90%2C300x250%2C1600x1000%2C1x1%2C320x50|11x11%2C300x250%2C728x90|970x66&fluid=0%2C0%2C0%2C0%2C0%2Cheight%2C0%2C0&ists=8&prev_scp=pos%3Dnav|pos%3Dtop|pos%3Dtop|pos%3Dtop||pos%3Dtop%26strnativekey%3DbmCXkuXzZRAtbMVC7uqsDF2D|pos%3Dbottom|pos%3Dbottom&eri=1&cust_params=session%3Do%26ptype%3Dvideo_show_episode%26cid%3Dgs-2300-6443547%26game%3Dplayerunknowns-battlegrounds%2Cdestiny-2%2Cdonkey-kong-64%26rating%3DESRB%3A%20T%2CPEGI%3A%2016%2B%2CCERO%3A%20D%2CACB%3A%20MA%26genre%3Daction%2Cfirst-person%2Cshooter%2Ctactical%26con%3Dpc%2Cxbox-one%2Cios-iphoneipad%2Candroid%26franchise%3Ddonkey-kong%26show%3Dgamespot-daily%26rdate%3Dbp52%26publisher%3Dbluehole-inc%2Cmicrosoft-game-studios%2Ctencent%26category%3Dgames%26embed%3Dautoplay%26env%3Ddev%26user%3Dnamed%26vguid%3D3df13c0e-03ac-4377-9e02-15ece1ed8241%26st%3D1%26firstpg%3D0&cookie=ID%3D8162b4bfcff3d601%3AT%3D1534278910%3AS%3DALNI_MbiIrQhluy0QCjbYgdB8NDrTc6SyA&bc=7&abxe=1&lmt=1538600012&dt=1538600012955&dlt=1538600009311&idt=2446&frm=20&biw=1427&bih=940&oid=3&adxs=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&adys=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&adks=948964359%2C1887900510%2C3449614741%2C1312226192%2C855968400%2C3823962631%2C3772295718%2C3516691266&gut=v2&ifi=1&u_tz=-420&u_his=1&u_h=2560&u_w=1440&u_ah=2537&u_aw=1440&u_cd=24&u_nplug=3&u_nmime=4&u_sd=1&flash=0&url=https%3A%2F%2Fdev.gamespot.com%2Fvideos%2Fpubgs-new-update-shakes-up-the-desert-map-and-blue%2F2300-6443547%2F%3Fdebug_video_player%3D1&dssz=203&icsg=4503599627370495&std=0&vis=1&dmc=8&scr_x=0&scr_y=0&psz=0x0|0x-1|0x-1|0x-1|0x0|0x-1|0x-1|0x0&msz=0x0|0x-1|0x-1|0x-1|0x0|0x-1|0x-1|0x0&ga_vid=810472379.1535405316&ga_sid=1538599345&ga_hid=426942635&ga_fc=true&ga_cid=amp-dANTWD2FUbqB-KEGdagODA&fws=4%2C4%2C4%2C4%2C4%2C4%2C4%2C4:1
+pubads_impl_rendering_257.js:1 GET https://googleads.g.doubleclick.net/pagead/ide_cookie 0 ()
+xz @ pubads_impl_rendering_257.js:1
+Tz @ pubads_impl_rendering_257.js:1
+Zz @ pubads_impl_rendering_257.js:1
+$z @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+_.z @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+_.h.Ua @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ ads?gdfp_req=1&pvsid=3857138988800248&correlator=2598712413290564&output=json_html&callback=googletag.impl.pubads.callbackProxy1&impl=fifs&adsid=NT&pucrd=CgYgASgBOAF4Aw&jar=2018-10-03-20&json_a=1&eid=370204048&vrg=257&guci=2.2.0.0.2.2.0&sc=1&sfv=1-0-29&iu_parts=7336%2Caw-gamespot%2Cvideos&enc_prev_ius=%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2&prev_iu_szs=5x5%2C970x66|728x90%2C300x250%2C1600x1000%2C1x1%2C320x50|11x11%2C300x250%2C728x90|970x66&fluid=0%2C0%2C0%2C0%2C0%2Cheight%2C0%2C0&ists=8&prev_scp=pos%3Dnav|pos%3Dtop|pos%3Dtop|pos%3Dtop||pos%3Dtop%26strnativekey%3DbmCXkuXzZRAtbMVC7uqsDF2D|pos%3Dbottom|pos%3Dbottom&eri=1&cust_params=session%3Do%26ptype%3Dvideo_show_episode%26cid%3Dgs-2300-6443547%26game%3Dplayerunknowns-battlegrounds%2Cdestiny-2%2Cdonkey-kong-64%26rating%3DESRB%3A%20T%2CPEGI%3A%2016%2B%2CCERO%3A%20D%2CACB%3A%20MA%26genre%3Daction%2Cfirst-person%2Cshooter%2Ctactical%26con%3Dpc%2Cxbox-one%2Cios-iphoneipad%2Candroid%26franchise%3Ddonkey-kong%26show%3Dgamespot-daily%26rdate%3Dbp52%26publisher%3Dbluehole-inc%2Cmicrosoft-game-studios%2Ctencent%26category%3Dgames%26embed%3Dautoplay%26env%3Ddev%26user%3Dnamed%26vguid%3D3df13c0e-03ac-4377-9e02-15ece1ed8241%26st%3D1%26firstpg%3D0&cookie=ID%3D8162b4bfcff3d601%3AT%3D1534278910%3AS%3DALNI_MbiIrQhluy0QCjbYgdB8NDrTc6SyA&bc=7&abxe=1&lmt=1538600012&dt=1538600012955&dlt=1538600009311&idt=2446&frm=20&biw=1427&bih=940&oid=3&adxs=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&adys=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&adks=948964359%2C1887900510%2C3449614741%2C1312226192%2C855968400%2C3823962631%2C3772295718%2C3516691266&gut=v2&ifi=1&u_tz=-420&u_his=1&u_h=2560&u_w=1440&u_ah=2537&u_aw=1440&u_cd=24&u_nplug=3&u_nmime=4&u_sd=1&flash=0&url=https%3A%2F%2Fdev.gamespot.com%2Fvideos%2Fpubgs-new-update-shakes-up-the-desert-map-and-blue%2F2300-6443547%2F%3Fdebug_video_player%3D1&dssz=203&icsg=4503599627370495&std=0&vis=1&dmc=8&scr_x=0&scr_y=0&psz=0x0|0x-1|0x-1|0x-1|0x0|0x-1|0x-1|0x0&msz=0x0|0x-1|0x-1|0x-1|0x0|0x-1|0x-1|0x0&ga_vid=810472379.1535405316&ga_sid=1538599345&ga_hid=426942635&ga_fc=true&ga_cid=amp-dANTWD2FUbqB-KEGdagODA&fws=4%2C4%2C4%2C4%2C4%2C4%2C4%2C4:1
+pubads_impl_rendering_257.js:1 GET https://tpc.googlesyndication.com/simgad/184936311236375531 0 ()
+xz @ pubads_impl_rendering_257.js:1
+Tz @ pubads_impl_rendering_257.js:1
+Zz @ pubads_impl_rendering_257.js:1
+$z @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+_.z @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+_.h.Ua @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ ads?gdfp_req=1&pvsid=3857138988800248&correlator=2598712413290564&output=json_html&callback=googletag.impl.pubads.callbackProxy1&impl=fifs&adsid=NT&pucrd=CgYgASgBOAF4Aw&jar=2018-10-03-20&json_a=1&eid=370204048&vrg=257&guci=2.2.0.0.2.2.0&sc=1&sfv=1-0-29&iu_parts=7336%2Caw-gamespot%2Cvideos&enc_prev_ius=%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2&prev_iu_szs=5x5%2C970x66|728x90%2C300x250%2C1600x1000%2C1x1%2C320x50|11x11%2C300x250%2C728x90|970x66&fluid=0%2C0%2C0%2C0%2C0%2Cheight%2C0%2C0&ists=8&prev_scp=pos%3Dnav|pos%3Dtop|pos%3Dtop|pos%3Dtop||pos%3Dtop%26strnativekey%3DbmCXkuXzZRAtbMVC7uqsDF2D|pos%3Dbottom|pos%3Dbottom&eri=1&cust_params=session%3Do%26ptype%3Dvideo_show_episode%26cid%3Dgs-2300-6443547%26game%3Dplayerunknowns-battlegrounds%2Cdestiny-2%2Cdonkey-kong-64%26rating%3DESRB%3A%20T%2CPEGI%3A%2016%2B%2CCERO%3A%20D%2CACB%3A%20MA%26genre%3Daction%2Cfirst-person%2Cshooter%2Ctactical%26con%3Dpc%2Cxbox-one%2Cios-iphoneipad%2Candroid%26franchise%3Ddonkey-kong%26show%3Dgamespot-daily%26rdate%3Dbp52%26publisher%3Dbluehole-inc%2Cmicrosoft-game-studios%2Ctencent%26category%3Dgames%26embed%3Dautoplay%26env%3Ddev%26user%3Dnamed%26vguid%3D3df13c0e-03ac-4377-9e02-15ece1ed8241%26st%3D1%26firstpg%3D0&cookie=ID%3D8162b4bfcff3d601%3AT%3D1534278910%3AS%3DALNI_MbiIrQhluy0QCjbYgdB8NDrTc6SyA&bc=7&abxe=1&lmt=1538600012&dt=1538600012955&dlt=1538600009311&idt=2446&frm=20&biw=1427&bih=940&oid=3&adxs=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&adys=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&adks=948964359%2C1887900510%2C3449614741%2C1312226192%2C855968400%2C3823962631%2C3772295718%2C3516691266&gut=v2&ifi=1&u_tz=-420&u_his=1&u_h=2560&u_w=1440&u_ah=2537&u_aw=1440&u_cd=24&u_nplug=3&u_nmime=4&u_sd=1&flash=0&url=https%3A%2F%2Fdev.gamespot.com%2Fvideos%2Fpubgs-new-update-shakes-up-the-desert-map-and-blue%2F2300-6443547%2F%3Fdebug_video_player%3D1&dssz=203&icsg=4503599627370495&std=0&vis=1&dmc=8&scr_x=0&scr_y=0&psz=0x0|0x-1|0x-1|0x-1|0x0|0x-1|0x-1|0x0&msz=0x0|0x-1|0x-1|0x-1|0x0|0x-1|0x-1|0x0&ga_vid=810472379.1535405316&ga_sid=1538599345&ga_hid=426942635&ga_fc=true&ga_cid=amp-dANTWD2FUbqB-KEGdagODA&fws=4%2C4%2C4%2C4%2C4%2C4%2C4%2C4:1
+pubads_impl_rendering_257.js:1 GET https://native.sharethrough.com/assets/sfp-iframe-buster.js 0 ()
+xz @ pubads_impl_rendering_257.js:1
+Tz @ pubads_impl_rendering_257.js:1
+Zz @ pubads_impl_rendering_257.js:1
+$z @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+_.z @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+_.h.Ua @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ ads?gdfp_req=1&pvsid=3857138988800248&correlator=2598712413290564&output=json_html&callback=googletag.impl.pubads.callbackProxy1&impl=fifs&adsid=NT&pucrd=CgYgASgBOAF4Aw&jar=2018-10-03-20&json_a=1&eid=370204048&vrg=257&guci=2.2.0.0.2.2.0&sc=1&sfv=1-0-29&iu_parts=7336%2Caw-gamespot%2Cvideos&enc_prev_ius=%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2&prev_iu_szs=5x5%2C970x66|728x90%2C300x250%2C1600x1000%2C1x1%2C320x50|11x11%2C300x250%2C728x90|970x66&fluid=0%2C0%2C0%2C0%2C0%2Cheight%2C0%2C0&ists=8&prev_scp=pos%3Dnav|pos%3Dtop|pos%3Dtop|pos%3Dtop||pos%3Dtop%26strnativekey%3DbmCXkuXzZRAtbMVC7uqsDF2D|pos%3Dbottom|pos%3Dbottom&eri=1&cust_params=session%3Do%26ptype%3Dvideo_show_episode%26cid%3Dgs-2300-6443547%26game%3Dplayerunknowns-battlegrounds%2Cdestiny-2%2Cdonkey-kong-64%26rating%3DESRB%3A%20T%2CPEGI%3A%2016%2B%2CCERO%3A%20D%2CACB%3A%20MA%26genre%3Daction%2Cfirst-person%2Cshooter%2Ctactical%26con%3Dpc%2Cxbox-one%2Cios-iphoneipad%2Candroid%26franchise%3Ddonkey-kong%26show%3Dgamespot-daily%26rdate%3Dbp52%26publisher%3Dbluehole-inc%2Cmicrosoft-game-studios%2Ctencent%26category%3Dgames%26embed%3Dautoplay%26env%3Ddev%26user%3Dnamed%26vguid%3D3df13c0e-03ac-4377-9e02-15ece1ed8241%26st%3D1%26firstpg%3D0&cookie=ID%3D8162b4bfcff3d601%3AT%3D1534278910%3AS%3DALNI_MbiIrQhluy0QCjbYgdB8NDrTc6SyA&bc=7&abxe=1&lmt=1538600012&dt=1538600012955&dlt=1538600009311&idt=2446&frm=20&biw=1427&bih=940&oid=3&adxs=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&adys=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&adks=948964359%2C1887900510%2C3449614741%2C1312226192%2C855968400%2C3823962631%2C3772295718%2C3516691266&gut=v2&ifi=1&u_tz=-420&u_his=1&u_h=2560&u_w=1440&u_ah=2537&u_aw=1440&u_cd=24&u_nplug=3&u_nmime=4&u_sd=1&flash=0&url=https%3A%2F%2Fdev.gamespot.com%2Fvideos%2Fpubgs-new-update-shakes-up-the-desert-map-and-blue%2F2300-6443547%2F%3Fdebug_video_player%3D1&dssz=203&icsg=4503599627370495&std=0&vis=1&dmc=8&scr_x=0&scr_y=0&psz=0x0|0x-1|0x-1|0x-1|0x0|0x-1|0x-1|0x0&msz=0x0|0x-1|0x-1|0x-1|0x0|0x-1|0x-1|0x0&ga_vid=810472379.1535405316&ga_sid=1538599345&ga_hid=426942635&ga_fc=true&ga_cid=amp-dANTWD2FUbqB-KEGdagODA&fws=4%2C4%2C4%2C4%2C4%2C4%2C4%2C4:1
+pubads_impl_rendering_257.js:1 GET https://tpc.googlesyndication.com/pagead/js/r20181001/r20110914/abg_lite.js 0 ()
+xz @ pubads_impl_rendering_257.js:1
+Tz @ pubads_impl_rendering_257.js:1
+Zz @ pubads_impl_rendering_257.js:1
+$z @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+_.z @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+_.h.Ua @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ ads?gdfp_req=1&pvsid=3857138988800248&correlator=2598712413290564&output=json_html&callback=googletag.impl.pubads.callbackProxy1&impl=fifs&adsid=NT&pucrd=CgYgASgBOAF4Aw&jar=2018-10-03-20&json_a=1&eid=370204048&vrg=257&guci=2.2.0.0.2.2.0&sc=1&sfv=1-0-29&iu_parts=7336%2Caw-gamespot%2Cvideos&enc_prev_ius=%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2&prev_iu_szs=5x5%2C970x66|728x90%2C300x250%2C1600x1000%2C1x1%2C320x50|11x11%2C300x250%2C728x90|970x66&fluid=0%2C0%2C0%2C0%2C0%2Cheight%2C0%2C0&ists=8&prev_scp=pos%3Dnav|pos%3Dtop|pos%3Dtop|pos%3Dtop||pos%3Dtop%26strnativekey%3DbmCXkuXzZRAtbMVC7uqsDF2D|pos%3Dbottom|pos%3Dbottom&eri=1&cust_params=session%3Do%26ptype%3Dvideo_show_episode%26cid%3Dgs-2300-6443547%26game%3Dplayerunknowns-battlegrounds%2Cdestiny-2%2Cdonkey-kong-64%26rating%3DESRB%3A%20T%2CPEGI%3A%2016%2B%2CCERO%3A%20D%2CACB%3A%20MA%26genre%3Daction%2Cfirst-person%2Cshooter%2Ctactical%26con%3Dpc%2Cxbox-one%2Cios-iphoneipad%2Candroid%26franchise%3Ddonkey-kong%26show%3Dgamespot-daily%26rdate%3Dbp52%26publisher%3Dbluehole-inc%2Cmicrosoft-game-studios%2Ctencent%26category%3Dgames%26embed%3Dautoplay%26env%3Ddev%26user%3Dnamed%26vguid%3D3df13c0e-03ac-4377-9e02-15ece1ed8241%26st%3D1%26firstpg%3D0&cookie=ID%3D8162b4bfcff3d601%3AT%3D1534278910%3AS%3DALNI_MbiIrQhluy0QCjbYgdB8NDrTc6SyA&bc=7&abxe=1&lmt=1538600012&dt=1538600012955&dlt=1538600009311&idt=2446&frm=20&biw=1427&bih=940&oid=3&adxs=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&adys=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&adks=948964359%2C1887900510%2C3449614741%2C1312226192%2C855968400%2C3823962631%2C3772295718%2C3516691266&gut=v2&ifi=1&u_tz=-420&u_his=1&u_h=2560&u_w=1440&u_ah=2537&u_aw=1440&u_cd=24&u_nplug=3&u_nmime=4&u_sd=1&flash=0&url=https%3A%2F%2Fdev.gamespot.com%2Fvideos%2Fpubgs-new-update-shakes-up-the-desert-map-and-blue%2F2300-6443547%2F%3Fdebug_video_player%3D1&dssz=203&icsg=4503599627370495&std=0&vis=1&dmc=8&scr_x=0&scr_y=0&psz=0x0|0x-1|0x-1|0x-1|0x0|0x-1|0x-1|0x0&msz=0x0|0x-1|0x-1|0x-1|0x0|0x-1|0x-1|0x0&ga_vid=810472379.1535405316&ga_sid=1538599345&ga_hid=426942635&ga_fc=true&ga_cid=amp-dANTWD2FUbqB-KEGdagODA&fws=4%2C4%2C4%2C4%2C4%2C4%2C4%2C4:1
+pubads_impl_rendering_257.js:1 GET https://tpc.googlesyndication.com/pagead/js/r20181001/r20110914/client/ext/m_window_focus_non_hydra.js 0 ()
+xz @ pubads_impl_rendering_257.js:1
+Tz @ pubads_impl_rendering_257.js:1
+Zz @ pubads_impl_rendering_257.js:1
+$z @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+_.z @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+_.h.Ua @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ ads?gdfp_req=1&pvsid=3857138988800248&correlator=2598712413290564&output=json_html&callback=googletag.impl.pubads.callbackProxy1&impl=fifs&adsid=NT&pucrd=CgYgASgBOAF4Aw&jar=2018-10-03-20&json_a=1&eid=370204048&vrg=257&guci=2.2.0.0.2.2.0&sc=1&sfv=1-0-29&iu_parts=7336%2Caw-gamespot%2Cvideos&enc_prev_ius=%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2&prev_iu_szs=5x5%2C970x66|728x90%2C300x250%2C1600x1000%2C1x1%2C320x50|11x11%2C300x250%2C728x90|970x66&fluid=0%2C0%2C0%2C0%2C0%2Cheight%2C0%2C0&ists=8&prev_scp=pos%3Dnav|pos%3Dtop|pos%3Dtop|pos%3Dtop||pos%3Dtop%26strnativekey%3DbmCXkuXzZRAtbMVC7uqsDF2D|pos%3Dbottom|pos%3Dbottom&eri=1&cust_params=session%3Do%26ptype%3Dvideo_show_episode%26cid%3Dgs-2300-6443547%26game%3Dplayerunknowns-battlegrounds%2Cdestiny-2%2Cdonkey-kong-64%26rating%3DESRB%3A%20T%2CPEGI%3A%2016%2B%2CCERO%3A%20D%2CACB%3A%20MA%26genre%3Daction%2Cfirst-person%2Cshooter%2Ctactical%26con%3Dpc%2Cxbox-one%2Cios-iphoneipad%2Candroid%26franchise%3Ddonkey-kong%26show%3Dgamespot-daily%26rdate%3Dbp52%26publisher%3Dbluehole-inc%2Cmicrosoft-game-studios%2Ctencent%26category%3Dgames%26embed%3Dautoplay%26env%3Ddev%26user%3Dnamed%26vguid%3D3df13c0e-03ac-4377-9e02-15ece1ed8241%26st%3D1%26firstpg%3D0&cookie=ID%3D8162b4bfcff3d601%3AT%3D1534278910%3AS%3DALNI_MbiIrQhluy0QCjbYgdB8NDrTc6SyA&bc=7&abxe=1&lmt=1538600012&dt=1538600012955&dlt=1538600009311&idt=2446&frm=20&biw=1427&bih=940&oid=3&adxs=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&adys=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&adks=948964359%2C1887900510%2C3449614741%2C1312226192%2C855968400%2C3823962631%2C3772295718%2C3516691266&gut=v2&ifi=1&u_tz=-420&u_his=1&u_h=2560&u_w=1440&u_ah=2537&u_aw=1440&u_cd=24&u_nplug=3&u_nmime=4&u_sd=1&flash=0&url=https%3A%2F%2Fdev.gamespot.com%2Fvideos%2Fpubgs-new-update-shakes-up-the-desert-map-and-blue%2F2300-6443547%2F%3Fdebug_video_player%3D1&dssz=203&icsg=4503599627370495&std=0&vis=1&dmc=8&scr_x=0&scr_y=0&psz=0x0|0x-1|0x-1|0x-1|0x0|0x-1|0x-1|0x0&msz=0x0|0x-1|0x-1|0x-1|0x0|0x-1|0x-1|0x0&ga_vid=810472379.1535405316&ga_sid=1538599345&ga_hid=426942635&ga_fc=true&ga_cid=amp-dANTWD2FUbqB-KEGdagODA&fws=4%2C4%2C4%2C4%2C4%2C4%2C4%2C4:1
+pubads_impl_rendering_257.js:1 GET https://googleads.g.doubleclick.net/pagead/ide_cookie 0 ()
+xz @ pubads_impl_rendering_257.js:1
+Tz @ pubads_impl_rendering_257.js:1
+Zz @ pubads_impl_rendering_257.js:1
+$z @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+_.z @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+_.h.Ua @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ ads?gdfp_req=1&pvsid=3857138988800248&correlator=2598712413290564&output=json_html&callback=googletag.impl.pubads.callbackProxy1&impl=fifs&adsid=NT&pucrd=CgYgASgBOAF4Aw&jar=2018-10-03-20&json_a=1&eid=370204048&vrg=257&guci=2.2.0.0.2.2.0&sc=1&sfv=1-0-29&iu_parts=7336%2Caw-gamespot%2Cvideos&enc_prev_ius=%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2&prev_iu_szs=5x5%2C970x66|728x90%2C300x250%2C1600x1000%2C1x1%2C320x50|11x11%2C300x250%2C728x90|970x66&fluid=0%2C0%2C0%2C0%2C0%2Cheight%2C0%2C0&ists=8&prev_scp=pos%3Dnav|pos%3Dtop|pos%3Dtop|pos%3Dtop||pos%3Dtop%26strnativekey%3DbmCXkuXzZRAtbMVC7uqsDF2D|pos%3Dbottom|pos%3Dbottom&eri=1&cust_params=session%3Do%26ptype%3Dvideo_show_episode%26cid%3Dgs-2300-6443547%26game%3Dplayerunknowns-battlegrounds%2Cdestiny-2%2Cdonkey-kong-64%26rating%3DESRB%3A%20T%2CPEGI%3A%2016%2B%2CCERO%3A%20D%2CACB%3A%20MA%26genre%3Daction%2Cfirst-person%2Cshooter%2Ctactical%26con%3Dpc%2Cxbox-one%2Cios-iphoneipad%2Candroid%26franchise%3Ddonkey-kong%26show%3Dgamespot-daily%26rdate%3Dbp52%26publisher%3Dbluehole-inc%2Cmicrosoft-game-studios%2Ctencent%26category%3Dgames%26embed%3Dautoplay%26env%3Ddev%26user%3Dnamed%26vguid%3D3df13c0e-03ac-4377-9e02-15ece1ed8241%26st%3D1%26firstpg%3D0&cookie=ID%3D8162b4bfcff3d601%3AT%3D1534278910%3AS%3DALNI_MbiIrQhluy0QCjbYgdB8NDrTc6SyA&bc=7&abxe=1&lmt=1538600012&dt=1538600012955&dlt=1538600009311&idt=2446&frm=20&biw=1427&bih=940&oid=3&adxs=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&adys=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&adks=948964359%2C1887900510%2C3449614741%2C1312226192%2C855968400%2C3823962631%2C3772295718%2C3516691266&gut=v2&ifi=1&u_tz=-420&u_his=1&u_h=2560&u_w=1440&u_ah=2537&u_aw=1440&u_cd=24&u_nplug=3&u_nmime=4&u_sd=1&flash=0&url=https%3A%2F%2Fdev.gamespot.com%2Fvideos%2Fpubgs-new-update-shakes-up-the-desert-map-and-blue%2F2300-6443547%2F%3Fdebug_video_player%3D1&dssz=203&icsg=4503599627370495&std=0&vis=1&dmc=8&scr_x=0&scr_y=0&psz=0x0|0x-1|0x-1|0x-1|0x0|0x-1|0x-1|0x0&msz=0x0|0x-1|0x-1|0x-1|0x0|0x-1|0x-1|0x0&ga_vid=810472379.1535405316&ga_sid=1538599345&ga_hid=426942635&ga_fc=true&ga_cid=amp-dANTWD2FUbqB-KEGdagODA&fws=4%2C4%2C4%2C4%2C4%2C4%2C4%2C4:1
+pubads_impl_rendering_257.js:1 GET https://tpc.googlesyndication.com/simgad/10117033852524114652 0 ()
+xz @ pubads_impl_rendering_257.js:1
+Tz @ pubads_impl_rendering_257.js:1
+Zz @ pubads_impl_rendering_257.js:1
+$z @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+_.z @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+_.h.Ua @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ ads?gdfp_req=1&pvsid=3857138988800248&correlator=2598712413290564&output=json_html&callback=googletag.impl.pubads.callbackProxy1&impl=fifs&adsid=NT&pucrd=CgYgASgBOAF4Aw&jar=2018-10-03-20&json_a=1&eid=370204048&vrg=257&guci=2.2.0.0.2.2.0&sc=1&sfv=1-0-29&iu_parts=7336%2Caw-gamespot%2Cvideos&enc_prev_ius=%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2&prev_iu_szs=5x5%2C970x66|728x90%2C300x250%2C1600x1000%2C1x1%2C320x50|11x11%2C300x250%2C728x90|970x66&fluid=0%2C0%2C0%2C0%2C0%2Cheight%2C0%2C0&ists=8&prev_scp=pos%3Dnav|pos%3Dtop|pos%3Dtop|pos%3Dtop||pos%3Dtop%26strnativekey%3DbmCXkuXzZRAtbMVC7uqsDF2D|pos%3Dbottom|pos%3Dbottom&eri=1&cust_params=session%3Do%26ptype%3Dvideo_show_episode%26cid%3Dgs-2300-6443547%26game%3Dplayerunknowns-battlegrounds%2Cdestiny-2%2Cdonkey-kong-64%26rating%3DESRB%3A%20T%2CPEGI%3A%2016%2B%2CCERO%3A%20D%2CACB%3A%20MA%26genre%3Daction%2Cfirst-person%2Cshooter%2Ctactical%26con%3Dpc%2Cxbox-one%2Cios-iphoneipad%2Candroid%26franchise%3Ddonkey-kong%26show%3Dgamespot-daily%26rdate%3Dbp52%26publisher%3Dbluehole-inc%2Cmicrosoft-game-studios%2Ctencent%26category%3Dgames%26embed%3Dautoplay%26env%3Ddev%26user%3Dnamed%26vguid%3D3df13c0e-03ac-4377-9e02-15ece1ed8241%26st%3D1%26firstpg%3D0&cookie=ID%3D8162b4bfcff3d601%3AT%3D1534278910%3AS%3DALNI_MbiIrQhluy0QCjbYgdB8NDrTc6SyA&bc=7&abxe=1&lmt=1538600012&dt=1538600012955&dlt=1538600009311&idt=2446&frm=20&biw=1427&bih=940&oid=3&adxs=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&adys=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&adks=948964359%2C1887900510%2C3449614741%2C1312226192%2C855968400%2C3823962631%2C3772295718%2C3516691266&gut=v2&ifi=1&u_tz=-420&u_his=1&u_h=2560&u_w=1440&u_ah=2537&u_aw=1440&u_cd=24&u_nplug=3&u_nmime=4&u_sd=1&flash=0&url=https%3A%2F%2Fdev.gamespot.com%2Fvideos%2Fpubgs-new-update-shakes-up-the-desert-map-and-blue%2F2300-6443547%2F%3Fdebug_video_player%3D1&dssz=203&icsg=4503599627370495&std=0&vis=1&dmc=8&scr_x=0&scr_y=0&psz=0x0|0x-1|0x-1|0x-1|0x0|0x-1|0x-1|0x0&msz=0x0|0x-1|0x-1|0x-1|0x0|0x-1|0x-1|0x0&ga_vid=810472379.1535405316&ga_sid=1538599345&ga_hid=426942635&ga_fc=true&ga_cid=amp-dANTWD2FUbqB-KEGdagODA&fws=4%2C4%2C4%2C4%2C4%2C4%2C4%2C4:1
+pubads_impl_rendering_257.js:1 GET https://tpc.googlesyndication.com/pagead/js/r20181001/r20110914/abg_lite.js 0 ()
+xz @ pubads_impl_rendering_257.js:1
+Tz @ pubads_impl_rendering_257.js:1
+Zz @ pubads_impl_rendering_257.js:1
+$z @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+_.z @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+_.h.Ua @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ ads?gdfp_req=1&pvsid=3857138988800248&correlator=2598712413290564&output=json_html&callback=googletag.impl.pubads.callbackProxy1&impl=fifs&adsid=NT&pucrd=CgYgASgBOAF4Aw&jar=2018-10-03-20&json_a=1&eid=370204048&vrg=257&guci=2.2.0.0.2.2.0&sc=1&sfv=1-0-29&iu_parts=7336%2Caw-gamespot%2Cvideos&enc_prev_ius=%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2&prev_iu_szs=5x5%2C970x66|728x90%2C300x250%2C1600x1000%2C1x1%2C320x50|11x11%2C300x250%2C728x90|970x66&fluid=0%2C0%2C0%2C0%2C0%2Cheight%2C0%2C0&ists=8&prev_scp=pos%3Dnav|pos%3Dtop|pos%3Dtop|pos%3Dtop||pos%3Dtop%26strnativekey%3DbmCXkuXzZRAtbMVC7uqsDF2D|pos%3Dbottom|pos%3Dbottom&eri=1&cust_params=session%3Do%26ptype%3Dvideo_show_episode%26cid%3Dgs-2300-6443547%26game%3Dplayerunknowns-battlegrounds%2Cdestiny-2%2Cdonkey-kong-64%26rating%3DESRB%3A%20T%2CPEGI%3A%2016%2B%2CCERO%3A%20D%2CACB%3A%20MA%26genre%3Daction%2Cfirst-person%2Cshooter%2Ctactical%26con%3Dpc%2Cxbox-one%2Cios-iphoneipad%2Candroid%26franchise%3Ddonkey-kong%26show%3Dgamespot-daily%26rdate%3Dbp52%26publisher%3Dbluehole-inc%2Cmicrosoft-game-studios%2Ctencent%26category%3Dgames%26embed%3Dautoplay%26env%3Ddev%26user%3Dnamed%26vguid%3D3df13c0e-03ac-4377-9e02-15ece1ed8241%26st%3D1%26firstpg%3D0&cookie=ID%3D8162b4bfcff3d601%3AT%3D1534278910%3AS%3DALNI_MbiIrQhluy0QCjbYgdB8NDrTc6SyA&bc=7&abxe=1&lmt=1538600012&dt=1538600012955&dlt=1538600009311&idt=2446&frm=20&biw=1427&bih=940&oid=3&adxs=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&adys=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&adks=948964359%2C1887900510%2C3449614741%2C1312226192%2C855968400%2C3823962631%2C3772295718%2C3516691266&gut=v2&ifi=1&u_tz=-420&u_his=1&u_h=2560&u_w=1440&u_ah=2537&u_aw=1440&u_cd=24&u_nplug=3&u_nmime=4&u_sd=1&flash=0&url=https%3A%2F%2Fdev.gamespot.com%2Fvideos%2Fpubgs-new-update-shakes-up-the-desert-map-and-blue%2F2300-6443547%2F%3Fdebug_video_player%3D1&dssz=203&icsg=4503599627370495&std=0&vis=1&dmc=8&scr_x=0&scr_y=0&psz=0x0|0x-1|0x-1|0x-1|0x0|0x-1|0x-1|0x0&msz=0x0|0x-1|0x-1|0x-1|0x0|0x-1|0x-1|0x0&ga_vid=810472379.1535405316&ga_sid=1538599345&ga_hid=426942635&ga_fc=true&ga_cid=amp-dANTWD2FUbqB-KEGdagODA&fws=4%2C4%2C4%2C4%2C4%2C4%2C4%2C4:1
+pubads_impl_rendering_257.js:1 GET https://tpc.googlesyndication.com/pagead/js/r20181001/r20110914/client/ext/m_window_focus_non_hydra.js 0 ()
+xz @ pubads_impl_rendering_257.js:1
+Tz @ pubads_impl_rendering_257.js:1
+Zz @ pubads_impl_rendering_257.js:1
+$z @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+_.z @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+_.h.Ua @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ ads?gdfp_req=1&pvsid=3857138988800248&correlator=2598712413290564&output=json_html&callback=googletag.impl.pubads.callbackProxy1&impl=fifs&adsid=NT&pucrd=CgYgASgBOAF4Aw&jar=2018-10-03-20&json_a=1&eid=370204048&vrg=257&guci=2.2.0.0.2.2.0&sc=1&sfv=1-0-29&iu_parts=7336%2Caw-gamespot%2Cvideos&enc_prev_ius=%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2&prev_iu_szs=5x5%2C970x66|728x90%2C300x250%2C1600x1000%2C1x1%2C320x50|11x11%2C300x250%2C728x90|970x66&fluid=0%2C0%2C0%2C0%2C0%2Cheight%2C0%2C0&ists=8&prev_scp=pos%3Dnav|pos%3Dtop|pos%3Dtop|pos%3Dtop||pos%3Dtop%26strnativekey%3DbmCXkuXzZRAtbMVC7uqsDF2D|pos%3Dbottom|pos%3Dbottom&eri=1&cust_params=session%3Do%26ptype%3Dvideo_show_episode%26cid%3Dgs-2300-6443547%26game%3Dplayerunknowns-battlegrounds%2Cdestiny-2%2Cdonkey-kong-64%26rating%3DESRB%3A%20T%2CPEGI%3A%2016%2B%2CCERO%3A%20D%2CACB%3A%20MA%26genre%3Daction%2Cfirst-person%2Cshooter%2Ctactical%26con%3Dpc%2Cxbox-one%2Cios-iphoneipad%2Candroid%26franchise%3Ddonkey-kong%26show%3Dgamespot-daily%26rdate%3Dbp52%26publisher%3Dbluehole-inc%2Cmicrosoft-game-studios%2Ctencent%26category%3Dgames%26embed%3Dautoplay%26env%3Ddev%26user%3Dnamed%26vguid%3D3df13c0e-03ac-4377-9e02-15ece1ed8241%26st%3D1%26firstpg%3D0&cookie=ID%3D8162b4bfcff3d601%3AT%3D1534278910%3AS%3DALNI_MbiIrQhluy0QCjbYgdB8NDrTc6SyA&bc=7&abxe=1&lmt=1538600012&dt=1538600012955&dlt=1538600009311&idt=2446&frm=20&biw=1427&bih=940&oid=3&adxs=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&adys=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&adks=948964359%2C1887900510%2C3449614741%2C1312226192%2C855968400%2C3823962631%2C3772295718%2C3516691266&gut=v2&ifi=1&u_tz=-420&u_his=1&u_h=2560&u_w=1440&u_ah=2537&u_aw=1440&u_cd=24&u_nplug=3&u_nmime=4&u_sd=1&flash=0&url=https%3A%2F%2Fdev.gamespot.com%2Fvideos%2Fpubgs-new-update-shakes-up-the-desert-map-and-blue%2F2300-6443547%2F%3Fdebug_video_player%3D1&dssz=203&icsg=4503599627370495&std=0&vis=1&dmc=8&scr_x=0&scr_y=0&psz=0x0|0x-1|0x-1|0x-1|0x0|0x-1|0x-1|0x0&msz=0x0|0x-1|0x-1|0x-1|0x0|0x-1|0x-1|0x0&ga_vid=810472379.1535405316&ga_sid=1538599345&ga_hid=426942635&ga_fc=true&ga_cid=amp-dANTWD2FUbqB-KEGdagODA&fws=4%2C4%2C4%2C4%2C4%2C4%2C4%2C4:1
+pubads_impl_rendering_257.js:1 GET https://googleads.g.doubleclick.net/pagead/ide_cookie 0 ()
+xz @ pubads_impl_rendering_257.js:1
+Tz @ pubads_impl_rendering_257.js:1
+Zz @ pubads_impl_rendering_257.js:1
+$z @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+_.z @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+_.h.Ua @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ ads?gdfp_req=1&pvsid=3857138988800248&correlator=2598712413290564&output=json_html&callback=googletag.impl.pubads.callbackProxy1&impl=fifs&adsid=NT&pucrd=CgYgASgBOAF4Aw&jar=2018-10-03-20&json_a=1&eid=370204048&vrg=257&guci=2.2.0.0.2.2.0&sc=1&sfv=1-0-29&iu_parts=7336%2Caw-gamespot%2Cvideos&enc_prev_ius=%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2&prev_iu_szs=5x5%2C970x66|728x90%2C300x250%2C1600x1000%2C1x1%2C320x50|11x11%2C300x250%2C728x90|970x66&fluid=0%2C0%2C0%2C0%2C0%2Cheight%2C0%2C0&ists=8&prev_scp=pos%3Dnav|pos%3Dtop|pos%3Dtop|pos%3Dtop||pos%3Dtop%26strnativekey%3DbmCXkuXzZRAtbMVC7uqsDF2D|pos%3Dbottom|pos%3Dbottom&eri=1&cust_params=session%3Do%26ptype%3Dvideo_show_episode%26cid%3Dgs-2300-6443547%26game%3Dplayerunknowns-battlegrounds%2Cdestiny-2%2Cdonkey-kong-64%26rating%3DESRB%3A%20T%2CPEGI%3A%2016%2B%2CCERO%3A%20D%2CACB%3A%20MA%26genre%3Daction%2Cfirst-person%2Cshooter%2Ctactical%26con%3Dpc%2Cxbox-one%2Cios-iphoneipad%2Candroid%26franchise%3Ddonkey-kong%26show%3Dgamespot-daily%26rdate%3Dbp52%26publisher%3Dbluehole-inc%2Cmicrosoft-game-studios%2Ctencent%26category%3Dgames%26embed%3Dautoplay%26env%3Ddev%26user%3Dnamed%26vguid%3D3df13c0e-03ac-4377-9e02-15ece1ed8241%26st%3D1%26firstpg%3D0&cookie=ID%3D8162b4bfcff3d601%3AT%3D1534278910%3AS%3DALNI_MbiIrQhluy0QCjbYgdB8NDrTc6SyA&bc=7&abxe=1&lmt=1538600012&dt=1538600012955&dlt=1538600009311&idt=2446&frm=20&biw=1427&bih=940&oid=3&adxs=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&adys=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&adks=948964359%2C1887900510%2C3449614741%2C1312226192%2C855968400%2C3823962631%2C3772295718%2C3516691266&gut=v2&ifi=1&u_tz=-420&u_his=1&u_h=2560&u_w=1440&u_ah=2537&u_aw=1440&u_cd=24&u_nplug=3&u_nmime=4&u_sd=1&flash=0&url=https%3A%2F%2Fdev.gamespot.com%2Fvideos%2Fpubgs-new-update-shakes-up-the-desert-map-and-blue%2F2300-6443547%2F%3Fdebug_video_player%3D1&dssz=203&icsg=4503599627370495&std=0&vis=1&dmc=8&scr_x=0&scr_y=0&psz=0x0|0x-1|0x-1|0x-1|0x0|0x-1|0x-1|0x0&msz=0x0|0x-1|0x-1|0x-1|0x0|0x-1|0x-1|0x0&ga_vid=810472379.1535405316&ga_sid=1538599345&ga_hid=426942635&ga_fc=true&ga_cid=amp-dANTWD2FUbqB-KEGdagODA&fws=4%2C4%2C4%2C4%2C4%2C4%2C4%2C4:1
+pubads_impl_rendering_257.js:1 GET https://tpc.googlesyndication.com/simgad/14560836655467974274 0 ()
+xz @ pubads_impl_rendering_257.js:1
+Tz @ pubads_impl_rendering_257.js:1
+Zz @ pubads_impl_rendering_257.js:1
+$z @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+_.z @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+_.h.Ua @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ ads?gdfp_req=1&pvsid=3857138988800248&correlator=2598712413290564&output=json_html&callback=googletag.impl.pubads.callbackProxy1&impl=fifs&adsid=NT&pucrd=CgYgASgBOAF4Aw&jar=2018-10-03-20&json_a=1&eid=370204048&vrg=257&guci=2.2.0.0.2.2.0&sc=1&sfv=1-0-29&iu_parts=7336%2Caw-gamespot%2Cvideos&enc_prev_ius=%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2&prev_iu_szs=5x5%2C970x66|728x90%2C300x250%2C1600x1000%2C1x1%2C320x50|11x11%2C300x250%2C728x90|970x66&fluid=0%2C0%2C0%2C0%2C0%2Cheight%2C0%2C0&ists=8&prev_scp=pos%3Dnav|pos%3Dtop|pos%3Dtop|pos%3Dtop||pos%3Dtop%26strnativekey%3DbmCXkuXzZRAtbMVC7uqsDF2D|pos%3Dbottom|pos%3Dbottom&eri=1&cust_params=session%3Do%26ptype%3Dvideo_show_episode%26cid%3Dgs-2300-6443547%26game%3Dplayerunknowns-battlegrounds%2Cdestiny-2%2Cdonkey-kong-64%26rating%3DESRB%3A%20T%2CPEGI%3A%2016%2B%2CCERO%3A%20D%2CACB%3A%20MA%26genre%3Daction%2Cfirst-person%2Cshooter%2Ctactical%26con%3Dpc%2Cxbox-one%2Cios-iphoneipad%2Candroid%26franchise%3Ddonkey-kong%26show%3Dgamespot-daily%26rdate%3Dbp52%26publisher%3Dbluehole-inc%2Cmicrosoft-game-studios%2Ctencent%26category%3Dgames%26embed%3Dautoplay%26env%3Ddev%26user%3Dnamed%26vguid%3D3df13c0e-03ac-4377-9e02-15ece1ed8241%26st%3D1%26firstpg%3D0&cookie=ID%3D8162b4bfcff3d601%3AT%3D1534278910%3AS%3DALNI_MbiIrQhluy0QCjbYgdB8NDrTc6SyA&bc=7&abxe=1&lmt=1538600012&dt=1538600012955&dlt=1538600009311&idt=2446&frm=20&biw=1427&bih=940&oid=3&adxs=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&adys=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&adks=948964359%2C1887900510%2C3449614741%2C1312226192%2C855968400%2C3823962631%2C3772295718%2C3516691266&gut=v2&ifi=1&u_tz=-420&u_his=1&u_h=2560&u_w=1440&u_ah=2537&u_aw=1440&u_cd=24&u_nplug=3&u_nmime=4&u_sd=1&flash=0&url=https%3A%2F%2Fdev.gamespot.com%2Fvideos%2Fpubgs-new-update-shakes-up-the-desert-map-and-blue%2F2300-6443547%2F%3Fdebug_video_player%3D1&dssz=203&icsg=4503599627370495&std=0&vis=1&dmc=8&scr_x=0&scr_y=0&psz=0x0|0x-1|0x-1|0x-1|0x0|0x-1|0x-1|0x0&msz=0x0|0x-1|0x-1|0x-1|0x0|0x-1|0x-1|0x0&ga_vid=810472379.1535405316&ga_sid=1538599345&ga_hid=426942635&ga_fc=true&ga_cid=amp-dANTWD2FUbqB-KEGdagODA&fws=4%2C4%2C4%2C4%2C4%2C4%2C4%2C4:1
+securepubads.g.doubleclick.net/pcs/view?xai=AKAOjstfKQVqGRFY99oQHqi_dJ6_q4XA8e_ihffLODr6n6x4EkDRkK2-WC37TtiSFOT8KuLl743WUlo8rUKVSJYXTBih_nQWHy7IUUllOfT6aXLdrSU1YEl6bUMA1dJ3KdX0ZwUn6LAbvE4YQIk6rAHjUpOTdLqBO7kmgyktC71u5N0DXlyCbPNsp-Usp7FtfWoCT7yvzXm4EI51f9GIlxoDLeXXwYrQ_Yrbzl26S-mSF9X85mS6QKo9PZwS4gR_4jxD9A&sai=AMfl-YTwzzKsOAks9yJp1xHQ8saEV65PBS3NIbLtJxytVO3Zc4ncc9mMsLlWJ87eLiM6AoEWPw_OIgp8xZdzt_Xm_8KkcjbCJbwsNjhnGH2ZzwpAUhl5-qdF-HVq3oY6&sig=Cg0ArKJSzPWGYMC4vcRUEAE&urlfix=1&adurl=:1 GET https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjstfKQVqGRFY99oQHqi_dJ6_q4XA8e_ihffLODr6n6x4EkDRkK2-WC37TtiSFOT8KuLl743WUlo8rUKVSJYXTBih_nQWHy7IUUllOfT6aXLdrSU1YEl6bUMA1dJ3KdX0ZwUn6LAbvE4YQIk6rAHjUpOTdLqBO7kmgyktC71u5N0DXlyCbPNsp-Usp7FtfWoCT7yvzXm4EI51f9GIlxoDLeXXwYrQ_Yrbzl26S-mSF9X85mS6QKo9PZwS4gR_4jxD9A&sai=AMfl-YTwzzKsOAks9yJp1xHQ8saEV65PBS3NIbLtJxytVO3Zc4ncc9mMsLlWJ87eLiM6AoEWPw_OIgp8xZdzt_Xm_8KkcjbCJbwsNjhnGH2ZzwpAUhl5-qdF-HVq3oY6&sig=Cg0ArKJSzPWGYMC4vcRUEAE&urlfix=1&adurl= 0 ()
+Image (async)
+a @ VM5065:1
+(anonymous) @ VM5066:1
+xz @ pubads_impl_rendering_257.js:1
+Tz @ pubads_impl_rendering_257.js:1
+Zz @ pubads_impl_rendering_257.js:1
+$z @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+_.z @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+_.h.Ua @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ ads?gdfp_req=1&pvsid=3857138988800248&correlator=2598712413290564&output=json_html&callback=googletag.impl.pubads.callbackProxy1&impl=fifs&adsid=NT&pucrd=CgYgASgBOAF4Aw&jar=2018-10-03-20&json_a=1&eid=370204048&vrg=257&guci=2.2.0.0.2.2.0&sc=1&sfv=1-0-29&iu_parts=7336%2Caw-gamespot%2Cvideos&enc_prev_ius=%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2&prev_iu_szs=5x5%2C970x66|728x90%2C300x250%2C1600x1000%2C1x1%2C320x50|11x11%2C300x250%2C728x90|970x66&fluid=0%2C0%2C0%2C0%2C0%2Cheight%2C0%2C0&ists=8&prev_scp=pos%3Dnav|pos%3Dtop|pos%3Dtop|pos%3Dtop||pos%3Dtop%26strnativekey%3DbmCXkuXzZRAtbMVC7uqsDF2D|pos%3Dbottom|pos%3Dbottom&eri=1&cust_params=session%3Do%26ptype%3Dvideo_show_episode%26cid%3Dgs-2300-6443547%26game%3Dplayerunknowns-battlegrounds%2Cdestiny-2%2Cdonkey-kong-64%26rating%3DESRB%3A%20T%2CPEGI%3A%2016%2B%2CCERO%3A%20D%2CACB%3A%20MA%26genre%3Daction%2Cfirst-person%2Cshooter%2Ctactical%26con%3Dpc%2Cxbox-one%2Cios-iphoneipad%2Candroid%26franchise%3Ddonkey-kong%26show%3Dgamespot-daily%26rdate%3Dbp52%26publisher%3Dbluehole-inc%2Cmicrosoft-game-studios%2Ctencent%26category%3Dgames%26embed%3Dautoplay%26env%3Ddev%26user%3Dnamed%26vguid%3D3df13c0e-03ac-4377-9e02-15ece1ed8241%26st%3D1%26firstpg%3D0&cookie=ID%3D8162b4bfcff3d601%3AT%3D1534278910%3AS%3DALNI_MbiIrQhluy0QCjbYgdB8NDrTc6SyA&bc=7&abxe=1&lmt=1538600012&dt=1538600012955&dlt=1538600009311&idt=2446&frm=20&biw=1427&bih=940&oid=3&adxs=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&adys=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&adks=948964359%2C1887900510%2C3449614741%2C1312226192%2C855968400%2C3823962631%2C3772295718%2C3516691266&gut=v2&ifi=1&u_tz=-420&u_his=1&u_h=2560&u_w=1440&u_ah=2537&u_aw=1440&u_cd=24&u_nplug=3&u_nmime=4&u_sd=1&flash=0&url=https%3A%2F%2Fdev.gamespot.com%2Fvideos%2Fpubgs-new-update-shakes-up-the-desert-map-and-blue%2F2300-6443547%2F%3Fdebug_video_player%3D1&dssz=203&icsg=4503599627370495&std=0&vis=1&dmc=8&scr_x=0&scr_y=0&psz=0x0|0x-1|0x-1|0x-1|0x0|0x-1|0x-1|0x0&msz=0x0|0x-1|0x-1|0x-1|0x0|0x-1|0x-1|0x0&ga_vid=810472379.1535405316&ga_sid=1538599345&ga_hid=426942635&ga_fc=true&ga_cid=amp-dANTWD2FUbqB-KEGdagODA&fws=4%2C4%2C4%2C4%2C4%2C4%2C4%2C4:1
+securepubads.g.doubleclick.net/pcs/view?xai=AKAOjss0ImNVy3RNsjWh8gDIfs4hylzntL_RQnX3-GjLcslWggvmuP8TQ8gbz2BVM1TLQj_7QoVA6DVSCoRurclu1oMbUEPap4XJUQhaIondFyshoqsBtSjuDf0g6O23ldf2EbX06U6hewF_oee3ofiXfDpmZCJaagUstHT8NXyPkI1zJYkeavjsL-V_0-CzfvhSX_4Qpul_p9kftBi2THuCLHQBcbR3w6QtuwaYY4PFUiseiccmg1WtmeHv08ZeBA&sai=AMfl-YTR_ldFzL9PbC3JBSOi4M-qlYSHWRnxANg8pn-aI9xSwMtRzI1J4KkLp4HyGPtk7Ucdp7hg3DfIhdrm4VhXZQCcCcNGCHG9xALRb3f3ai-2P0a3ng4REmH5tUxm&sig=Cg0ArKJSzAoi2856oGMgEAE&adurl=:1 GET https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjss0ImNVy3RNsjWh8gDIfs4hylzntL_RQnX3-GjLcslWggvmuP8TQ8gbz2BVM1TLQj_7QoVA6DVSCoRurclu1oMbUEPap4XJUQhaIondFyshoqsBtSjuDf0g6O23ldf2EbX06U6hewF_oee3ofiXfDpmZCJaagUstHT8NXyPkI1zJYkeavjsL-V_0-CzfvhSX_4Qpul_p9kftBi2THuCLHQBcbR3w6QtuwaYY4PFUiseiccmg1WtmeHv08ZeBA&sai=AMfl-YTR_ldFzL9PbC3JBSOi4M-qlYSHWRnxANg8pn-aI9xSwMtRzI1J4KkLp4HyGPtk7Ucdp7hg3DfIhdrm4VhXZQCcCcNGCHG9xALRb3f3ai-2P0a3ng4REmH5tUxm&sig=Cg0ArKJSzAoi2856oGMgEAE&adurl= 0 ()
+Image (async)
+a @ VM5071:1
+(anonymous) @ VM5072:1
+xz @ pubads_impl_rendering_257.js:1
+Tz @ pubads_impl_rendering_257.js:1
+Zz @ pubads_impl_rendering_257.js:1
+$z @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+_.z @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+_.h.Ua @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ ads?gdfp_req=1&pvsid=3857138988800248&correlator=2598712413290564&output=json_html&callback=googletag.impl.pubads.callbackProxy1&impl=fifs&adsid=NT&pucrd=CgYgASgBOAF4Aw&jar=2018-10-03-20&json_a=1&eid=370204048&vrg=257&guci=2.2.0.0.2.2.0&sc=1&sfv=1-0-29&iu_parts=7336%2Caw-gamespot%2Cvideos&enc_prev_ius=%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2&prev_iu_szs=5x5%2C970x66|728x90%2C300x250%2C1600x1000%2C1x1%2C320x50|11x11%2C300x250%2C728x90|970x66&fluid=0%2C0%2C0%2C0%2C0%2Cheight%2C0%2C0&ists=8&prev_scp=pos%3Dnav|pos%3Dtop|pos%3Dtop|pos%3Dtop||pos%3Dtop%26strnativekey%3DbmCXkuXzZRAtbMVC7uqsDF2D|pos%3Dbottom|pos%3Dbottom&eri=1&cust_params=session%3Do%26ptype%3Dvideo_show_episode%26cid%3Dgs-2300-6443547%26game%3Dplayerunknowns-battlegrounds%2Cdestiny-2%2Cdonkey-kong-64%26rating%3DESRB%3A%20T%2CPEGI%3A%2016%2B%2CCERO%3A%20D%2CACB%3A%20MA%26genre%3Daction%2Cfirst-person%2Cshooter%2Ctactical%26con%3Dpc%2Cxbox-one%2Cios-iphoneipad%2Candroid%26franchise%3Ddonkey-kong%26show%3Dgamespot-daily%26rdate%3Dbp52%26publisher%3Dbluehole-inc%2Cmicrosoft-game-studios%2Ctencent%26category%3Dgames%26embed%3Dautoplay%26env%3Ddev%26user%3Dnamed%26vguid%3D3df13c0e-03ac-4377-9e02-15ece1ed8241%26st%3D1%26firstpg%3D0&cookie=ID%3D8162b4bfcff3d601%3AT%3D1534278910%3AS%3DALNI_MbiIrQhluy0QCjbYgdB8NDrTc6SyA&bc=7&abxe=1&lmt=1538600012&dt=1538600012955&dlt=1538600009311&idt=2446&frm=20&biw=1427&bih=940&oid=3&adxs=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&adys=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&adks=948964359%2C1887900510%2C3449614741%2C1312226192%2C855968400%2C3823962631%2C3772295718%2C3516691266&gut=v2&ifi=1&u_tz=-420&u_his=1&u_h=2560&u_w=1440&u_ah=2537&u_aw=1440&u_cd=24&u_nplug=3&u_nmime=4&u_sd=1&flash=0&url=https%3A%2F%2Fdev.gamespot.com%2Fvideos%2Fpubgs-new-update-shakes-up-the-desert-map-and-blue%2F2300-6443547%2F%3Fdebug_video_player%3D1&dssz=203&icsg=4503599627370495&std=0&vis=1&dmc=8&scr_x=0&scr_y=0&psz=0x0|0x-1|0x-1|0x-1|0x0|0x-1|0x-1|0x0&msz=0x0|0x-1|0x-1|0x-1|0x0|0x-1|0x-1|0x0&ga_vid=810472379.1535405316&ga_sid=1538599345&ga_hid=426942635&ga_fc=true&ga_cid=amp-dANTWD2FUbqB-KEGdagODA&fws=4%2C4%2C4%2C4%2C4%2C4%2C4%2C4:1
+securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsuK0EPQQwPARpoWW-oZudEJWchY_RIBI2KSoxEQ_7_8CyRHodtd-TB5J9sjmlAqU5MVSdgxPa9vN_q_wStgJqnzw7XzgvFl-pOxTLkI8odv7iw3XZYDVjE986PH4jaCWL1lNhwG_gMIeXehP2dZSAuzm4sHttNnalaSxovtS-DPJy92Zs37YfQAxJmjCJwCldxVANRO9xysR7Sc-oC3LrhS7LT-8KRWvZmJr30J7ZzcQebUiOQA83CGBNdZNw&sai=AMfl-YQ8PW0kImtf1ofjZ3A-7uB90qoKLAJaWlqoz11zKdM_G7jVBMlt799fDTY-4ml8uwJPpnZapNJk5HOUhz2wUXAbqjSqNRegxsCQbXbTicIdsxvuwk6ZIrSB-fud&sig=Cg0ArKJSzBcvlW74egc3EAE&urlfix=1&adurl=:1 GET https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsuK0EPQQwPARpoWW-oZudEJWchY_RIBI2KSoxEQ_7_8CyRHodtd-TB5J9sjmlAqU5MVSdgxPa9vN_q_wStgJqnzw7XzgvFl-pOxTLkI8odv7iw3XZYDVjE986PH4jaCWL1lNhwG_gMIeXehP2dZSAuzm4sHttNnalaSxovtS-DPJy92Zs37YfQAxJmjCJwCldxVANRO9xysR7Sc-oC3LrhS7LT-8KRWvZmJr30J7ZzcQebUiOQA83CGBNdZNw&sai=AMfl-YQ8PW0kImtf1ofjZ3A-7uB90qoKLAJaWlqoz11zKdM_G7jVBMlt799fDTY-4ml8uwJPpnZapNJk5HOUhz2wUXAbqjSqNRegxsCQbXbTicIdsxvuwk6ZIrSB-fud&sig=Cg0ArKJSzBcvlW74egc3EAE&urlfix=1&adurl= 0 ()
+Image (async)
+a @ VM5082:1
+(anonymous) @ VM5083:1
+xz @ pubads_impl_rendering_257.js:1
+Tz @ pubads_impl_rendering_257.js:1
+Zz @ pubads_impl_rendering_257.js:1
+$z @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+_.z @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+_.h.Ua @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ ads?gdfp_req=1&pvsid=3857138988800248&correlator=2598712413290564&output=json_html&callback=googletag.impl.pubads.callbackProxy1&impl=fifs&adsid=NT&pucrd=CgYgASgBOAF4Aw&jar=2018-10-03-20&json_a=1&eid=370204048&vrg=257&guci=2.2.0.0.2.2.0&sc=1&sfv=1-0-29&iu_parts=7336%2Caw-gamespot%2Cvideos&enc_prev_ius=%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2&prev_iu_szs=5x5%2C970x66|728x90%2C300x250%2C1600x1000%2C1x1%2C320x50|11x11%2C300x250%2C728x90|970x66&fluid=0%2C0%2C0%2C0%2C0%2Cheight%2C0%2C0&ists=8&prev_scp=pos%3Dnav|pos%3Dtop|pos%3Dtop|pos%3Dtop||pos%3Dtop%26strnativekey%3DbmCXkuXzZRAtbMVC7uqsDF2D|pos%3Dbottom|pos%3Dbottom&eri=1&cust_params=session%3Do%26ptype%3Dvideo_show_episode%26cid%3Dgs-2300-6443547%26game%3Dplayerunknowns-battlegrounds%2Cdestiny-2%2Cdonkey-kong-64%26rating%3DESRB%3A%20T%2CPEGI%3A%2016%2B%2CCERO%3A%20D%2CACB%3A%20MA%26genre%3Daction%2Cfirst-person%2Cshooter%2Ctactical%26con%3Dpc%2Cxbox-one%2Cios-iphoneipad%2Candroid%26franchise%3Ddonkey-kong%26show%3Dgamespot-daily%26rdate%3Dbp52%26publisher%3Dbluehole-inc%2Cmicrosoft-game-studios%2Ctencent%26category%3Dgames%26embed%3Dautoplay%26env%3Ddev%26user%3Dnamed%26vguid%3D3df13c0e-03ac-4377-9e02-15ece1ed8241%26st%3D1%26firstpg%3D0&cookie=ID%3D8162b4bfcff3d601%3AT%3D1534278910%3AS%3DALNI_MbiIrQhluy0QCjbYgdB8NDrTc6SyA&bc=7&abxe=1&lmt=1538600012&dt=1538600012955&dlt=1538600009311&idt=2446&frm=20&biw=1427&bih=940&oid=3&adxs=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&adys=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&adks=948964359%2C1887900510%2C3449614741%2C1312226192%2C855968400%2C3823962631%2C3772295718%2C3516691266&gut=v2&ifi=1&u_tz=-420&u_his=1&u_h=2560&u_w=1440&u_ah=2537&u_aw=1440&u_cd=24&u_nplug=3&u_nmime=4&u_sd=1&flash=0&url=https%3A%2F%2Fdev.gamespot.com%2Fvideos%2Fpubgs-new-update-shakes-up-the-desert-map-and-blue%2F2300-6443547%2F%3Fdebug_video_player%3D1&dssz=203&icsg=4503599627370495&std=0&vis=1&dmc=8&scr_x=0&scr_y=0&psz=0x0|0x-1|0x-1|0x-1|0x0|0x-1|0x-1|0x0&msz=0x0|0x-1|0x-1|0x-1|0x0|0x-1|0x-1|0x0&ga_vid=810472379.1535405316&ga_sid=1538599345&ga_hid=426942635&ga_fc=true&ga_cid=amp-dANTWD2FUbqB-KEGdagODA&fws=4%2C4%2C4%2C4%2C4%2C4%2C4%2C4:1
+securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsvW4cOQf2Rn84vvJSeSokjgw9IV0VZwkbmGPRn4AAhRVvCVnqTaUN0UMms80nbXBVwTsw-BLUfVriNdyDJekstkRrMtYZQOoJtlrG2RSk6uw49gcdL9PwdhwGNJ7TD0kRqkmzeB4YzPzxOc_c6bbZL8j2b-ld4TV4W7hOD_QYxEgTe0SW2v7uJZw7C3k0VzoSl5DHt6Ar9urg5iGaFDjZNNQiNrmgWwwvJNgwDsNuwnwE1wcSy9dI8_B5Wecg&sai=AMfl-YTe0KTFR8yv0ItmLV63sD8BJYyjR2syiUhRpC5CljupJo41WXoNLu6sbeYaaTJ0LviCppZWWzksON3etpk_1ed_oMMLlzPD6Xx5cQpN79pWpFHpAxHFHfKvTnVz&sig=Cg0ArKJSzMv0Ua6q3l4nEAE&adurl=:1 GET https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsvW4cOQf2Rn84vvJSeSokjgw9IV0VZwkbmGPRn4AAhRVvCVnqTaUN0UMms80nbXBVwTsw-BLUfVriNdyDJekstkRrMtYZQOoJtlrG2RSk6uw49gcdL9PwdhwGNJ7TD0kRqkmzeB4YzPzxOc_c6bbZL8j2b-ld4TV4W7hOD_QYxEgTe0SW2v7uJZw7C3k0VzoSl5DHt6Ar9urg5iGaFDjZNNQiNrmgWwwvJNgwDsNuwnwE1wcSy9dI8_B5Wecg&sai=AMfl-YTe0KTFR8yv0ItmLV63sD8BJYyjR2syiUhRpC5CljupJo41WXoNLu6sbeYaaTJ0LviCppZWWzksON3etpk_1ed_oMMLlzPD6Xx5cQpN79pWpFHpAxHFHfKvTnVz&sig=Cg0ArKJSzMv0Ua6q3l4nEAE&adurl= 0 ()
+Image (async)
+a @ VM5086:1
+(anonymous) @ VM5087:1
+xz @ pubads_impl_rendering_257.js:1
+Tz @ pubads_impl_rendering_257.js:1
+Zz @ pubads_impl_rendering_257.js:1
+$z @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+_.z @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+_.h.Ua @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ ads?gdfp_req=1&pvsid=3857138988800248&correlator=2598712413290564&output=json_html&callback=googletag.impl.pubads.callbackProxy1&impl=fifs&adsid=NT&pucrd=CgYgASgBOAF4Aw&jar=2018-10-03-20&json_a=1&eid=370204048&vrg=257&guci=2.2.0.0.2.2.0&sc=1&sfv=1-0-29&iu_parts=7336%2Caw-gamespot%2Cvideos&enc_prev_ius=%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2&prev_iu_szs=5x5%2C970x66|728x90%2C300x250%2C1600x1000%2C1x1%2C320x50|11x11%2C300x250%2C728x90|970x66&fluid=0%2C0%2C0%2C0%2C0%2Cheight%2C0%2C0&ists=8&prev_scp=pos%3Dnav|pos%3Dtop|pos%3Dtop|pos%3Dtop||pos%3Dtop%26strnativekey%3DbmCXkuXzZRAtbMVC7uqsDF2D|pos%3Dbottom|pos%3Dbottom&eri=1&cust_params=session%3Do%26ptype%3Dvideo_show_episode%26cid%3Dgs-2300-6443547%26game%3Dplayerunknowns-battlegrounds%2Cdestiny-2%2Cdonkey-kong-64%26rating%3DESRB%3A%20T%2CPEGI%3A%2016%2B%2CCERO%3A%20D%2CACB%3A%20MA%26genre%3Daction%2Cfirst-person%2Cshooter%2Ctactical%26con%3Dpc%2Cxbox-one%2Cios-iphoneipad%2Candroid%26franchise%3Ddonkey-kong%26show%3Dgamespot-daily%26rdate%3Dbp52%26publisher%3Dbluehole-inc%2Cmicrosoft-game-studios%2Ctencent%26category%3Dgames%26embed%3Dautoplay%26env%3Ddev%26user%3Dnamed%26vguid%3D3df13c0e-03ac-4377-9e02-15ece1ed8241%26st%3D1%26firstpg%3D0&cookie=ID%3D8162b4bfcff3d601%3AT%3D1534278910%3AS%3DALNI_MbiIrQhluy0QCjbYgdB8NDrTc6SyA&bc=7&abxe=1&lmt=1538600012&dt=1538600012955&dlt=1538600009311&idt=2446&frm=20&biw=1427&bih=940&oid=3&adxs=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&adys=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&adks=948964359%2C1887900510%2C3449614741%2C1312226192%2C855968400%2C3823962631%2C3772295718%2C3516691266&gut=v2&ifi=1&u_tz=-420&u_his=1&u_h=2560&u_w=1440&u_ah=2537&u_aw=1440&u_cd=24&u_nplug=3&u_nmime=4&u_sd=1&flash=0&url=https%3A%2F%2Fdev.gamespot.com%2Fvideos%2Fpubgs-new-update-shakes-up-the-desert-map-and-blue%2F2300-6443547%2F%3Fdebug_video_player%3D1&dssz=203&icsg=4503599627370495&std=0&vis=1&dmc=8&scr_x=0&scr_y=0&psz=0x0|0x-1|0x-1|0x-1|0x0|0x-1|0x-1|0x0&msz=0x0|0x-1|0x-1|0x-1|0x0|0x-1|0x-1|0x0&ga_vid=810472379.1535405316&ga_sid=1538599345&ga_hid=426942635&ga_fc=true&ga_cid=amp-dANTWD2FUbqB-KEGdagODA&fws=4%2C4%2C4%2C4%2C4%2C4%2C4%2C4:1
+securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsu7-j1VxZT7-Qpdl4Y67ybpkRPg1ZHPJjma0hbze1TMVWfaKZ3afUy-tofMNmzW7TW57aA1BAsmh7jboUeTUDfcngwt1ou113XAYVeNX6UNFsIiQG_xkQriavjG71fXKJc9BEEhIGQCBfrXCGbo5gzRzNEM355w7s3O_fc2tReIUKs1sqUtaQlijaUvUgSTRmZbRPkM5EJTRVT0GS34IOz-FYUZeNjHGph4exuo5wKUwq6gojpmCab2_WhkgQ&sai=AMfl-YTHf0j_SQ0lMtIhIPde0RPVRTrbXLosV_gfRwxjNz_AKyxZQZlZ6VRARvS_As8sjR8cPibN40_AiVgGo40k4aQCCSUPdH2MwItS89l-Aqv6wGJ7nuayw_q8Ipc7&sig=Cg0ArKJSzMp-Gf7MRYpZEAE&adurl=:1 GET https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsu7-j1VxZT7-Qpdl4Y67ybpkRPg1ZHPJjma0hbze1TMVWfaKZ3afUy-tofMNmzW7TW57aA1BAsmh7jboUeTUDfcngwt1ou113XAYVeNX6UNFsIiQG_xkQriavjG71fXKJc9BEEhIGQCBfrXCGbo5gzRzNEM355w7s3O_fc2tReIUKs1sqUtaQlijaUvUgSTRmZbRPkM5EJTRVT0GS34IOz-FYUZeNjHGph4exuo5wKUwq6gojpmCab2_WhkgQ&sai=AMfl-YTHf0j_SQ0lMtIhIPde0RPVRTrbXLosV_gfRwxjNz_AKyxZQZlZ6VRARvS_As8sjR8cPibN40_AiVgGo40k4aQCCSUPdH2MwItS89l-Aqv6wGJ7nuayw_q8Ipc7&sig=Cg0ArKJSzMp-Gf7MRYpZEAE&adurl= 0 ()
+Image (async)
+a @ VM5091:1
+(anonymous) @ VM5092:1
+xz @ pubads_impl_rendering_257.js:1
+Tz @ pubads_impl_rendering_257.js:1
+Zz @ pubads_impl_rendering_257.js:1
+$z @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+_.z @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+_.h.Ua @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ ads?gdfp_req=1&pvsid=3857138988800248&correlator=2598712413290564&output=json_html&callback=googletag.impl.pubads.callbackProxy1&impl=fifs&adsid=NT&pucrd=CgYgASgBOAF4Aw&jar=2018-10-03-20&json_a=1&eid=370204048&vrg=257&guci=2.2.0.0.2.2.0&sc=1&sfv=1-0-29&iu_parts=7336%2Caw-gamespot%2Cvideos&enc_prev_ius=%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2&prev_iu_szs=5x5%2C970x66|728x90%2C300x250%2C1600x1000%2C1x1%2C320x50|11x11%2C300x250%2C728x90|970x66&fluid=0%2C0%2C0%2C0%2C0%2Cheight%2C0%2C0&ists=8&prev_scp=pos%3Dnav|pos%3Dtop|pos%3Dtop|pos%3Dtop||pos%3Dtop%26strnativekey%3DbmCXkuXzZRAtbMVC7uqsDF2D|pos%3Dbottom|pos%3Dbottom&eri=1&cust_params=session%3Do%26ptype%3Dvideo_show_episode%26cid%3Dgs-2300-6443547%26game%3Dplayerunknowns-battlegrounds%2Cdestiny-2%2Cdonkey-kong-64%26rating%3DESRB%3A%20T%2CPEGI%3A%2016%2B%2CCERO%3A%20D%2CACB%3A%20MA%26genre%3Daction%2Cfirst-person%2Cshooter%2Ctactical%26con%3Dpc%2Cxbox-one%2Cios-iphoneipad%2Candroid%26franchise%3Ddonkey-kong%26show%3Dgamespot-daily%26rdate%3Dbp52%26publisher%3Dbluehole-inc%2Cmicrosoft-game-studios%2Ctencent%26category%3Dgames%26embed%3Dautoplay%26env%3Ddev%26user%3Dnamed%26vguid%3D3df13c0e-03ac-4377-9e02-15ece1ed8241%26st%3D1%26firstpg%3D0&cookie=ID%3D8162b4bfcff3d601%3AT%3D1534278910%3AS%3DALNI_MbiIrQhluy0QCjbYgdB8NDrTc6SyA&bc=7&abxe=1&lmt=1538600012&dt=1538600012955&dlt=1538600009311&idt=2446&frm=20&biw=1427&bih=940&oid=3&adxs=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&adys=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&adks=948964359%2C1887900510%2C3449614741%2C1312226192%2C855968400%2C3823962631%2C3772295718%2C3516691266&gut=v2&ifi=1&u_tz=-420&u_his=1&u_h=2560&u_w=1440&u_ah=2537&u_aw=1440&u_cd=24&u_nplug=3&u_nmime=4&u_sd=1&flash=0&url=https%3A%2F%2Fdev.gamespot.com%2Fvideos%2Fpubgs-new-update-shakes-up-the-desert-map-and-blue%2F2300-6443547%2F%3Fdebug_video_player%3D1&dssz=203&icsg=4503599627370495&std=0&vis=1&dmc=8&scr_x=0&scr_y=0&psz=0x0|0x-1|0x-1|0x-1|0x0|0x-1|0x-1|0x0&msz=0x0|0x-1|0x-1|0x-1|0x0|0x-1|0x-1|0x0&ga_vid=810472379.1535405316&ga_sid=1538599345&ga_hid=426942635&ga_fc=true&ga_cid=amp-dANTWD2FUbqB-KEGdagODA&fws=4%2C4%2C4%2C4%2C4%2C4%2C4%2C4:1
+all_debugLogger_6.js:262 [VP] [API-UVPJS] cbsiVideoManager initialized
+all_debugLogger_6.js:262 [VP] [API-UVPJS] ApiInterfaceManager.autoplayTypeAllowed POST logicnormal
+all_debugLogger_6.js:262 [VP] [API-UVPJS] pageContextData {articleId: "gs-2300-6443547", articleTitle: "PUBG's New Update Shakes Up The Desert Map And Blue Zone  - GameSpot Daily", articleType: "video", blockStatus: "1", collectionId: undefined, …}
+all_debugLogger_6.js:262 [VP] [API-UVPJS] Tracking options:  {"articleId":"gs-2300-6443547","articleTitle":"PUBG's New Update Shakes Up The Desert Map And Blue Zone  - GameSpot Daily","articleType":"video","blockStatus":"1","deviceType":"desktop","dwAnonId":"SOYCu1ofg+mnDreDzU4","pageType":"video_show_episode","pageUrl":"https://dev.gamespot.com/videos/pubgs-new-update-shakes-up-the-desert-map-and-blue/2300-6443547/?debug_video_player=1","pageViewGuid":"3df13c0e-03ac-4377-9e02-15ece1ed8241","premiumContent":"false","productGenre":"Action|First-Person|Shooter|Tactical","productTitle":"PlayerUnknown's Battlegrounds","showName":"GameSpot Daily","siteCode":"gs","sitePrimaryRsid":"cbsigamespotsite-dev","siteRsids":"cbsigamespotsite-dev","siteSection":"Videos","siteHier":"Videos|Video|Games|Show","siteType":"responsive web","test":"not in test","userId":"27614176650970572209005901783201","userState":"authenticated","userType":"registered","videoAutoPlay":"on","videoAssetSource":"GameSpot","videoAdServerName":"dai_ssb"}
+all_debugLogger_6.js:262 [VP] [API-UVPJS] MUTED AUTOPLAY IN createVideoPlayer: false
+all_part_2.js:8 [MUX] _initializePlugin
+pubads_impl_rendering_257.js:1 Cross-Origin Read Blocking (CORB) blocked cross-origin response https://www.google.com/ads/measurement/l?ebcid=ALh7CaQnPsFPVXlhjrQ6YZk5bGPenQC5Qa4bEM8WJswkr9_q16B6b3uLQ2h_yMXjBhH2f0bHmSUFaDVeRrFRWCeE-nr2S1p8Lw with MIME type text/html. See https://www.chromestatus.com/feature/5629709824032768 for more details.
+xz @ pubads_impl_rendering_257.js:1
+Tz @ pubads_impl_rendering_257.js:1
+Zz @ pubads_impl_rendering_257.js:1
+$z @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+_.z @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+_.h.Ua @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ ads?gdfp_req=1&pvsid=3857138988800248&correlator=2598712413290564&output=json_html&callback=googletag.impl.pubads.callbackProxy1&impl=fifs&adsid=NT&pucrd=CgYgASgBOAF4Aw&jar=2018-10-03-20&json_a=1&eid=370204048&vrg=257&guci=2.2.0.0.2.2.0&sc=1&sfv=1-0-29&iu_parts=7336%2Caw-gamespot%2Cvideos&enc_prev_ius=%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2&prev_iu_szs=5x5%2C970x66|728x90%2C300x250%2C1600x1000%2C1x1%2C320x50|11x11%2C300x250%2C728x90|970x66&fluid=0%2C0%2C0%2C0%2C0%2Cheight%2C0%2C0&ists=8&prev_scp=pos%3Dnav|pos%3Dtop|pos%3Dtop|pos%3Dtop||pos%3Dtop%26strnativekey%3DbmCXkuXzZRAtbMVC7uqsDF2D|pos%3Dbottom|pos%3Dbottom&eri=1&cust_params=session%3Do%26ptype%3Dvideo_show_episode%26cid%3Dgs-2300-6443547%26game%3Dplayerunknowns-battlegrounds%2Cdestiny-2%2Cdonkey-kong-64%26rating%3DESRB%3A%20T%2CPEGI%3A%2016%2B%2CCERO%3A%20D%2CACB%3A%20MA%26genre%3Daction%2Cfirst-person%2Cshooter%2Ctactical%26con%3Dpc%2Cxbox-one%2Cios-iphoneipad%2Candroid%26franchise%3Ddonkey-kong%26show%3Dgamespot-daily%26rdate%3Dbp52%26publisher%3Dbluehole-inc%2Cmicrosoft-game-studios%2Ctencent%26category%3Dgames%26embed%3Dautoplay%26env%3Ddev%26user%3Dnamed%26vguid%3D3df13c0e-03ac-4377-9e02-15ece1ed8241%26st%3D1%26firstpg%3D0&cookie=ID%3D8162b4bfcff3d601%3AT%3D1534278910%3AS%3DALNI_MbiIrQhluy0QCjbYgdB8NDrTc6SyA&bc=7&abxe=1&lmt=1538600012&dt=1538600012955&dlt=1538600009311&idt=2446&frm=20&biw=1427&bih=940&oid=3&adxs=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&adys=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&adks=948964359%2C1887900510%2C3449614741%2C1312226192%2C855968400%2C3823962631%2C3772295718%2C3516691266&gut=v2&ifi=1&u_tz=-420&u_his=1&u_h=2560&u_w=1440&u_ah=2537&u_aw=1440&u_cd=24&u_nplug=3&u_nmime=4&u_sd=1&flash=0&url=https%3A%2F%2Fdev.gamespot.com%2Fvideos%2Fpubgs-new-update-shakes-up-the-desert-map-and-blue%2F2300-6443547%2F%3Fdebug_video_player%3D1&dssz=203&icsg=4503599627370495&std=0&vis=1&dmc=8&scr_x=0&scr_y=0&psz=0x0|0x-1|0x-1|0x-1|0x0|0x-1|0x-1|0x0&msz=0x0|0x-1|0x-1|0x-1|0x0|0x-1|0x-1|0x0&ga_vid=810472379.1535405316&ga_sid=1538599345&ga_hid=426942635&ga_fc=true&ga_cid=amp-dANTWD2FUbqB-KEGdagODA&fws=4%2C4%2C4%2C4%2C4%2C4%2C4%2C4:1
+pubads_impl_rendering_257.js:1 Cross-Origin Read Blocking (CORB) blocked cross-origin response https://www.google.com/ads/measurement/l?ebcid=ALh7CaQCGYn3QkgqwDtZ5dJ4eXhKGJFwITy6WMnfVQwTg-oEtVQVRtGntr0lxAUvVFtWju76qhYpp99TYskM3YaVNl3JhOjWag with MIME type text/html. See https://www.chromestatus.com/feature/5629709824032768 for more details.
+xz @ pubads_impl_rendering_257.js:1
+Tz @ pubads_impl_rendering_257.js:1
+Zz @ pubads_impl_rendering_257.js:1
+$z @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+_.z @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_rendering_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+_.h.Ua @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ pubads_impl_257.js:1
+(anonymous) @ ads?gdfp_req=1&pvsid=3857138988800248&correlator=2598712413290564&output=json_html&callback=googletag.impl.pubads.callbackProxy1&impl=fifs&adsid=NT&pucrd=CgYgASgBOAF4Aw&jar=2018-10-03-20&json_a=1&eid=370204048&vrg=257&guci=2.2.0.0.2.2.0&sc=1&sfv=1-0-29&iu_parts=7336%2Caw-gamespot%2Cvideos&enc_prev_ius=%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2%2C%2F0%2F1%2F2&prev_iu_szs=5x5%2C970x66|728x90%2C300x250%2C1600x1000%2C1x1%2C320x50|11x11%2C300x250%2C728x90|970x66&fluid=0%2C0%2C0%2C0%2C0%2Cheight%2C0%2C0&ists=8&prev_scp=pos%3Dnav|pos%3Dtop|pos%3Dtop|pos%3Dtop||pos%3Dtop%26strnativekey%3DbmCXkuXzZRAtbMVC7uqsDF2D|pos%3Dbottom|pos%3Dbottom&eri=1&cust_params=session%3Do%26ptype%3Dvideo_show_episode%26cid%3Dgs-2300-6443547%26game%3Dplayerunknowns-battlegrounds%2Cdestiny-2%2Cdonkey-kong-64%26rating%3DESRB%3A%20T%2CPEGI%3A%2016%2B%2CCERO%3A%20D%2CACB%3A%20MA%26genre%3Daction%2Cfirst-person%2Cshooter%2Ctactical%26con%3Dpc%2Cxbox-one%2Cios-iphoneipad%2Candroid%26franchise%3Ddonkey-kong%26show%3Dgamespot-daily%26rdate%3Dbp52%26publisher%3Dbluehole-inc%2Cmicrosoft-game-studios%2Ctencent%26category%3Dgames%26embed%3Dautoplay%26env%3Ddev%26user%3Dnamed%26vguid%3D3df13c0e-03ac-4377-9e02-15ece1ed8241%26st%3D1%26firstpg%3D0&cookie=ID%3D8162b4bfcff3d601%3AT%3D1534278910%3AS%3DALNI_MbiIrQhluy0QCjbYgdB8NDrTc6SyA&bc=7&abxe=1&lmt=1538600012&dt=1538600012955&dlt=1538600009311&idt=2446&frm=20&biw=1427&bih=940&oid=3&adxs=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&adys=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0&adks=948964359%2C1887900510%2C3449614741%2C1312226192%2C855968400%2C3823962631%2C3772295718%2C3516691266&gut=v2&ifi=1&u_tz=-420&u_his=1&u_h=2560&u_w=1440&u_ah=2537&u_aw=1440&u_cd=24&u_nplug=3&u_nmime=4&u_sd=1&flash=0&url=https%3A%2F%2Fdev.gamespot.com%2Fvideos%2Fpubgs-new-update-shakes-up-the-desert-map-and-blue%2F2300-6443547%2F%3Fdebug_video_player%3D1&dssz=203&icsg=4503599627370495&std=0&vis=1&dmc=8&scr_x=0&scr_y=0&psz=0x0|0x-1|0x-1|0x-1|0x0|0x-1|0x-1|0x0&msz=0x0|0x-1|0x-1|0x-1|0x0|0x-1|0x-1|0x0&ga_vid=810472379.1535405316&ga_sid=1538599345&ga_hid=426942635&ga_fc=true&ga_cid=amp-dANTWD2FUbqB-KEGdagODA&fws=4%2C4%2C4%2C4%2C4%2C4%2C4%2C4:1
+all_debugLogger_6.js:262 [VP] [API-UVPJS] Video Control Interface (VCI) ready
+all_debugLogger_6.js:262 [VP] [object Object]
+all_debugLogger_6.js:262 [VP] [API-UVPJS] Init VCI event listeners
+all_debugLogger_6.js:262 [VP] ========== LOAD PREFERENCES ==========
+all_debugLogger_6.js:262 [VP] [API-UVPJS] unMute() NORMAL
+all_debugLogger_6.js:262 [VP] [API-UVPJS] controlUnmute eventData:  {"type":"controlUnmute","payload":{},"target":"js-vid-player-uvpjs212137422"}
+all_debugLogger_6.js:262 [VP] [VOLUME] setVolume to 
+all_debugLogger_6.js:262 [VP] [API-UVPJS] unMute() NORMAL
+all_debugLogger_6.js:262 [VP] [API-UVPJS] controlUnmute eventData:  {"type":"controlUnmute","payload":{},"target":"js-vid-player-uvpjs212137422"}
+all_debugLogger_6.js:262 [VP] [VOLUME] setVolume to 
+all_debugLogger_6.js:262 [VP] [VOLUME] unMute
+all_debugLogger_6.js:262 [VP] [CONTROL] New Value Control for [uvpjs]:  init [button.av-ctrl.av-menu-ctrl.js-vid-playback.js-event-tracking, prevObject: init(1), context: div.js-video-player-new.av-video-player.av-desktop-player.av-video-on-demand.is-vid-loading.is-vid-n…, selector: ".js-vid-playback.filter(function () {↵            …asControlValue($this, controlValue)));↵        })"]
+all_debugLogger_6.js:262 [VP] [CONTROL] setPlayback to:  uvpjs
+all_debugLogger_6.js:262 [VP] [CONTROL] hideControls:  init [prevObject: init(4), context: div.js-video-player-new.av-video-player.av-desktop-player.av-video-on-demand.is-vid-loading.is-vid-n…, selector: ".js-vid-quality.not([object Object])"]
+all_debugLogger_6.js:262 [VP] [CONTROL] > available qualities for playback:  (4) ["adaptive_stream", "adaptive_hd", "adaptive_high", "adaptive_low"]
+all_debugLogger_6.js:262 [VP] [CONTROL] > current activeQuality:  undefined
+all_debugLogger_6.js:262 [VP] [CONTROL] > activeQuality not found for playback
+all_debugLogger_6.js:262 [VP] [CONTROL] > set activeQuality to:  adaptive_stream
+all_debugLogger_6.js:262 [VP] [CONTROL] New Value Control for [adaptive_stream]:  init [button.av-ctrl.av-menu-ctrl.js-vid-quality.js-event-tracking.js-vid-m3u8.js-vid-m3u8-wrapped.js-vid-…, prevObject: init(4), context: div.js-video-player-new.av-video-player.av-desktop-player.av-video-on-demand.is-vid-loading.is-vid-n…, selector: ".js-vid-quality.filter(function () {↵            v…asControlValue($this, controlValue)));↵        })"]
+all_debugLogger_6.js:262 [VP] [CONTROL] setQuality newValue: adaptive_stream
+all_debugLogger_6.js:262 [VP] [MANAGER] Set ApiInterface to uvpjs
+all_debugLogger_6.js:262 [VP] [PREFS] Defaults for playerId [212137422]:  {mute: false, volume: 1, playback: "uvpjs", quality: "adaptive_stream", stickied: false, …}
+all_debugLogger_6.js:262 [VP] [API-UVPJS] checkCanAutoplay normal
+all_debugLogger_6.js:262 [VP] [API-UVPJS] checkCanAutoplay: normal | true
+all_debugLogger_6.js:262 [VP] ========== VIDEO PLAYER INITIALIZED [212137422] ==========
+all_debugLogger_6.js:262 [VP] >>>>>>>>>> [INIT] VIDEO PLAYER INITIALIZED at time : 1538600014567
+all_Phoenix_3.js:221 nr:addToTrace [{…}]
+all_Phoenix_3.js:224 nr:setCustomAttribute (2) ["nr_adLoad:native-top", 7.88]
+all_Phoenix_3.js:227 nr:addPageAction (2) ["nr_adLoad", {…}]
+all_debugLogger_6.js:262 [VP] [UI] Player.js autoplay type allowed:normal
+all_debugLogger_6.js:262 [VP] [API-UVPJS] checkCanAutoplay normal
+all_debugLogger_6.js:262 [VP] [API-UVPJS] checkCanAutoplay: normal | true
+all_debugLogger_6.js:262 [VP] [AGE GATE] Checking...
+all_debugLogger_6.js:262 [VP] [AGE GATE] no gate
+all_debugLogger_6.js:262 [VP] [AGE GATE] User is old enough
+all_debugLogger_6.js:262 [VP] [INIT] video has not played > log view
+all_debugLogger_6.js:262 [VP] [INIT] Disable Tracking?  false
+all_debugLogger_6.js:262 [VP] [UI] video is not playing > play
+all_debugLogger_6.js:262 [VP] [API-UVPJS] load resource and play video
+all_debugLogger_6.js:262 [VP] [API-UVPJS] loadOrWatch <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+all_debugLogger_6.js:262 [VP] [API-UVPJS] onPreviewButton: normal
+all_debugLogger_6.js:262 [VP] [API-UVPJS] onPreviewButton: LOAD AND PLAY
+all_Phoenix_3.js:221 nr:addToTrace [{…}]
+all_Phoenix_3.js:224 nr:setCustomAttribute (2) ["nr_adLoad:leader_top", 8.015]
+all_Phoenix_3.js:227 nr:addPageAction (2) ["nr_adLoad", {…}]
+all_debugLogger_6.js:262 [VP] [API-UVPJS] Load new resource(s) and play
+all_debugLogger_6.js:262 [VP] [API-UVPJS] getReourcesWithAdCall()
+all_debugLogger_6.js:262 [VP] [API-UVPJS] getReourcesWithAdCall() soundBasedSize: 640x480
+all_debugLogger_6.js:262 [VP] [MANAGER] getVideoUrl for [adaptive_stream] from videoStreams:  {"adaptive_stream":"https://gamespot-vh.akamaihd.net/i/d5/2018/04/12/trim_gamespot_daily_episode4_,700,1000,1800,2500,3200,4000,.mp4.csmil/master.m3u8","adaptive_hd":"https://gamespot-vh.akamaihd.net/i/d5/2018/04/12/trim_gamespot_daily_episode4_,4000,.mp4.csmil/master.m3u8","adaptive_high":"https://gamespot-vh.akamaihd.net/i/d5/2018/04/12/trim_gamespot_daily_episode4_,2500,.mp4.csmil/master.m3u8","adaptive_low":"https://gamespot-vh.akamaihd.net/i/d5/2018/04/12/trim_gamespot_daily_episode4_,700,.mp4.csmil/master.m3u8"}
+all_debugLogger_6.js:262 [VP] [API-UVPJS] RCO for video:  {assetURL: "https://gamespot-vh.akamaihd.net/i/d5/2018/04/12/t…0,1000,1800,2500,3200,4000,.mp4.csmil/master.m3u8", cmsRefGuid: "gs-2300-6443547", duration: 1655, mediaId: 6443547, isLive: false, …}
+all_debugLogger_6.js:262 [VP]  [API-UVPJS] AD BLOCKER - DAI RCO is being created
+push @ all_debugLogger_6.js:262
+App.log @ all_debugLogger_6.js:80
+getResourcesWithAdCall @ all_uvpjs_9.js:794
+(anonymous) @ all_uvpjs_9.js:854
+setTimeout (async)
+loadAndPlay @ all_uvpjs_9.js:850
+(anonymous) @ all_uvpjs_9.js:935
+onPreviewButton @ all_part_2.js:8
+loadOrWatch @ all_uvpjs_9.js:887
+play @ all_uvpjs_9.js:1154
+play @ all_apiInterfaceManager_25.js:89
+(anonymous) @ all_apiInterfaceManager_25.js:464
+triggerEvents @ all_part_1.js:1919
+triggerApi @ all_part_1.js:1906
+eventsApi @ all_part_1.js:1704
+Events.trigger @ all_part_1.js:1895
+play @ all_player_30.js:641
+triggerPlay @ all_player_30.js:664
+autoplay @ all_player_30.js:688
+(anonymous) @ all_player_30.js:453
+setTimeout (async)
+(anonymous) @ all_player_30.js:452
+triggerEvents @ all_part_1.js:1917
+triggerApi @ all_part_1.js:1905
+eventsApi @ all_part_1.js:1704
+Events.trigger @ all_part_1.js:1895
+PlayerApiInterfaceManagerReadyHandler @ all_init_33.js:1098
+(anonymous) @ all_part_1.js:1877
+(anonymous) @ all_part_1.js:890
+triggerEvents @ all_part_1.js:1917
+triggerApi @ all_part_1.js:1905
+eventsApi @ all_part_1.js:1704
+Events.trigger @ all_part_1.js:1895
+(anonymous) @ all_uvpjs_9.js:163
+onVCIReady @ all_part_2.js:8
+onDOMReady @ all_part_2.js:8
+_setupDOM @ all_part_2.js:8
+initialize @ all_part_2.js:8
+handleCviMgrReady @ all_part_2.js:8
+finishInit @ all_part_2.js:8
+createPlugins @ all_part_2.js:8
+initialize @ all_part_2.js:8
+setTimeout (async)
+init @ all_part_2.js:8
+d @ all_part_2.js:8
+initialize @ all_part_2.js:8
+createMultipleVideoPlayers @ all_part_2.js:8
+createVideoPlayer @ all_part_2.js:8
+createCbsiVideoPlayer @ all_uvpjs_9.js:151
+(anonymous) @ all_uvpjs_9.js:295
+onAutoplayCheckComplete @ all_part_2.js:8
+(anonymous) @ all_part_2.js:8
+setTimeout (async)
+finishCheck @ all_part_2.js:8
+Promise.then (async)
+checkUnmutedAutoplay @ all_part_2.js:8
+detectCapabilities @ all_part_2.js:8
+init @ all_part_2.js:8
+d @ all_part_2.js:8
+determineAutoplayCapabilities @ all_part_2.js:8
+checkAutoplay @ all_part_2.js:8
+onSdkLoadManagerReady @ all_part_2.js:8
+handleAllLoadResults @ all_part_2.js:8
+d @ all_part_2.js:8
+_onScriptLoaded @ all_part_2.js:8
+d @ all_part_2.js:8
+e.onreadystatechange.e.onload @ all_part_2.js:8
+load (async)
+_getScript @ all_part_2.js:8
+loadScript @ all_part_2.js:8
+(anonymous) @ all_part_2.js:8
+d @ all_part_2.js:8
+_onScriptLoaded @ all_part_2.js:8
+d @ all_part_2.js:8
+e.onreadystatechange.e.onload @ all_part_2.js:8
+load (async)
+_getScript @ all_part_2.js:8
+loadScript @ all_part_2.js:8
+(anonymous) @ all_part_2.js:8
+d @ all_part_2.js:8
+_onScriptLoaded @ all_part_2.js:8
+d @ all_part_2.js:8
+e.onreadystatechange.e.onload @ all_part_2.js:8
+load (async)
+_getScript @ all_part_2.js:8
+loadScript @ all_part_2.js:8
+(anonymous) @ all_part_2.js:8
+d @ all_part_2.js:8
+_onScriptLoaded @ all_part_2.js:8
+d @ all_part_2.js:8
+e.onreadystatechange.e.onload @ all_part_2.js:8
+load (async)
+_getScript @ all_part_2.js:8
+loadScript @ all_part_2.js:8
+(anonymous) @ all_part_2.js:8
+bulkLoad @ all_part_2.js:8
+init @ all_part_2.js:8
+d @ all_part_2.js:8
+onCongfigMgrReady @ all_part_2.js:8
+loadConfig @ all_part_2.js:8
+loadConfig @ all_part_2.js:8
+init @ all_part_2.js:8
+d @ all_part_2.js:8
+a.ConfigManager.getInstance @ all_part_2.js:8
+initialize @ all_part_2.js:8
+initApi @ all_uvpjs_9.js:261
+initialize @ all_uvpjs_9.js:1083
+Backbone.View @ all_part_1.js:2741
+child @ all_part_1.js:3401
+child @ all_part_1.js:3401
+(anonymous) @ all_apiInterfaceManager_25.js:302
+each @ jquery.js:605
+initializePlayerApis @ all_apiInterfaceManager_25.js:285
+initialize @ all_apiInterfaceManager_25.js:452
+Backbone.View @ all_part_1.js:2741
+child @ all_part_1.js:3401
+initApiInterfaceManager @ all_init_33.js:282
+initAllComponents @ all_init_33.js:246
+initPlayer @ all_init_33.js:742
+(anonymous) @ all_init_33.js:1084
+each @ jquery.js:611
+each @ jquery.js:241
+initPlayers @ all_init_33.js:1071
+initOnReady @ all_init_33.js:1127
+trackingInitializedHandler @ all_init_33.js:1133
+(anonymous) @ all_init_33.js:1164
+fn @ jquery.js:3529
+dispatch @ jquery.js:3058
+eventHandle @ jquery.js:2676
+trigger @ jquery.js:2941
+(anonymous) @ jquery.js:3599
+each @ jquery.js:611
+each @ jquery.js:241
+trigger @ jquery.js:3598
+initTracking @ tracking_tracking_8.js:1006
+(anonymous) @ tracking_tracking_8.js:1098
+thirdPartyCallback @ ?debug_video_player=1:56
+(anonymous) @ tracking_tracking_8.js:1097
+supplyBundleData @ all_postRender_63.js:238
+(anonymous) @ all_postRender_63.js:196
+_broadcastResult @ all_postRender_63.js:192
+(anonymous) @ all_postRender_63.js:177
+success @ all_AjaxApiRequest_61.js:274
+fire @ jquery.js:974
+fireWith @ jquery.js:1084
+done @ jquery.js:7803
+callback @ jquery.js:8518
+XMLHttpRequest.send (async)
+send @ jquery.js:8434
+ajax @ jquery.js:7986
+makeRequest @ all_AjaxApiRequest_61.js:259
+makePostApiRequest @ all_AjaxApiRequest_61.js:82
+executePostRender @ all_postRender_63.js:156
+(anonymous) @ all_postRender_63.js:211
+fire @ jquery.js:974
+fireWith @ jquery.js:1084
+ready @ jquery.js:406
+DOMContentLoaded @ jquery.js:83
+all_debugLogger_6.js:262 [VP] [API-UVPJS] getResoucesWithAdCall:  {"assetURL":"https://dai.google.com/ondemand/hls/content/2459129/vid/6443547/master.m3u8","cmsRefGuid":"gs-2300-6443547","duration":1655,"mediaId":6443547,"isLive":false,"type":"rp_dai","videoTitle":"PUBG's New Update Shakes Up The Desert Map And Blue Zone  - GameSpot Daily","useSsb":true,"adTagParameters":{"iu":"/8264/vaw-gamespot/desktop/gamespot.com/dai","cust_params":"session%3Do%26ptype%3Dvideo_show_episode%26cid%3Dgs-2300-6443547%26game%3Dplayerunknowns-battlegrounds%2Cdestiny-2%2Cdonkey-kong-64%26genre%3Daction%2Cfirst-person%2Cshooter%2Ctactical%26con%3Dpc%2Cxbox-one%2Cios-iphoneipad%2Candroid%26franchise%3Ddonkey-kong%26show%3Dgamespot-daily%26publisher%3Dbluehole-inc%2Cmicrosoft-game-studios%2Ctencent%26category%3Dgames%26embed%3Dautoplay%26partner%3Ddesktop/gamespot.com%26vid%3D6443547%26vguid%3D3df13c0e-03ac-4377-9e02-15ece1ed8241","sz":"640x480"}}
+all_debugLogger_6.js:262 [VP] [API-UVPJS] onContentDataLoaded eventData:  {"type":"onContentDataLoaded","payload":{"vidState":{"abrInfo":[],"assetURL":"https://dai.google.com/ondemand/hls/content/2459129/vid/6443547/master.m3u8?iu=/8264/vaw-gamespot/desktop/gamespot.com/dai&cust_params=session%3Do%26ptype%3Dvideo_show_episode%26cid%3Dgs-2300-6443547%26game%3Dplayerunknowns-battlegrounds%2Cdestiny-2%2Cdonkey-kong-64%26genre%3Daction%2Cfirst-person%2Cshooter%2Ctactical%26con%3Dpc%2Cxbox-one%2Cios-iphoneipad%2Candroid%26franchise%3Ddonkey-kong%26show%3Dgamespot-daily%26publisher%3Dbluehole-inc%2Cmicrosoft-game-studios%2Ctencent%26category%3Dgames%26embed%3Dautoplay%26partner%3Ddesktop/gamespot.com%26vid%3D6443547%26vguid%3D3df13c0e-03ac-4377-9e02-15ece1ed8241&sz=640x480","audioPreviewImageUrl":"","category":"","cdn":"","chapterStartTimes":[],"closedCaptionDivName":"","closedCaptionPath":"","closedCaptionType":"","cms":"pi","cmsRefGuid":"gs-2300-6443547","contentType":"","contextMetadata":null,"contPlayState":"","copyright":"","defaultBitrate":0,"deliveryType":"progressive","dfpMediaId":null,"duration":1655,"endTime":-1,"episodeAbstract":"","episodeFlag":false,"episodeNumber":"","episodeTitle":"","excludeNielsenTracking":false,"fileType":"","isAffiliateFeed":false,"isEmbedable":false,"isGeoRestricted":false,"isLive":false,"isPaidContent":false,"isResumed":false,"isFlash":false,"keywords":"","mediaId":6443547,"overrideAssetURL":null,"pid":"","restrictionCheckResult":"","liveSyncDurationCount":3,"sendResumeEvent":false,"elapsedTime":0,"showPreroll":true,"playedChapterTime":0,"previousSessionId":"","podsToSkip":"","resumePid":"","resumeContentTime":0,"resumeEpochTime":0,"resumeSessionId":"","seasonNumber":"","seriesTitle":"","sourceHeight":0,"sourceOwner":"","sourceWidth":0,"startTime":0,"useWatermark":false,"videoTitle":"PUBG's New Update Shakes Up The Desert Map And Blue Zone  - GameSpot Daily","is360":false,"drm":{"enabled":false,"sessionId":null,"ticket":null,"fairplay":{"appCertURL":null},"dash":{"widevineURL":null,"playreadyURL":null}}}},"target":"js-vid-player-uvpjs212137422"}
+all_debugLogger_6.js:262 [VP] [API-UVPJS] onResourceStart eventData:  {"type":"onResourceStart","payload":{"rco":{"assetURL":"https://dai.google.com/ondemand/hls/content/2459129/vid/6443547/master.m3u8","cmsRefGuid":"gs-2300-6443547","duration":1655,"mediaId":6443547,"isLive":false,"type":"rp_dai","videoTitle":"PUBG's New Update Shakes Up The Desert Map And Blue Zone  - GameSpot Daily","useSsb":true,"adTagParameters":{"iu":"/8264/vaw-gamespot/desktop/gamespot.com/dai","cust_params":"session%3Do%26ptype%3Dvideo_show_episode%26cid%3Dgs-2300-6443547%26game%3Dplayerunknowns-battlegrounds%2Cdestiny-2%2Cdonkey-kong-64%26genre%3Daction%2Cfirst-person%2Cshooter%2Ctactical%26con%3Dpc%2Cxbox-one%2Cios-iphoneipad%2Candroid%26franchise%3Ddonkey-kong%26show%3Dgamespot-daily%26publisher%3Dbluehole-inc%2Cmicrosoft-game-studios%2Ctencent%26category%3Dgames%26embed%3Dautoplay%26partner%3Ddesktop/gamespot.com%26vid%3D6443547%26vguid%3D3df13c0e-03ac-4377-9e02-15ece1ed8241","sz":"640x480"}}},"target":"js-vid-player-uvpjs212137422"}
+all_Phoenix_3.js:221 nr:addToTrace [{…}]
+all_Phoenix_3.js:224 nr:setCustomAttribute (2) ["nr_adLoad:mpu_top", 8.098]
+all_Phoenix_3.js:227 nr:addPageAction (2) ["nr_adLoad", {…}]
+all_Phoenix_3.js:221 nr:addToTrace [{…}]
+all_Phoenix_3.js:224 nr:setCustomAttribute (2) ["nr_adLoad:leader_bottom", 8.115]
+all_Phoenix_3.js:227 nr:addPageAction (2) ["nr_adLoad", {…}]
+all_Phoenix_3.js:221 nr:addToTrace [{…}]
+all_Phoenix_3.js:224 nr:setCustomAttribute (2) ["nr_adLoad:mpu_bottom", 8.2]
+all_Phoenix_3.js:227 nr:addPageAction (2) ["nr_adLoad", {…}]
+all_debugLogger_6.js:262 [VP] [INIT] View logged successfully
+all_part_2.js:8 
+a.loadInternal @ all_part_2.js:8
+a.load @ all_part_2.js:8
+b.onFragLoading @ all_part_2.js:8
+a.onEventGeneric @ all_part_2.js:8
+a.onEvent @ all_part_2.js:8
+c.emit @ all_part_2.js:8
+f.trigger @ all_part_2.js:8
+b._loadFragmentOrKey @ all_part_2.js:8
+b._fetchPayloadOrEos @ all_part_2.js:8
+b._doTickIdle @ all_part_2.js:8
+b.doTick @ all_part_2.js:8
+b.tick @ all_part_2.js:8
+b.onLevelLoaded @ all_part_2.js:8
+a.onEventGeneric @ all_part_2.js:8
+a.onEvent @ all_part_2.js:8
+c.emit @ all_part_2.js:8
+f.trigger @ all_part_2.js:8
+b.loadsuccess @ all_part_2.js:8
+a.readystatechange @ all_part_2.js:8
+XMLHttpRequest.send (async)
+a.loadInternal @ all_part_2.js:8
+a.load @ all_part_2.js:8
+b.load @ all_part_2.js:8
+b.onLevelLoading @ all_part_2.js:8
+a.onEventGeneric @ all_part_2.js:8
+a.onEvent @ all_part_2.js:8
+c.emit @ all_part_2.js:8
+f.trigger @ all_part_2.js:8
+b.setLevelInternal @ all_part_2.js:8
+set @ all_part_2.js:8
+set @ all_part_2.js:8
+set @ all_part_2.js:8
+b.startLoad @ all_part_2.js:8
+(anonymous) @ all_part_2.js:8
+a.startLoad @ all_part_2.js:8
+onLibraryEvent @ all_part_2.js:8
+c.emit @ all_part_2.js:8
+f.trigger @ all_part_2.js:8
+b.loadsuccess @ all_part_2.js:8
+a.readystatechange @ all_part_2.js:8
+XMLHttpRequest.send (async)
+a.loadInternal @ all_part_2.js:8
+a.load @ all_part_2.js:8
+b.load @ all_part_2.js:8
+b.onManifestLoading @ all_part_2.js:8
+a.onEventGeneric @ all_part_2.js:8
+a.onEvent @ all_part_2.js:8
+c.emit @ all_part_2.js:8
+f.trigger @ all_part_2.js:8
+a.loadSource @ all_part_2.js:8
+initialize @ all_part_2.js:8
+(anonymous) @ all_part_2.js:8
+createFacade @ all_part_2.js:8
+createContentFacade @ all_part_2.js:8
+loadVideoAndBeginPlayback @ all_part_2.js:8
+(anonymous) @ all_part_2.js:8
+rpDataLoadCB @ all_part_2.js:8
+loadData @ all_part_2.js:8
+_loadNextRP @ all_part_2.js:8
+onResourceAddRequest @ all_part_2.js:8
+dispatchEvent @ all_part_2.js:8
+addResourcesToPlaylist @ all_part_2.js:8
+(anonymous) @ all_uvpjs_9.js:854
+setTimeout (async)
+loadAndPlay @ all_uvpjs_9.js:850
+(anonymous) @ all_uvpjs_9.js:935
+onPreviewButton @ all_part_2.js:8
+loadOrWatch @ all_uvpjs_9.js:887
+play @ all_uvpjs_9.js:1154
+play @ all_apiInterfaceManager_25.js:89
+(anonymous) @ all_apiInterfaceManager_25.js:464
+triggerEvents @ all_part_1.js:1919
+triggerApi @ all_part_1.js:1906
+eventsApi @ all_part_1.js:1704
+Events.trigger @ all_part_1.js:1895
+play @ all_player_30.js:641
+triggerPlay @ all_player_30.js:664
+autoplay @ all_player_30.js:688
+(anonymous) @ all_player_30.js:453
+setTimeout (async)
+(anonymous) @ all_player_30.js:452
+triggerEvents @ all_part_1.js:1917
+triggerApi @ all_part_1.js:1905
+eventsApi @ all_part_1.js:1704
+Events.trigger @ all_part_1.js:1895
+PlayerApiInterfaceManagerReadyHandler @ all_init_33.js:1098
+(anonymous) @ all_part_1.js:1877
+(anonymous) @ all_part_1.js:890
+triggerEvents @ all_part_1.js:1917
+triggerApi @ all_part_1.js:1905
+eventsApi @ all_part_1.js:1704
+Events.trigger @ all_part_1.js:1895
+(anonymous) @ all_uvpjs_9.js:163
+onVCIReady @ all_part_2.js:8
+onDOMReady @ all_part_2.js:8
+_setupDOM @ all_part_2.js:8
+initialize @ all_part_2.js:8
+handleCviMgrReady @ all_part_2.js:8
+finishInit @ all_part_2.js:8
+createPlugins @ all_part_2.js:8
+initialize @ all_part_2.js:8
+setTimeout (async)
+init @ all_part_2.js:8
+d @ all_part_2.js:8
+initialize @ all_part_2.js:8
+createMultipleVideoPlayers @ all_part_2.js:8
+createVideoPlayer @ all_part_2.js:8
+createCbsiVideoPlayer @ all_uvpjs_9.js:151
+(anonymous) @ all_uvpjs_9.js:295
+onAutoplayCheckComplete @ all_part_2.js:8
+(anonymous) @ all_part_2.js:8
+setTimeout (async)
+finishCheck @ all_part_2.js:8
+Promise.then (async)
+checkUnmutedAutoplay @ all_part_2.js:8
+detectCapabilities @ all_part_2.js:8
+init @ all_part_2.js:8
+d @ all_part_2.js:8
+determineAutoplayCapabilities @ all_part_2.js:8
+checkAutoplay @ all_part_2.js:8
+onSdkLoadManagerReady @ all_part_2.js:8
+handleAllLoadResults @ all_part_2.js:8
+d @ all_part_2.js:8
+_onScriptLoaded @ all_part_2.js:8
+d @ all_part_2.js:8
+e.onreadystatechange.e.onload @ all_part_2.js:8
+load (async)
+_getScript @ all_part_2.js:8
+loadScript @ all_part_2.js:8
+(anonymous) @ all_part_2.js:8
+d @ all_part_2.js:8
+_onScriptLoaded @ all_part_2.js:8
+d @ all_part_2.js:8
+e.onreadystatechange.e.onload @ all_part_2.js:8
+load (async)
+_getScript @ all_part_2.js:8
+loadScript @ all_part_2.js:8
+(anonymous) @ all_part_2.js:8
+d @ all_part_2.js:8
+_onScriptLoaded @ all_part_2.js:8
+d @ all_part_2.js:8
+e.onreadystatechange.e.onload @ all_part_2.js:8
+load (async)
+_getScript @ all_part_2.js:8
+loadScript @ all_part_2.js:8
+(anonymous) @ all_part_2.js:8
+d @ all_part_2.js:8
+_onScriptLoaded @ all_part_2.js:8
+d @ all_part_2.js:8
+e.onreadystatechange.e.onload @ all_part_2.js:8
+load (async)
+_getScript @ all_part_2.js:8
+loadScript @ all_part_2.js:8
+(anonymous) @ all_part_2.js:8
+bulkLoad @ all_part_2.js:8
+init @ all_part_2.js:8
+d @ all_part_2.js:8
+onCongfigMgrReady @ all_part_2.js:8
+loadConfig @ all_part_2.js:8
+loadConfig @ all_part_2.js:8
+init @ all_part_2.js:8
+d @ all_part_2.js:8
+a.ConfigManager.getInstance @ all_part_2.js:8
+initialize @ all_part_2.js:8
+initApi @ all_uvpjs_9.js:261
+initialize @ all_uvpjs_9.js:1083
+Backbone.View @ all_part_1.js:2741
+child @ all_part_1.js:3401
+child @ all_part_1.js:3401
+(anonymous) @ all_apiInterfaceManager_25.js:302
+each @ jquery.js:605
+initializePlayerApis @ all_apiInterfaceManager_25.js:285
+initialize @ all_apiInterfaceManager_25.js:452
+Backbone.View @ all_part_1.js:2741
+child @ all_part_1.js:3401
+initApiInterfaceManager @ all_init_33.js:282
+initAllComponents @ all_init_33.js:246
+initPlayer @ all_init_33.js:742
+(anonymous) @ all_init_33.js:1084
+each @ jquery.js:611
+each @ jquery.js:241
+initPlayers @ all_init_33.js:1071
+initOnReady @ all_init_33.js:1127
+trackingInitializedHandler @ all_init_33.js:1133
+(anonymous) @ all_init_33.js:1164
+fn @ jquery.js:3529
+dispatch @ jquery.js:3058
+eventHandle @ jquery.js:2676
+trigger @ jquery.js:2941
+(anonymous) @ jquery.js:3599
+each @ jquery.js:611
+each @ jquery.js:241
+trigger @ jquery.js:3598
+initTracking @ tracking_tracking_8.js:1006
+(anonymous) @ tracking_tracking_8.js:1098
+thirdPartyCallback @ ?debug_video_player=1:56
+(anonymous) @ tracking_tracking_8.js:1097
+supplyBundleData @ all_postRender_63.js:238
+(anonymous) @ all_postRender_63.js:196
+_broadcastResult @ all_postRender_63.js:192
+(anonymous) @ all_postRender_63.js:177
+success @ all_AjaxApiRequest_61.js:274
+fire @ jquery.js:974
+fireWith @ jquery.js:1084
+done @ jquery.js:7803
+callback @ jquery.js:8518
+XMLHttpRequest.send (async)
+send @ jquery.js:8434
+ajax @ jquery.js:7986
+makeRequest @ all_AjaxApiRequest_61.js:259
+makePostApiRequest @ all_AjaxApiRequest_61.js:82
+executePostRender @ all_postRender_63.js:156
+(anonymous) @ all_postRender_63.js:211
+fire @ jquery.js:974
+fireWith @ jquery.js:1084
+ready @ jquery.js:406
+DOMContentLoaded @ jquery.js:83
+all_debugLogger_6.js:262 [VP] [API-UVPJS] videoPlaybackError eventData:  {"type":"videoPlaybackError","payload":{"errorInfo":{"errorCode":3005,"eventType":"videoPlaybackError","isFatal":false,"imaErrorCode":null,"imaVastErrorCode":null,"message":"An HLSJS network error occurred: fragLoadError","adInfo":null,"serverCode":null,"hlsjsErrorCode":null}},"target":"js-vid-player-uvpjs212137422"}
+all_part_2.js:8 
+a.loadInternal @ all_part_2.js:8
+a.load @ all_part_2.js:8
+b.onFragLoading @ all_part_2.js:8
+a.onEventGeneric @ all_part_2.js:8
+a.onEvent @ all_part_2.js:8
+c.emit @ all_part_2.js:8
+f.trigger @ all_part_2.js:8
+b._loadFragmentOrKey @ all_part_2.js:8
+b._fetchPayloadOrEos @ all_part_2.js:8
+b._doTickIdle @ all_part_2.js:8
+b.doTick @ all_part_2.js:8
+b.tick @ all_part_2.js:8
+b.onLevelLoaded @ all_part_2.js:8
+a.onEventGeneric @ all_part_2.js:8
+a.onEvent @ all_part_2.js:8
+c.emit @ all_part_2.js:8
+f.trigger @ all_part_2.js:8
+b.loadsuccess @ all_part_2.js:8
+a.readystatechange @ all_part_2.js:8
+XMLHttpRequest.send (async)
+a.loadInternal @ all_part_2.js:8
+a.load @ all_part_2.js:8
+b.load @ all_part_2.js:8
+b.onLevelLoading @ all_part_2.js:8
+a.onEventGeneric @ all_part_2.js:8
+a.onEvent @ all_part_2.js:8
+c.emit @ all_part_2.js:8
+f.trigger @ all_part_2.js:8
+b.setLevelInternal @ all_part_2.js:8
+set @ all_part_2.js:8
+set @ all_part_2.js:8
+set @ all_part_2.js:8
+b._doTickIdle @ all_part_2.js:8
+b.doTick @ all_part_2.js:8
+b.tick @ all_part_2.js:8
+setInterval (async)
+b.startLoad @ all_part_2.js:8
+(anonymous) @ all_part_2.js:8
+a.startLoad @ all_part_2.js:8
+onLibraryEvent @ all_part_2.js:8
+c.emit @ all_part_2.js:8
+f.trigger @ all_part_2.js:8
+b.loadsuccess @ all_part_2.js:8
+a.readystatechange @ all_part_2.js:8
+XMLHttpRequest.send (async)
+a.loadInternal @ all_part_2.js:8
+a.load @ all_part_2.js:8
+b.load @ all_part_2.js:8
+b.onManifestLoading @ all_part_2.js:8
+a.onEventGeneric @ all_part_2.js:8
+a.onEvent @ all_part_2.js:8
+c.emit @ all_part_2.js:8
+f.trigger @ all_part_2.js:8
+a.loadSource @ all_part_2.js:8
+initialize @ all_part_2.js:8
+(anonymous) @ all_part_2.js:8
+createFacade @ all_part_2.js:8
+createContentFacade @ all_part_2.js:8
+loadVideoAndBeginPlayback @ all_part_2.js:8
+(anonymous) @ all_part_2.js:8
+rpDataLoadCB @ all_part_2.js:8
+loadData @ all_part_2.js:8
+_loadNextRP @ all_part_2.js:8
+onResourceAddRequest @ all_part_2.js:8
+dispatchEvent @ all_part_2.js:8
+addResourcesToPlaylist @ all_part_2.js:8
+(anonymous) @ all_uvpjs_9.js:854
+setTimeout (async)
+loadAndPlay @ all_uvpjs_9.js:850
+(anonymous) @ all_uvpjs_9.js:935
+onPreviewButton @ all_part_2.js:8
+loadOrWatch @ all_uvpjs_9.js:887
+play @ all_uvpjs_9.js:1154
+play @ all_apiInterfaceManager_25.js:89
+(anonymous) @ all_apiInterfaceManager_25.js:464
+triggerEvents @ all_part_1.js:1919
+triggerApi @ all_part_1.js:1906
+eventsApi @ all_part_1.js:1704
+Events.trigger @ all_part_1.js:1895
+play @ all_player_30.js:641
+triggerPlay @ all_player_30.js:664
+autoplay @ all_player_30.js:688
+(anonymous) @ all_player_30.js:453
+setTimeout (async)
+(anonymous) @ all_player_30.js:452
+triggerEvents @ all_part_1.js:1917
+triggerApi @ all_part_1.js:1905
+eventsApi @ all_part_1.js:1704
+Events.trigger @ all_part_1.js:1895
+PlayerApiInterfaceManagerReadyHandler @ all_init_33.js:1098
+(anonymous) @ all_part_1.js:1877
+(anonymous) @ all_part_1.js:890
+triggerEvents @ all_part_1.js:1917
+triggerApi @ all_part_1.js:1905
+eventsApi @ all_part_1.js:1704
+Events.trigger @ all_part_1.js:1895
+(anonymous) @ all_uvpjs_9.js:163
+onVCIReady @ all_part_2.js:8
+onDOMReady @ all_part_2.js:8
+_setupDOM @ all_part_2.js:8
+initialize @ all_part_2.js:8
+handleCviMgrReady @ all_part_2.js:8
+finishInit @ all_part_2.js:8
+createPlugins @ all_part_2.js:8
+initialize @ all_part_2.js:8
+setTimeout (async)
+init @ all_part_2.js:8
+d @ all_part_2.js:8
+initialize @ all_part_2.js:8
+createMultipleVideoPlayers @ all_part_2.js:8
+createVideoPlayer @ all_part_2.js:8
+createCbsiVideoPlayer @ all_uvpjs_9.js:151
+(anonymous) @ all_uvpjs_9.js:295
+onAutoplayCheckComplete @ all_part_2.js:8
+(anonymous) @ all_part_2.js:8
+setTimeout (async)
+finishCheck @ all_part_2.js:8
+Promise.then (async)
+checkUnmutedAutoplay @ all_part_2.js:8
+detectCapabilities @ all_part_2.js:8
+init @ all_part_2.js:8
+d @ all_part_2.js:8
+determineAutoplayCapabilities @ all_part_2.js:8
+checkAutoplay @ all_part_2.js:8
+onSdkLoadManagerReady @ all_part_2.js:8
+handleAllLoadResults @ all_part_2.js:8
+d @ all_part_2.js:8
+_onScriptLoaded @ all_part_2.js:8
+d @ all_part_2.js:8
+e.onreadystatechange.e.onload @ all_part_2.js:8
+load (async)
+_getScript @ all_part_2.js:8
+loadScript @ all_part_2.js:8
+(anonymous) @ all_part_2.js:8
+d @ all_part_2.js:8
+_onScriptLoaded @ all_part_2.js:8
+d @ all_part_2.js:8
+e.onreadystatechange.e.onload @ all_part_2.js:8
+load (async)
+_getScript @ all_part_2.js:8
+loadScript @ all_part_2.js:8
+(anonymous) @ all_part_2.js:8
+d @ all_part_2.js:8
+_onScriptLoaded @ all_part_2.js:8
+d @ all_part_2.js:8
+e.onreadystatechange.e.onload @ all_part_2.js:8
+load (async)
+_getScript @ all_part_2.js:8
+loadScript @ all_part_2.js:8
+(anonymous) @ all_part_2.js:8
+d @ all_part_2.js:8
+_onScriptLoaded @ all_part_2.js:8
+d @ all_part_2.js:8
+e.onreadystatechange.e.onload @ all_part_2.js:8
+load (async)
+_getScript @ all_part_2.js:8
+loadScript @ all_part_2.js:8
+(anonymous) @ all_part_2.js:8
+bulkLoad @ all_part_2.js:8
+init @ all_part_2.js:8
+d @ all_part_2.js:8
+onCongfigMgrReady @ all_part_2.js:8
+loadConfig @ all_part_2.js:8
+loadConfig @ all_part_2.js:8
+init @ all_part_2.js:8
+d @ all_part_2.js:8
+a.ConfigManager.getInstance @ all_part_2.js:8
+initialize @ all_part_2.js:8
+initApi @ all_uvpjs_9.js:261
+initialize @ all_uvpjs_9.js:1083
+Backbone.View @ all_part_1.js:2741
+child @ all_part_1.js:3401
+child @ all_part_1.js:3401
+(anonymous) @ all_apiInterfaceManager_25.js:302
+each @ jquery.js:605
+initializePlayerApis @ all_apiInterfaceManager_25.js:285
+initialize @ all_apiInterfaceManager_25.js:452
+Backbone.View @ all_part_1.js:2741
+child @ all_part_1.js:3401
+initApiInterfaceManager @ all_init_33.js:282
+initAllComponents @ all_init_33.js:246
+initPlayer @ all_init_33.js:742
+(anonymous) @ all_init_33.js:1084
+each @ jquery.js:611
+each @ jquery.js:241
+initPlayers @ all_init_33.js:1071
+initOnReady @ all_init_33.js:1127
+trackingInitializedHandler @ all_init_33.js:1133
+(anonymous) @ all_init_33.js:1164
+fn @ jquery.js:3529
+dispatch @ jquery.js:3058
+eventHandle @ jquery.js:2676
+trigger @ jquery.js:2941
+(anonymous) @ jquery.js:3599
+each @ jquery.js:611
+each @ jquery.js:241
+trigger @ jquery.js:3598
+initTracking @ tracking_tracking_8.js:1006
+(anonymous) @ tracking_tracking_8.js:1098
+thirdPartyCallback @ ?debug_video_player=1:56
+(anonymous) @ tracking_tracking_8.js:1097
+supplyBundleData @ all_postRender_63.js:238
+(anonymous) @ all_postRender_63.js:196
+_broadcastResult @ all_postRender_63.js:192
+(anonymous) @ all_postRender_63.js:177
+success @ all_AjaxApiRequest_61.js:274
+fire @ jquery.js:974
+fireWith @ jquery.js:1084
+done @ jquery.js:7803
+callback @ jquery.js:8518
+XMLHttpRequest.send (async)
+send @ jquery.js:8434
+ajax @ jquery.js:7986
+makeRequest @ all_AjaxApiRequest_61.js:259
+makePostApiRequest @ all_AjaxApiRequest_61.js:82
+executePostRender @ all_postRender_63.js:156
+(anonymous) @ all_postRender_63.js:211
+fire @ jquery.js:974
+fireWith @ jquery.js:1084
+ready @ jquery.js:406
+DOMContentLoaded @ jquery.js:83
+all_debugLogger_6.js:262 [VP] [API-UVPJS] videoPlaybackError eventData:  {"type":"videoPlaybackError","payload":{"errorInfo":{"errorCode":3005,"eventType":"videoPlaybackError","isFatal":false,"imaErrorCode":null,"imaVastErrorCode":null,"message":"An HLSJS network error occurred: fragLoadError","adInfo":null,"serverCode":null,"hlsjsErrorCode":null}},"target":"js-vid-player-uvpjs212137422"}
+all_part_2.js:8 
+a.loadInternal @ all_part_2.js:8
+a.load @ all_part_2.js:8
+b.onFragLoading @ all_part_2.js:8
+a.onEventGeneric @ all_part_2.js:8
+a.onEvent @ all_part_2.js:8
+c.emit @ all_part_2.js:8
+f.trigger @ all_part_2.js:8
+b._loadFragmentOrKey @ all_part_2.js:8
+b._fetchPayloadOrEos @ all_part_2.js:8
+b._doTickIdle @ all_part_2.js:8
+b.doTick @ all_part_2.js:8
+b.tick @ all_part_2.js:8
+b.onLevelLoaded @ all_part_2.js:8
+a.onEventGeneric @ all_part_2.js:8
+a.onEvent @ all_part_2.js:8
+c.emit @ all_part_2.js:8
+f.trigger @ all_part_2.js:8
+b.loadsuccess @ all_part_2.js:8
+a.readystatechange @ all_part_2.js:8
+XMLHttpRequest.send (async)
+a.loadInternal @ all_part_2.js:8
+a.load @ all_part_2.js:8
+b.load @ all_part_2.js:8
+b.onLevelLoading @ all_part_2.js:8
+a.onEventGeneric @ all_part_2.js:8
+a.onEvent @ all_part_2.js:8
+c.emit @ all_part_2.js:8
+f.trigger @ all_part_2.js:8
+b.setLevelInternal @ all_part_2.js:8
+set @ all_part_2.js:8
+set @ all_part_2.js:8
+set @ all_part_2.js:8
+b._doTickIdle @ all_part_2.js:8
+b.doTick @ all_part_2.js:8
+b.tick @ all_part_2.js:8
+setInterval (async)
+b.startLoad @ all_part_2.js:8
+(anonymous) @ all_part_2.js:8
+a.startLoad @ all_part_2.js:8
+onLibraryEvent @ all_part_2.js:8
+c.emit @ all_part_2.js:8
+f.trigger @ all_part_2.js:8
+b.loadsuccess @ all_part_2.js:8
+a.readystatechange @ all_part_2.js:8
+XMLHttpRequest.send (async)
+a.loadInternal @ all_part_2.js:8
+a.load @ all_part_2.js:8
+b.load @ all_part_2.js:8
+b.onManifestLoading @ all_part_2.js:8
+a.onEventGeneric @ all_part_2.js:8
+a.onEvent @ all_part_2.js:8
+c.emit @ all_part_2.js:8
+f.trigger @ all_part_2.js:8
+a.loadSource @ all_part_2.js:8
+initialize @ all_part_2.js:8
+(anonymous) @ all_part_2.js:8
+createFacade @ all_part_2.js:8
+createContentFacade @ all_part_2.js:8
+loadVideoAndBeginPlayback @ all_part_2.js:8
+(anonymous) @ all_part_2.js:8
+rpDataLoadCB @ all_part_2.js:8
+loadData @ all_part_2.js:8
+_loadNextRP @ all_part_2.js:8
+onResourceAddRequest @ all_part_2.js:8
+dispatchEvent @ all_part_2.js:8
+addResourcesToPlaylist @ all_part_2.js:8
+(anonymous) @ all_uvpjs_9.js:854
+setTimeout (async)
+loadAndPlay @ all_uvpjs_9.js:850
+(anonymous) @ all_uvpjs_9.js:935
+onPreviewButton @ all_part_2.js:8
+loadOrWatch @ all_uvpjs_9.js:887
+play @ all_uvpjs_9.js:1154
+play @ all_apiInterfaceManager_25.js:89
+(anonymous) @ all_apiInterfaceManager_25.js:464
+triggerEvents @ all_part_1.js:1919
+triggerApi @ all_part_1.js:1906
+eventsApi @ all_part_1.js:1704
+Events.trigger @ all_part_1.js:1895
+play @ all_player_30.js:641
+triggerPlay @ all_player_30.js:664
+autoplay @ all_player_30.js:688
+(anonymous) @ all_player_30.js:453
+setTimeout (async)
+(anonymous) @ all_player_30.js:452
+triggerEvents @ all_part_1.js:1917
+triggerApi @ all_part_1.js:1905
+eventsApi @ all_part_1.js:1704
+Events.trigger @ all_part_1.js:1895
+PlayerApiInterfaceManagerReadyHandler @ all_init_33.js:1098
+(anonymous) @ all_part_1.js:1877
+(anonymous) @ all_part_1.js:890
+triggerEvents @ all_part_1.js:1917
+triggerApi @ all_part_1.js:1905
+eventsApi @ all_part_1.js:1704
+Events.trigger @ all_part_1.js:1895
+(anonymous) @ all_uvpjs_9.js:163
+onVCIReady @ all_part_2.js:8
+onDOMReady @ all_part_2.js:8
+_setupDOM @ all_part_2.js:8
+initialize @ all_part_2.js:8
+handleCviMgrReady @ all_part_2.js:8
+finishInit @ all_part_2.js:8
+createPlugins @ all_part_2.js:8
+initialize @ all_part_2.js:8
+setTimeout (async)
+init @ all_part_2.js:8
+d @ all_part_2.js:8
+initialize @ all_part_2.js:8
+createMultipleVideoPlayers @ all_part_2.js:8
+createVideoPlayer @ all_part_2.js:8
+createCbsiVideoPlayer @ all_uvpjs_9.js:151
+(anonymous) @ all_uvpjs_9.js:295
+onAutoplayCheckComplete @ all_part_2.js:8
+(anonymous) @ all_part_2.js:8
+setTimeout (async)
+finishCheck @ all_part_2.js:8
+Promise.then (async)
+checkUnmutedAutoplay @ all_part_2.js:8
+detectCapabilities @ all_part_2.js:8
+init @ all_part_2.js:8
+d @ all_part_2.js:8
+determineAutoplayCapabilities @ all_part_2.js:8
+checkAutoplay @ all_part_2.js:8
+onSdkLoadManagerReady @ all_part_2.js:8
+handleAllLoadResults @ all_part_2.js:8
+d @ all_part_2.js:8
+_onScriptLoaded @ all_part_2.js:8
+d @ all_part_2.js:8
+e.onreadystatechange.e.onload @ all_part_2.js:8
+load (async)
+_getScript @ all_part_2.js:8
+loadScript @ all_part_2.js:8
+(anonymous) @ all_part_2.js:8
+d @ all_part_2.js:8
+_onScriptLoaded @ all_part_2.js:8
+d @ all_part_2.js:8
+e.onreadystatechange.e.onload @ all_part_2.js:8
+load (async)
+_getScript @ all_part_2.js:8
+loadScript @ all_part_2.js:8
+(anonymous) @ all_part_2.js:8
+d @ all_part_2.js:8
+_onScriptLoaded @ all_part_2.js:8
+d @ all_part_2.js:8
+e.onreadystatechange.e.onload @ all_part_2.js:8
+load (async)
+_getScript @ all_part_2.js:8
+loadScript @ all_part_2.js:8
+(anonymous) @ all_part_2.js:8
+d @ all_part_2.js:8
+_onScriptLoaded @ all_part_2.js:8
+d @ all_part_2.js:8
+e.onreadystatechange.e.onload @ all_part_2.js:8
+load (async)
+_getScript @ all_part_2.js:8
+loadScript @ all_part_2.js:8
+(anonymous) @ all_part_2.js:8
+bulkLoad @ all_part_2.js:8
+init @ all_part_2.js:8
+d @ all_part_2.js:8
+onCongfigMgrReady @ all_part_2.js:8
+loadConfig @ all_part_2.js:8
+loadConfig @ all_part_2.js:8
+init @ all_part_2.js:8
+d @ all_part_2.js:8
+a.ConfigManager.getInstance @ all_part_2.js:8
+initialize @ all_part_2.js:8
+initApi @ all_uvpjs_9.js:261
+initialize @ all_uvpjs_9.js:1083
+Backbone.View @ all_part_1.js:2741
+child @ all_part_1.js:3401
+child @ all_part_1.js:3401
+(anonymous) @ all_apiInterfaceManager_25.js:302
+each @ jquery.js:605
+initializePlayerApis @ all_apiInterfaceManager_25.js:285
+initialize @ all_apiInterfaceManager_25.js:452
+Backbone.View @ all_part_1.js:2741
+child @ all_part_1.js:3401
+initApiInterfaceManager @ all_init_33.js:282
+initAllComponents @ all_init_33.js:246
+initPlayer @ all_init_33.js:742
+(anonymous) @ all_init_33.js:1084
+each @ jquery.js:611
+each @ jquery.js:241
+initPlayers @ all_init_33.js:1071
+initOnReady @ all_init_33.js:1127
+trackingInitializedHandler @ all_init_33.js:1133
+(anonymous) @ all_init_33.js:1164
+fn @ jquery.js:3529
+dispatch @ jquery.js:3058
+eventHandle @ jquery.js:2676
+trigger @ jquery.js:2941
+(anonymous) @ jquery.js:3599
+each @ jquery.js:611
+each @ jquery.js:241
+trigger @ jquery.js:3598
+initTracking @ tracking_tracking_8.js:1006
+(anonymous) @ tracking_tracking_8.js:1098
+thirdPartyCallback @ ?debug_video_player=1:56
+(anonymous) @ tracking_tracking_8.js:1097
+supplyBundleData @ all_postRender_63.js:238
+(anonymous) @ all_postRender_63.js:196
+_broadcastResult @ all_postRender_63.js:192
+(anonymous) @ all_postRender_63.js:177
+success @ all_AjaxApiRequest_61.js:274
+fire @ jquery.js:974
+fireWith @ jquery.js:1084
+done @ jquery.js:7803
+callback @ jquery.js:8518
+XMLHttpRequest.send (async)
+send @ jquery.js:8434
+ajax @ jquery.js:7986
+makeRequest @ all_AjaxApiRequest_61.js:259
+makePostApiRequest @ all_AjaxApiRequest_61.js:82
+executePostRender @ all_postRender_63.js:156
+(anonymous) @ all_postRender_63.js:211
+fire @ jquery.js:974
+fireWith @ jquery.js:1084
+ready @ jquery.js:406
+DOMContentLoaded @ jquery.js:83
+all_debugLogger_6.js:262 [VP] [API-UVPJS] videoPlaybackError eventData:  {"type":"videoPlaybackError","payload":{"errorInfo":{"errorCode":3005,"eventType":"videoPlaybackError","isFatal":false,"imaErrorCode":null,"imaVastErrorCode":null,"message":"An HLSJS network error occurred: fragLoadError","adInfo":null,"serverCode":null,"hlsjsErrorCode":null}},"target":"js-vid-player-uvpjs212137422"}
+all_part_2.js:8 
+a.loadInternal @ all_part_2.js:8
+a.load @ all_part_2.js:8
+b.onFragLoading @ all_part_2.js:8
+a.onEventGeneric @ all_part_2.js:8
+a.onEvent @ all_part_2.js:8
+c.emit @ all_part_2.js:8
+f.trigger @ all_part_2.js:8
+b._loadFragmentOrKey @ all_part_2.js:8
+b._fetchPayloadOrEos @ all_part_2.js:8
+b._doTickIdle @ all_part_2.js:8
+b.doTick @ all_part_2.js:8
+b.tick @ all_part_2.js:8
+setInterval (async)
+b.startLoad @ all_part_2.js:8
+(anonymous) @ all_part_2.js:8
+a.startLoad @ all_part_2.js:8
+onLibraryEvent @ all_part_2.js:8
+c.emit @ all_part_2.js:8
+f.trigger @ all_part_2.js:8
+b.loadsuccess @ all_part_2.js:8
+a.readystatechange @ all_part_2.js:8
+XMLHttpRequest.send (async)
+a.loadInternal @ all_part_2.js:8
+a.load @ all_part_2.js:8
+b.load @ all_part_2.js:8
+b.onManifestLoading @ all_part_2.js:8
+a.onEventGeneric @ all_part_2.js:8
+a.onEvent @ all_part_2.js:8
+c.emit @ all_part_2.js:8
+f.trigger @ all_part_2.js:8
+a.loadSource @ all_part_2.js:8
+initialize @ all_part_2.js:8
+(anonymous) @ all_part_2.js:8
+createFacade @ all_part_2.js:8
+createContentFacade @ all_part_2.js:8
+loadVideoAndBeginPlayback @ all_part_2.js:8
+(anonymous) @ all_part_2.js:8
+rpDataLoadCB @ all_part_2.js:8
+loadData @ all_part_2.js:8
+_loadNextRP @ all_part_2.js:8
+onResourceAddRequest @ all_part_2.js:8
+dispatchEvent @ all_part_2.js:8
+addResourcesToPlaylist @ all_part_2.js:8
+(anonymous) @ all_uvpjs_9.js:854
+setTimeout (async)
+loadAndPlay @ all_uvpjs_9.js:850
+(anonymous) @ all_uvpjs_9.js:935
+onPreviewButton @ all_part_2.js:8
+loadOrWatch @ all_uvpjs_9.js:887
+play @ all_uvpjs_9.js:1154
+play @ all_apiInterfaceManager_25.js:89
+(anonymous) @ all_apiInterfaceManager_25.js:464
+triggerEvents @ all_part_1.js:1919
+triggerApi @ all_part_1.js:1906
+eventsApi @ all_part_1.js:1704
+Events.trigger @ all_part_1.js:1895
+play @ all_player_30.js:641
+triggerPlay @ all_player_30.js:664
+autoplay @ all_player_30.js:688
+(anonymous) @ all_player_30.js:453
+setTimeout (async)
+(anonymous) @ all_player_30.js:452
+triggerEvents @ all_part_1.js:1917
+triggerApi @ all_part_1.js:1905
+eventsApi @ all_part_1.js:1704
+Events.trigger @ all_part_1.js:1895
+PlayerApiInterfaceManagerReadyHandler @ all_init_33.js:1098
+(anonymous) @ all_part_1.js:1877
+(anonymous) @ all_part_1.js:890
+triggerEvents @ all_part_1.js:1917
+triggerApi @ all_part_1.js:1905
+eventsApi @ all_part_1.js:1704
+Events.trigger @ all_part_1.js:1895
+(anonymous) @ all_uvpjs_9.js:163
+onVCIReady @ all_part_2.js:8
+onDOMReady @ all_part_2.js:8
+_setupDOM @ all_part_2.js:8
+initialize @ all_part_2.js:8
+handleCviMgrReady @ all_part_2.js:8
+finishInit @ all_part_2.js:8
+createPlugins @ all_part_2.js:8
+initialize @ all_part_2.js:8
+setTimeout (async)
+init @ all_part_2.js:8
+d @ all_part_2.js:8
+initialize @ all_part_2.js:8
+createMultipleVideoPlayers @ all_part_2.js:8
+createVideoPlayer @ all_part_2.js:8
+createCbsiVideoPlayer @ all_uvpjs_9.js:151
+(anonymous) @ all_uvpjs_9.js:295
+onAutoplayCheckComplete @ all_part_2.js:8
+(anonymous) @ all_part_2.js:8
+setTimeout (async)
+finishCheck @ all_part_2.js:8
+Promise.then (async)
+checkUnmutedAutoplay @ all_part_2.js:8
+detectCapabilities @ all_part_2.js:8
+init @ all_part_2.js:8
+d @ all_part_2.js:8
+determineAutoplayCapabilities @ all_part_2.js:8
+checkAutoplay @ all_part_2.js:8
+onSdkLoadManagerReady @ all_part_2.js:8
+handleAllLoadResults @ all_part_2.js:8
+d @ all_part_2.js:8
+_onScriptLoaded @ all_part_2.js:8
+d @ all_part_2.js:8
+e.onreadystatechange.e.onload @ all_part_2.js:8
+load (async)
+_getScript @ all_part_2.js:8
+loadScript @ all_part_2.js:8
+(anonymous) @ all_part_2.js:8
+d @ all_part_2.js:8
+_onScriptLoaded @ all_part_2.js:8
+d @ all_part_2.js:8
+e.onreadystatechange.e.onload @ all_part_2.js:8
+load (async)
+_getScript @ all_part_2.js:8
+loadScript @ all_part_2.js:8
+(anonymous) @ all_part_2.js:8
+d @ all_part_2.js:8
+_onScriptLoaded @ all_part_2.js:8
+d @ all_part_2.js:8
+e.onreadystatechange.e.onload @ all_part_2.js:8
+load (async)
+_getScript @ all_part_2.js:8
+loadScript @ all_part_2.js:8
+(anonymous) @ all_part_2.js:8
+d @ all_part_2.js:8
+_onScriptLoaded @ all_part_2.js:8
+d @ all_part_2.js:8
+e.onreadystatechange.e.onload @ all_part_2.js:8
+load (async)
+_getScript @ all_part_2.js:8
+loadScript @ all_part_2.js:8
+(anonymous) @ all_part_2.js:8
+bulkLoad @ all_part_2.js:8
+init @ all_part_2.js:8
+d @ all_part_2.js:8
+onCongfigMgrReady @ all_part_2.js:8
+loadConfig @ all_part_2.js:8
+loadConfig @ all_part_2.js:8
+init @ all_part_2.js:8
+d @ all_part_2.js:8
+a.ConfigManager.getInstance @ all_part_2.js:8
+initialize @ all_part_2.js:8
+initApi @ all_uvpjs_9.js:261
+initialize @ all_uvpjs_9.js:1083
+Backbone.View @ all_part_1.js:2741
+child @ all_part_1.js:3401
+child @ all_part_1.js:3401
+(anonymous) @ all_apiInterfaceManager_25.js:302
+each @ jquery.js:605
+initializePlayerApis @ all_apiInterfaceManager_25.js:285
+initialize @ all_apiInterfaceManager_25.js:452
+Backbone.View @ all_part_1.js:2741
+child @ all_part_1.js:3401
+initApiInterfaceManager @ all_init_33.js:282
+initAllComponents @ all_init_33.js:246
+initPlayer @ all_init_33.js:742
+(anonymous) @ all_init_33.js:1084
+each @ jquery.js:611
+each @ jquery.js:241
+initPlayers @ all_init_33.js:1071
+initOnReady @ all_init_33.js:1127
+trackingInitializedHandler @ all_init_33.js:1133
+(anonymous) @ all_init_33.js:1164
+fn @ jquery.js:3529
+dispatch @ jquery.js:3058
+eventHandle @ jquery.js:2676
+trigger @ jquery.js:2941
+(anonymous) @ jquery.js:3599
+each @ jquery.js:611
+each @ jquery.js:241
+trigger @ jquery.js:3598
+initTracking @ tracking_tracking_8.js:1006
+(anonymous) @ tracking_tracking_8.js:1098
+thirdPartyCallback @ ?debug_video_player=1:56
+(anonymous) @ tracking_tracking_8.js:1097
+supplyBundleData @ all_postRender_63.js:238
+(anonymous) @ all_postRender_63.js:196
+_broadcastResult @ all_postRender_63.js:192
+(anonymous) @ all_postRender_63.js:177
+success @ all_AjaxApiRequest_61.js:274
+fire @ jquery.js:974
+fireWith @ jquery.js:1084
+done @ jquery.js:7803
+callback @ jquery.js:8518
+XMLHttpRequest.send (async)
+send @ jquery.js:8434
+ajax @ jquery.js:7986
+makeRequest @ all_AjaxApiRequest_61.js:259
+makePostApiRequest @ all_AjaxApiRequest_61.js:82
+executePostRender @ all_postRender_63.js:156
+(anonymous) @ all_postRender_63.js:211
+fire @ jquery.js:974
+fireWith @ jquery.js:1084
+ready @ jquery.js:406
+DOMContentLoaded @ jquery.js:83
+all_debugLogger_6.js:262 [VP] [API-UVPJS] videoPlaybackError eventData:  {"type":"videoPlaybackError","payload":{"errorInfo":{"errorCode":3005,"eventType":"videoPlaybackError","isFatal":false,"imaErrorCode":null,"imaVastErrorCode":null,"message":"An HLSJS network error occurred: fragLoadError","adInfo":null,"serverCode":null,"hlsjsErrorCode":null}},"target":"js-vid-player-uvpjs212137422"}
+all_part_2.js:8 
+a.loadInternal @ all_part_2.js:8
+a.load @ all_part_2.js:8
+b.onFragLoading @ all_part_2.js:8
+a.onEventGeneric @ all_part_2.js:8
+a.onEvent @ all_part_2.js:8
+c.emit @ all_part_2.js:8
+f.trigger @ all_part_2.js:8
+b._loadFragmentOrKey @ all_part_2.js:8
+b._fetchPayloadOrEos @ all_part_2.js:8
+b._doTickIdle @ all_part_2.js:8
+b.doTick @ all_part_2.js:8
+b.tick @ all_part_2.js:8
+setInterval (async)
+b.startLoad @ all_part_2.js:8
+(anonymous) @ all_part_2.js:8
+a.startLoad @ all_part_2.js:8
+onLibraryEvent @ all_part_2.js:8
+c.emit @ all_part_2.js:8
+f.trigger @ all_part_2.js:8
+b.loadsuccess @ all_part_2.js:8
+a.readystatechange @ all_part_2.js:8
+XMLHttpRequest.send (async)
+a.loadInternal @ all_part_2.js:8
+a.load @ all_part_2.js:8
+b.load @ all_part_2.js:8
+b.onManifestLoading @ all_part_2.js:8
+a.onEventGeneric @ all_part_2.js:8
+a.onEvent @ all_part_2.js:8
+c.emit @ all_part_2.js:8
+f.trigger @ all_part_2.js:8
+a.loadSource @ all_part_2.js:8
+initialize @ all_part_2.js:8
+(anonymous) @ all_part_2.js:8
+createFacade @ all_part_2.js:8
+createContentFacade @ all_part_2.js:8
+loadVideoAndBeginPlayback @ all_part_2.js:8
+(anonymous) @ all_part_2.js:8
+rpDataLoadCB @ all_part_2.js:8
+loadData @ all_part_2.js:8
+_loadNextRP @ all_part_2.js:8
+onResourceAddRequest @ all_part_2.js:8
+dispatchEvent @ all_part_2.js:8
+addResourcesToPlaylist @ all_part_2.js:8
+(anonymous) @ all_uvpjs_9.js:854
+setTimeout (async)
+loadAndPlay @ all_uvpjs_9.js:850
+(anonymous) @ all_uvpjs_9.js:935
+onPreviewButton @ all_part_2.js:8
+loadOrWatch @ all_uvpjs_9.js:887
+play @ all_uvpjs_9.js:1154
+play @ all_apiInterfaceManager_25.js:89
+(anonymous) @ all_apiInterfaceManager_25.js:464
+triggerEvents @ all_part_1.js:1919
+triggerApi @ all_part_1.js:1906
+eventsApi @ all_part_1.js:1704
+Events.trigger @ all_part_1.js:1895
+play @ all_player_30.js:641
+triggerPlay @ all_player_30.js:664
+autoplay @ all_player_30.js:688
+(anonymous) @ all_player_30.js:453
+setTimeout (async)
+(anonymous) @ all_player_30.js:452
+triggerEvents @ all_part_1.js:1917
+triggerApi @ all_part_1.js:1905
+eventsApi @ all_part_1.js:1704
+Events.trigger @ all_part_1.js:1895
+PlayerApiInterfaceManagerReadyHandler @ all_init_33.js:1098
+(anonymous) @ all_part_1.js:1877
+(anonymous) @ all_part_1.js:890
+triggerEvents @ all_part_1.js:1917
+triggerApi @ all_part_1.js:1905
+eventsApi @ all_part_1.js:1704
+Events.trigger @ all_part_1.js:1895
+(anonymous) @ all_uvpjs_9.js:163
+onVCIReady @ all_part_2.js:8
+onDOMReady @ all_part_2.js:8
+_setupDOM @ all_part_2.js:8
+initialize @ all_part_2.js:8
+handleCviMgrReady @ all_part_2.js:8
+finishInit @ all_part_2.js:8
+createPlugins @ all_part_2.js:8
+initialize @ all_part_2.js:8
+setTimeout (async)
+init @ all_part_2.js:8
+d @ all_part_2.js:8
+initialize @ all_part_2.js:8
+createMultipleVideoPlayers @ all_part_2.js:8
+createVideoPlayer @ all_part_2.js:8
+createCbsiVideoPlayer @ all_uvpjs_9.js:151
+(anonymous) @ all_uvpjs_9.js:295
+onAutoplayCheckComplete @ all_part_2.js:8
+(anonymous) @ all_part_2.js:8
+setTimeout (async)
+finishCheck @ all_part_2.js:8
+Promise.then (async)
+checkUnmutedAutoplay @ all_part_2.js:8
+detectCapabilities @ all_part_2.js:8
+init @ all_part_2.js:8
+d @ all_part_2.js:8
+determineAutoplayCapabilities @ all_part_2.js:8
+checkAutoplay @ all_part_2.js:8
+onSdkLoadManagerReady @ all_part_2.js:8
+handleAllLoadResults @ all_part_2.js:8
+d @ all_part_2.js:8
+_onScriptLoaded @ all_part_2.js:8
+d @ all_part_2.js:8
+e.onreadystatechange.e.onload @ all_part_2.js:8
+load (async)
+_getScript @ all_part_2.js:8
+loadScript @ all_part_2.js:8
+(anonymous) @ all_part_2.js:8
+d @ all_part_2.js:8
+_onScriptLoaded @ all_part_2.js:8
+d @ all_part_2.js:8
+e.onreadystatechange.e.onload @ all_part_2.js:8
+load (async)
+_getScript @ all_part_2.js:8
+loadScript @ all_part_2.js:8
+(anonymous) @ all_part_2.js:8
+d @ all_part_2.js:8
+_onScriptLoaded @ all_part_2.js:8
+d @ all_part_2.js:8
+e.onreadystatechange.e.onload @ all_part_2.js:8
+load (async)
+_getScript @ all_part_2.js:8
+loadScript @ all_part_2.js:8
+(anonymous) @ all_part_2.js:8
+d @ all_part_2.js:8
+_onScriptLoaded @ all_part_2.js:8
+d @ all_part_2.js:8
+e.onreadystatechange.e.onload @ all_part_2.js:8
+load (async)
+_getScript @ all_part_2.js:8
+loadScript @ all_part_2.js:8
+(anonymous) @ all_part_2.js:8
+bulkLoad @ all_part_2.js:8
+init @ all_part_2.js:8
+d @ all_part_2.js:8
+onCongfigMgrReady @ all_part_2.js:8
+loadConfig @ all_part_2.js:8
+loadConfig @ all_part_2.js:8
+init @ all_part_2.js:8
+d @ all_part_2.js:8
+a.ConfigManager.getInstance @ all_part_2.js:8
+initialize @ all_part_2.js:8
+initApi @ all_uvpjs_9.js:261
+initialize @ all_uvpjs_9.js:1083
+Backbone.View @ all_part_1.js:2741
+child @ all_part_1.js:3401
+child @ all_part_1.js:3401
+(anonymous) @ all_apiInterfaceManager_25.js:302
+each @ jquery.js:605
+initializePlayerApis @ all_apiInterfaceManager_25.js:285
+initialize @ all_apiInterfaceManager_25.js:452
+Backbone.View @ all_part_1.js:2741
+child @ all_part_1.js:3401
+initApiInterfaceManager @ all_init_33.js:282
+initAllComponents @ all_init_33.js:246
+initPlayer @ all_init_33.js:742
+(anonymous) @ all_init_33.js:1084
+each @ jquery.js:611
+each @ jquery.js:241
+initPlayers @ all_init_33.js:1071
+initOnReady @ all_init_33.js:1127
+trackingInitializedHandler @ all_init_33.js:1133
+(anonymous) @ all_init_33.js:1164
+fn @ jquery.js:3529
+dispatch @ jquery.js:3058
+eventHandle @ jquery.js:2676
+trigger @ jquery.js:2941
+(anonymous) @ jquery.js:3599
+each @ jquery.js:611
+each @ jquery.js:241
+trigger @ jquery.js:3598
+initTracking @ tracking_tracking_8.js:1006
+(anonymous) @ tracking_tracking_8.js:1098
+thirdPartyCallback @ ?debug_video_player=1:56
+(anonymous) @ tracking_tracking_8.js:1097
+supplyBundleData @ all_postRender_63.js:238
+(anonymous) @ all_postRender_63.js:196
+_broadcastResult @ all_postRender_63.js:192
+(anonymous) @ all_postRender_63.js:177
+success @ all_AjaxApiRequest_61.js:274
+fire @ jquery.js:974
+fireWith @ jquery.js:1084
+done @ jquery.js:7803
+callback @ jquery.js:8518
+XMLHttpRequest.send (async)
+send @ jquery.js:8434
+ajax @ jquery.js:7986
+makeRequest @ all_AjaxApiRequest_61.js:259
+makePostApiRequest @ all_AjaxApiRequest_61.js:82
+executePostRender @ all_postRender_63.js:156
+(anonymous) @ all_postRender_63.js:211
+fire @ jquery.js:974
+fireWith @ jquery.js:1084
+ready @ jquery.js:406
+DOMContentLoaded @ jquery.js:83
+all_debugLogger_6.js:262 [VP] [API-UVPJS] videoPlaybackError eventData:  {"type":"videoPlaybackError","payload":{"errorInfo":{"errorCode":3005,"eventType":"videoPlaybackError","isFatal":false,"imaErrorCode":null,"imaVastErrorCode":null,"message":"An HLSJS network error occurred: fragLoadError","adInfo":null,"serverCode":null,"hlsjsErrorCode":null}},"target":"js-vid-player-uvpjs212137422"}
